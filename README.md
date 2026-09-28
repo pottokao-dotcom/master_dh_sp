@@ -5,7 +5,7 @@ cards), per-DiT engine notes (`03_engines/`), the ComfyUI node and packer (`04_n
 wrote the training data (`07_teacher/`), LoRA training (`08_train/`) and the README showcase tools (`tools/`, `examples/`).
 
 - The shipped subset is **Master Style Essentials** (20 cards, `ship_cards.txt`, built by `04_node/pack.py`).
-- It runs inside [ComfyUI-DualHeadDragon](https://github.com/pottokao-dotcom/ComfyUI-DualHeadDragon): one GGUF is both
+- It runs inside [ComfyUI-DualHeadDragon](https://github.com/pottokao-dotcom/ComfyUI-DualHead-Dragon): one GGUF is both
   the DiT's text encoder and the prompt enhancer, with the master LoRA
   ([4B](https://huggingface.co/pottokao/zeng-v6_master-pe_lora_v4.1-r32-ep2_20260928) /
   [8B](https://huggingface.co/pottokao/qwen3vl-8b-heretic_master-pe_lora_v4.1-r32-ep2_20260928)).
