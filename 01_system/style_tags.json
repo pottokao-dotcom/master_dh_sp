@@ -1,0 +1,536 @@
+[
+ {
+  "tag": "master_style00",
+  "code": "pe-default",
+  "label_zh": "PE T2I 預設（無風格）",
+  "ported": true
+ },
+ {
+  "tag": "master_style01",
+  "code": "large-format-mid",
+  "label_zh": "巨幅冷調俯瞰系統",
+  "ported": true
+ },
+ {
+  "tag": "master_style02",
+  "code": "vast-elevated-system-patterns-late",
+  "label_zh": "極遠俯瞰抽象色場",
+  "ported": true
+ },
+ {
+  "tag": "master_style03",
+  "code": "god-eye-systems-early",
+  "label_zh": "等距冷靜重複全景",
+  "ported": true
+ },
+ {
+  "tag": "master_style04",
+  "code": "bw-flat-frontal-industrial",
+  "label_zh": "工業孤影黑白",
+  "ported": true
+ },
+ {
+  "tag": "master_style05",
+  "code": "symmetric-empty-grand-interiors",
+  "label_zh": "宏偉對稱空曠室內",
+  "ported": true
+ },
+ {
+  "tag": "master_style06",
+  "code": "grainy-bw-headless-surrealism",
+  "label_zh": "黑白無頭荒誕",
+  "ported": true
+ },
+ {
+  "tag": "master_style07",
+  "code": "raw-bw-street-documentary",
+  "label_zh": "黑白市井貼身紀實",
+  "ported": true
+ },
+ {
+  "tag": "master_style08",
+  "code": "futuristic-chinese-fashion",
+  "label_zh": "瓷肌鮮色未來中式",
+  "ported": true
+ },
+ {
+  "tag": "master_style09",
+  "code": "grainy-bw-street-snapshot",
+  "label_zh": "雨夜粗粒晃拍黑白",
+  "ported": true
+ },
+ {
+  "tag": "master_style10",
+  "code": "vintage-bw-elegant-candid",
+  "label_zh": "黑白雅致日常抓拍",
+  "ported": true
+ },
+ {
+  "tag": "master_style11",
+  "code": "square-bw-portrait-flash",
+  "label_zh": "方框黑白直視閃光",
+  "ported": true
+ },
+ {
+  "tag": "master_style12",
+  "code": "butoh-strain-bw-portraits",
+  "label_zh": "扭曲肉身黑白劇",
+  "ported": true
+ },
+ {
+  "tag": "master_style13",
+  "code": "bw-dramatic-chiaroscuro",
+  "label_zh": "黑白光束剪影",
+  "ported": true
+ },
+ {
+  "tag": "master_style14",
+  "code": "cinematic-suburban-blue-hour",
+  "label_zh": "暮光電影感凝結場景",
+  "ported": true
+ },
+ {
+  "tag": "master_style15",
+  "code": "high-gloss-noir-glamour",
+  "label_zh": "冷冽奢華高反差",
+  "ported": true
+ },
+ {
+  "tag": "master_style16",
+  "code": "bw-geometric-street-candid",
+  "label_zh": "黑白街頭幾何瞬間",
+  "ported": true
+ },
+ {
+  "tag": "master_style17",
+  "code": "soft-warm-nostalgic",
+  "label_zh": "暖調柔光底片日常",
+  "ported": true
+ },
+ {
+  "tag": "master_style18",
+  "code": "plain-wall-frontal-portrait",
+  "label_zh": "素牆正面黑白人像",
+  "ported": true
+ },
+ {
+  "tag": "master_style19",
+  "code": "bw-minimal-metaphysical-void",
+  "label_zh": "極簡靜謐黑白長曝",
+  "ported": true
+ },
+ {
+  "tag": "master_style20",
+  "code": "refined-minimalist-studio-portrait",
+  "label_zh": "灰底精簡柔光人像",
+  "ported": true
+ },
+ {
+  "tag": "master_style21",
+  "code": "intimate-tactile-close-up",
+  "label_zh": "親密觸感特寫",
+  "ported": true
+ },
+ {
+  "tag": "master_style22",
+  "code": "bw-warm-humanist-documentary",
+  "label_zh": "鄉野黑白溫厚紀實",
+  "ported": true
+ },
+ {
+  "tag": "master_style23",
+  "code": "bw-everyday-japan-snap",
+  "label_zh": "日常趣味黑白即拍",
+  "ported": true
+ },
+ {
+  "tag": "master_style24",
+  "code": "rigorous-bw-realism",
+  "label_zh": "黑白嚴峻寫實",
+  "ported": true
+ },
+ {
+  "tag": "master_style25",
+  "code": "warm-tungsten-chiaroscuro-intimacy",
+  "label_zh": "暖調單光陰影",
+  "ported": true
+ },
+ {
+  "tag": "master_style26",
+  "code": "warm-desert-natural-light",
+  "label_zh": "暖陽沙漠裸體",
+  "ported": true
+ },
+ {
+  "tag": "master_style27",
+  "code": "minimalist-color-landscapes",
+  "label_zh": "極簡色塊靜謐風景",
+  "ported": true
+ },
+ {
+  "tag": "master_style28",
+  "code": "sharp-deep-focus-bw-mid",
+  "label_zh": "黑白反射層疊街景",
+  "ported": true
+ },
+ {
+  "tag": "master_style29",
+  "code": "deep-focus-bw-street-late",
+  "label_zh": "黑白框中框枝椏雜景",
+  "ported": true
+ },
+ {
+  "tag": "master_style30",
+  "code": "deep-focus-bw-street-early",
+  "label_zh": "深焦黑白街頭錯位",
+  "ported": true
+ },
+ {
+  "tag": "master_style31",
+  "code": "bw-ink-wash-landscape",
+  "label_zh": "水墨留白銀鹽山水",
+  "ported": true
+ },
+ {
+  "tag": "master_style32",
+  "code": "bleak-grainy-bw-ravens",
+  "label_zh": "北國蒼穹寒鴉",
+  "ported": true
+ },
+ {
+  "tag": "master_style33",
+  "code": "lush-theatrical-botanicals",
+  "label_zh": "飽和濕潤繁花實景",
+  "ported": true
+ },
+ {
+  "tag": "master_style34",
+  "code": "flash-lit-intimate-portraits-mid",
+  "label_zh": "直閃濃豔私房人像",
+  "ported": true
+ },
+ {
+  "tag": "master_style35",
+  "code": "flat-flash-intimate-portrait-late",
+  "label_zh": "直閃靜物缺席餘影",
+  "ported": true
+ },
+ {
+  "tag": "master_style36",
+  "code": "direct-flash-indoor-portrait-early",
+  "label_zh": "貼身歪斜直閃快照",
+  "ported": true
+ },
+ {
+  "tag": "master_style37",
+  "code": "fleshy-flower-direct-flash",
+  "label_zh": "濕潤肉感特寫",
+  "ported": true
+ },
+ {
+  "tag": "master_style38",
+  "code": "flash-lit-roped-woman",
+  "label_zh": "繩縛儀式直閃濃紅",
+  "ported": true
+ },
+ {
+  "tag": "master_style39",
+  "code": "flash-lit-intimate-diary",
+  "label_zh": "私日記直閃親密",
+  "ported": true
+ },
+ {
+  "tag": "master_style40",
+  "code": "flash-outdoor-intimate-snapshot",
+  "label_zh": "戶外直閃街頭日記",
+  "ported": true
+ },
+ {
+  "tag": "master_style41",
+  "code": "raw-bw-cinematic-portraits",
+  "label_zh": "粗粒黑白寫真",
+  "ported": true
+ },
+ {
+  "tag": "master_style42",
+  "code": "flash-lit-red-accent",
+  "label_zh": "白牆紅物硬閃直拍",
+  "ported": true
+ },
+ {
+  "tag": "master_style43",
+  "code": "isolated-bw-portraits",
+  "label_zh": "白底黑白人像",
+  "ported": true
+ },
+ {
+  "tag": "master_style44",
+  "code": "dreamy-soft-nature-macro",
+  "label_zh": "柔光淡彩夢幻微距",
+  "ported": true
+ },
+ {
+  "tag": "master_style45",
+  "code": "haunting-wet-plate-children",
+  "label_zh": "濕版瑕疵幽夢",
+  "ported": true
+ },
+ {
+  "tag": "master_style46",
+  "code": "rainy-window-abstract-portrait",
+  "label_zh": "暖色雨窗街影",
+  "ported": true
+ },
+ {
+  "tag": "master_style47",
+  "code": "bw-epic-chiaroscuro",
+  "label_zh": "黑白壯闊光影",
+  "ported": true
+ },
+ {
+  "tag": "master_style48",
+  "code": "frontal-neon-stage-trucks",
+  "label_zh": "霓虹孤光暮色正面",
+  "ported": true
+ },
+ {
+  "tag": "master_style49",
+  "code": "surreal-staged-monochrome",
+  "label_zh": "蒼藍虛無置景",
+  "ported": true
+ },
+ {
+  "tag": "master_style50",
+  "code": "grainy-postwar-bw-surrealism",
+  "label_zh": "新舊撞擊粗粒黑白",
+  "ported": true
+ },
+ {
+  "tag": "master_style51",
+  "code": "bw-frontal-perspective",
+  "label_zh": "黑白都市縱深",
+  "ported": true
+ },
+ {
+  "tag": "master_style52",
+  "code": "whimsical-fairytale-fashion",
+  "label_zh": "童話劇院奇幻時裝",
+  "ported": true
+ },
+ {
+  "tag": "master_style53",
+  "code": "saturated-banal-monumental",
+  "label_zh": "俗物飽色巨像",
+  "ported": true
+ },
+ {
+  "tag": "master_style54",
+  "code": "gaudy-staged-kitsch-portraits",
+  "label_zh": "絢爛俗艷偽景人像",
+  "ported": true
+ },
+ {
+  "tag": "master_style55",
+  "code": "faceless-surreal-youth",
+  "label_zh": "無臉仰角青空怪趣擺拍",
+  "ported": true
+ },
+ {
+  "tag": "master_style56",
+  "code": "faceless-youthful-staged-poses",
+  "label_zh": "無臉柔夢俏皮擺拍",
+  "ported": true
+ },
+ {
+  "tag": "master_style57",
+  "code": "surreal-saturated-fashion-narrative",
+  "label_zh": "超飽和切腿懸疑時尚",
+  "ported": true
+ },
+ {
+  "tag": "master_style58",
+  "code": "ghostly-long-exposure-polaroid",
+  "label_zh": "長曝拍立得幽光人像",
+  "ported": true
+ },
+ {
+  "tag": "master_style59",
+  "code": "deadpan-flash-anti-glamour",
+  "label_zh": "硬閃反精緻冷面時尚",
+  "ported": true
+ },
+ {
+  "tag": "master_style60",
+  "code": "graphic-shadow-colour-block",
+  "label_zh": "強影色塊抽象身體",
+  "ported": true
+ },
+ {
+  "tag": "master_style61",
+  "code": "faded-grainy-melancholy-fashion",
+  "label_zh": "褪色粗粒幽夢時尚",
+  "ported": true
+ },
+ {
+  "tag": "master_style62",
+  "code": "hyper-saturated-cinematic-unease",
+  "label_zh": "超飽和電影感不安",
+  "ported": true
+ },
+ {
+  "tag": "master_style63",
+  "code": "swiss-international-style",
+  "label_zh": "瑞士國際主義平面設計",
+  "ported": true
+ },
+ {
+  "tag": "master_style64",
+  "code": "van_gogh_style",
+  "label_zh": "梵谷筆觸 (van_gogh_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style65",
+  "code": "rembrandt_style",
+  "label_zh": "林布蘭光影 (rembrandt_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style66",
+  "code": "vermeer_style",
+  "label_zh": "維梅爾窗光靜謐 (vermeer_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style67",
+  "code": "klimt_style",
+  "label_zh": "克林姆金箔裝飾 (klimt_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style68",
+  "code": "cezanne_style",
+  "label_zh": "塞尚色塊建構 (cezanne_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style69",
+  "code": "monet_style",
+  "label_zh": "莫內印象光色 (monet_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style70",
+  "code": "seurat_style",
+  "label_zh": "秀拉點描 (seurat_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style71",
+  "code": "turner_style",
+  "label_zh": "透納大氣光霧 (turner_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style72",
+  "code": "sargent_watercolor_style",
+  "label_zh": "沙金特爽利水彩 (sargent_watercolor_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style73",
+  "code": "degas_style",
+  "label_zh": "竇加粉彩舞台 (degas_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style74",
+  "code": "hokusai_style",
+  "label_zh": "北齋浮世繪木刻 (hokusai_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style75",
+  "code": "durer_style",
+  "label_zh": "杜勒銅版線刻 (durer_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style76",
+  "code": "schiele_style",
+  "label_zh": "席勒表現線條 (schiele_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style77",
+  "code": "bada_shanren_style",
+  "label_zh": "八大山人寫意水墨 (bada_shanren_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style78",
+  "code": "song_huizong_style",
+  "label_zh": "宋徽宗瘦金工筆 (song_huizong_style)",
+  "ported": true
+ },
+ {
+  "tag": "master_style79",
+  "code": "russian-constructivism",
+  "label_zh": "俄國構成主義 (Constructivism)",
+  "ported": true
+ },
+ {
+  "tag": "master_style80",
+  "code": "art-nouveau",
+  "label_zh": "新藝術 (Art Nouveau)",
+  "ported": true
+ },
+ {
+  "tag": "master_style81",
+  "code": "art-deco-travel-poster",
+  "label_zh": "裝飾藝術旅遊海報 (Art Deco)",
+  "ported": true
+ },
+ {
+  "tag": "master_style82",
+  "code": "pop-art",
+  "label_zh": "普普藝術 (Pop Art)",
+  "ported": true
+ },
+ {
+  "tag": "master_style83",
+  "code": "bauhaus",
+  "label_zh": "包浩斯 (Bauhaus)",
+  "ported": true
+ },
+ {
+  "tag": "master_style84",
+  "code": "polish-poster-school",
+  "label_zh": "波蘭海報學派 (Polish Poster School)",
+  "ported": true
+ },
+ {
+  "tag": "master_style85",
+  "code": "psychedelic-60s-poster",
+  "label_zh": "六零年代迷幻海報 (Psychedelic)",
+  "ported": true
+ },
+ {
+  "tag": "master_style86",
+  "code": "jazz-typographic-album-cover",
+  "label_zh": "爵士字體唱片封面 (jazz typographic cover)",
+  "ported": true
+ },
+ {
+  "tag": "master_style87",
+  "code": "cut-paper-film-poster",
+  "label_zh": "剪紙極簡電影海報 (cut-paper film poster)",
+  "ported": true
+ },
+ {
+  "tag": "master_style88",
+  "code": "japanese-modernist-geometric",
+  "label_zh": "日式現代幾何平面 (Japanese modernist graphic)",
+  "ported": true
+ }
+]

@@ -1,0 +1,32 @@
+code: rainy-window-abstract-portrait
+label_zh: 暖色雨窗街影
+aspect: '2:3'
+palette: colour
+exceptions: [obscured, blur]
+look_paragraph: >
+  A painterly colour photograph seen through rain-streaked or fogged glass: condensation, beads of
+  water and soft reflections lie between the camera and the scene. A long lens compresses the
+  layers flat, and a dark foreground shape — an awning, a window frame, a blurred silhouette of
+  whatever is nearest — covers a broad part of the frame, leaving the subject as an off-centre
+  fragment half-glimpsed beyond. The colour is muted and warm, soft vintage film tones with deep
+  reds and ambers glowing against grey and green, low contrast and gentle focus. The gaze is
+  patient and unhurried; beauty waits in what is partly hidden.
+signature_lead: A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond.
+signature_close: Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse.
+mood:
+  default: medium
+  weak: a calm, gentle quiet
+  medium: oblique contemplative humility, the world half-veiled
+  strong: deeply withheld and abstract, beauty dissolved into restraint
+framing:
+  native: neutral
+  close: tight on a fragment seen behind glass
+  wide: an off-centre fragment with a large foreground obstruction and veiled space
+habitual_subjects: >
+  city streets in rain and snow, umbrellas, fogged shop windows, steam from vents, passers-by
+  glimpsed through glass, taxis, awnings
+presets:
+  rain: rain-streaked glass, reflections, muted melancholy
+  snow: soft snow, muffled stillness, pale warm light
+  abstract: abstract painterly blocks of colour, fragmented obstruction
+negative: sharp, clear, high contrast, saturated, clean glass, centred subject, pretty rainy street

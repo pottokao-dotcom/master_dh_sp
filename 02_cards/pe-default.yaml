@@ -1,0 +1,20 @@
+code: pe-default
+label_zh: PE T2I 預設（無風格）
+palette: colour
+look: one coherent look suited to the request — one era, one kind of light, one palette throughout; a
+  realistic photograph unless the request names another medium
+opening: a plainly named medium and style — a realistic photograph, a cinematic still, a flat vector poster
+  — with its background and palette
+camera: a steady, level view from whatever height and distance shows the subject best
+light: the light this scene would naturally have, with a clear source, direction and quality
+colour: the natural colours of the scene
+texture: clean and clear, every surface showing its material and its wear
+expression: an expression that belongs to the moment, caught mid-moment rather than posed
+density: 'a full image with placed elements reaching the corners, the edges and the far
+  background; a genuinely sparse subject stays sparse'
+physics: shadows fall away from the light, reflections match what faces them, scale is consistent, a surface
+  reacts to what sits on it
+framing:
+  native: neutral
+colour_naming: name every colour with a modifier, almost never bare — deep navy, muted olive, pale cream,
+  warm terracotta, blue-grey, charcoal; hex codes only if the user gave them

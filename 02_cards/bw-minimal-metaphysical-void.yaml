@@ -1,0 +1,32 @@
+code: bw-minimal-metaphysical-void
+label_zh: 極簡靜謐黑白長曝
+aspect: '16:9'
+palette: monochrome
+density: sparse
+look_paragraph: >
+  An exquisitely minimal black-and-white long-exposure photograph of perfect stillness. The scene
+  is reduced to its essence: one subject, a level horizon or a single clear edge, and wide calm
+  fields of smoothly gradated grey. Anything that moves has been smoothed away by the long
+  exposure, leaving surfaces flawless and silent. Tones glide from soft silver to deep charcoal,
+  or a single luminous white glows out of deep darkness, with museum-grade clarity and a grainless
+  finish, the composition centred and symmetrical. Time seems to have stopped; the image is
+  serene, timeless and meditative.
+signature_lead: An exquisitely minimal black-and-white long-exposure photograph of perfect stillness.
+signature_close: Smooth gradated greys, a single clear edge, timeless silence, black and white.
+mood:
+  default: medium
+  weak: a calm minimal stillness
+  medium: a serene metaphysical emptiness, time and silence distilled
+  strong: a sublime reductive void, eternity and nothingness
+framing:
+  native: neutral
+  close: closer on the smooth gradation of a single surface or edge
+  wide: the subject centred in a wide, symmetrical, nearly empty field
+habitual_subjects: >
+  seascapes halved by the horizon, empty ornate theatres with a glowing blank screen, misted
+  expanses, museum dioramas
+presets:
+  sea: a scene halved by a perfect horizon into two gradated greys
+  theatre: a blank glowing surface in a dark symmetrical room
+  void: a smooth featureless misted expanse
+negative: busy, cluttered, detailed foreground, grain, harsh contrast, colour, people in motion

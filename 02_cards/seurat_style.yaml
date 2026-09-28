@@ -1,0 +1,27 @@
+code: seurat_style
+label_zh: "秀拉點描 (seurat_style)"
+medium: painting
+aspect: '3:2'
+palette: colour
+look_paragraph: >
+  A Pointillist painting in the style of Seurat, built entirely from countless small dots of
+  pure, unmixed colour placed side by side so they merge in the eye. Complementary dots vibrate
+  against each other — orange flecks in blue shadows, violet in green grass — and forms emerge
+  as calm, simplified silhouettes with crisp contours. Composition is carefully ordered, figures
+  stiff and still like a frieze, light even and hazy. Painted borders of darker dots sometimes
+  frame the scene. Serene, scientific and dreamlike.
+signature_lead: "A Pointillist painting in the style of Seurat, built from countless small dots of pure colour."
+signature_close: "Tiny dots of pure colour, vibrating complements, still simplified silhouettes, serene order."
+mood:
+  default: medium
+  weak: "a calm, hazy serenity"
+  medium: "an ordered, luminous stillness"
+  strong: "a strange, frozen dreamlike calm"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  Sunday afternoons in parks, riverbanks with bathers, promenading couples with parasols,
+  harbours, circus performers
+negative: "photograph, smooth brushstrokes, blended colour, thick impasto, dark shadows, digital painting, anime"

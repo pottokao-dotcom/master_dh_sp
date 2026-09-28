@@ -1,0 +1,31 @@
+code: surreal-staged-monochrome
+label_zh: 蒼藍虛無置景
+aspect: '1:1'
+palette: monochrome
+staging: surreal
+look_paragraph: >
+  A surreal, staged black-and-white photograph set in vast, bright, empty space: a pale open
+  ground meeting a wide clear sky at a low horizon. Whatever the task names is placed deadpan
+  and deliberate, like objects arranged on a stage, spaced apart with wide emptiness between
+  them. Medium-format clarity, clean contrast, dark forms crisp against the pale ground. The
+  arrangement is theatrical and dreamlike yet homemade and affectionate, playful rather than
+  cold — a private surreal theatre built with warmth and mischief.
+signature_lead: A surreal, staged black-and-white photograph, forms placed like objects in vast, bright, empty space.
+signature_close: Vast pale emptiness, a low horizon, deadpan theatrical placement, playful and dreamlike, black and white.
+mood:
+  default: medium
+  weak: a quiet, dreamlike stillness
+  medium: an impish, affectionate deadpan whimsy
+  strong: a fully surreal private theatre in an empty world
+framing:
+  native: wide
+  close: closer on the staged forms, still set against empty ground
+  wide: the subject placed deadpan in vast bright emptiness, a low horizon
+habitual_subjects: >
+  sand dunes, family members in formal dress, bowler hats, umbrellas, chairs and everyday
+  objects used as props
+presets:
+  surreal: a dreamlike arrangement floating in empty space
+  whimsy: warm impish deadpan placement
+  stillness: quiet isolation in vast emptiness
+negative: busy background, candid snapshot, colour, cluttered, dark moody, cold conceptual, ordinary group photo on a beach

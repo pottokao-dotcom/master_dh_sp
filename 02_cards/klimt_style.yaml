@@ -1,0 +1,28 @@
+code: klimt_style
+label_zh: "克林姆金箔裝飾 (klimt_style)"
+medium: painting
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+look_paragraph: >
+  A painting in the style of Klimt: flat, shimmering fields of gold leaf and ornament surround
+  naturalistically painted faces and hands. Robes, backgrounds and surfaces dissolve into mosaic
+  patterns — spirals, circles, rectangles, eyes and flowers — in gold, bronze and jewel colours,
+  flat as a Byzantine icon, while skin is soft, pale and delicately modelled. Figures press
+  close to the picture plane, embraced by pattern, the edges of body and ornament merging.
+  Sensual, decorative and dreamlike, sumptuous and melancholy at once.
+signature_lead: "A painting in the style of Klimt, shimmering gold leaf and mosaic ornament around softly painted faces."
+signature_close: "Gold leaf and mosaic pattern, jewel colours, soft pale skin, sumptuous decorative dreaming."
+mood:
+  default: medium
+  weak: "a gentle decorative glow"
+  medium: "a sumptuous, sensual golden dream"
+  strong: "an ecstatic dissolving into gold and ornament"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  embracing lovers, women in patterned robes, portraits of society women, birch forests,
+  flowering meadows, tree-of-life spirals
+negative: "photograph, realistic background, plain flat backdrop, 3D render, gritty, muted grey colour, anime"

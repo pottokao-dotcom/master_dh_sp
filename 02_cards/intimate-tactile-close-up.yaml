@@ -1,0 +1,31 @@
+code: intimate-tactile-close-up
+label_zh: 親密觸感特寫
+aspect: '3:2'
+palette: either
+look_paragraph: >
+  An intimate, softly grainy close-up photograph in which texture and trace fill the frame. The
+  camera comes near enough to feel the surface: creased skin, the fine lines of an aging hand,
+  a healed mark, frayed stitching, the sheen and wear of old cloth, a thumb-worn edge. Soft
+  window light rakes gently across, modeling every fold and pore with a quiet, gentle tonal
+  range. The subject is there in its details — a wrist, a sleeve, a hem, a handle — and the rest
+  falls away at the edges. The light lingers on each worn trace, tender and forensic, as if
+  time could be touched.
+signature_lead: An intimate, softly grainy close-up, skin and worn surfaces filling the frame in soft raking light.
+signature_close: Soft grain, raking light, worn texture and trace, tender and close.
+mood:
+  default: medium
+  weak: a quiet tactile closeness, a faint trace of wear
+  medium: the tender mark of time on skin or worn cloth
+  strong: a whole life inscribed in deep creases, healed marks and threadbare cloth
+framing:
+  native: close
+  close: an extreme close-up of skin or worn material filling the frame
+  wide: the object or figure laid out with a little space around it, details still legible
+habitual_subjects: >
+  scars on skin, wrinkled aging hands and feet, worn slips, dresses and shoes left behind by
+  the dead, a mother's belongings, faded fabric and stitching
+presets:
+  scar: a healed mark on skin, the body's tender record
+  belongings: a worn garment or object left behind, loss made touchable
+  skin: frail, creased aging skin, a hand or a foot
+negative: clean studio still life, glossy product shot, smooth retouched skin, whole-body portrait, hard flash, vivid saturated colour

@@ -1,0 +1,30 @@
+code: faded-grainy-melancholy-fashion
+label_zh: 褪色粗粒幽夢時尚
+aspect: '3:2'
+palette: either
+look_paragraph: >
+  A faded, grainy, dreamlike photograph that looks like a memory already slipping away. Contrast
+  is low and washed out, colour muted to dusty pastels or a soft sepia cast, the grain heavy and
+  the print scratched and uneven, highlights bleeding softly. People in the frame seem withdrawn
+  and languid, turned away from one another, lost in thought, as if waiting for something that
+  will not come. Spaces feel worn and abandoned — flaking walls, empty rooms, bare light through
+  dirty windows. Melancholic, hushed and haunting.
+signature_lead: A faded, grainy, dreamlike photograph in washed-out tones, like a memory slipping away.
+signature_close: Washed-out faded tones, heavy grain, soft bleeding light, a languid haunting melancholy.
+mood:
+  default: medium
+  weak: a soft, faded wistfulness
+  medium: a languid, dreamlike melancholy
+  strong: a haunting, abandoned stillness, time dissolving
+framing:
+  native: neutral
+  close: a close, soft, grainy fragment, washed out
+  wide: figures scattered through a worn, empty space, withdrawn and still
+habitual_subjects: >
+  groups of women in bathhouses, abandoned palaces and ballrooms, flaking walls, veils and long
+  dresses, empty parks
+presets:
+  memory: a faded memory slipping away
+  languid: withdrawn, languid figures waiting
+  ruin: a worn, abandoned space
+negative: crisp, glossy, saturated, bright cheerful, sharp digital, high contrast, ordinary vintage filter photo

@@ -1,0 +1,25 @@
+code: japanese-modernist-geometric
+label_zh: "日式現代幾何平面 (Japanese modernist graphic)"
+medium: design
+aspect: '3:4'
+palette: colour
+look_paragraph: >
+  A Japanese modernist graphic design of flat geometric shapes in harmonious, carefully chosen
+  colours — vermilion, indigo, ochre, pale pink, jade — arranged with calm balance and wide
+  empty space. Forms are simplified to circles, squares and arcs, sometimes composing a face, a
+  fan or a landscape abstracted to its essence. Lettering mixes clean Japanese characters and
+  Latin sans-serif in small, precise blocks. Printed flat on smooth paper with crisp edges.
+  Refined, quiet and poised between tradition and modernity.
+picture_paragraph: "The picture is abstracted into flat geometric shapes \u2014 circles, squares and arcs \u2014 in harmonious flat colours, the subject reduced to its essence."
+page_paragraph: "The page is a Japanese modernist layout of flat geometric shapes — circles, squares and arcs — in harmonious flat colours such as vermilion, indigo, ochre, pale pink and jade, arranged with calm balance and wide empty space. The picture sits within this geometry, perhaps inside a circle or a square, reproduced as it is. Lettering mixes clean Japanese characters and Latin sans-serif in small, precise blocks. Printed flat on smooth paper with crisp edges."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Japanese modernist"   # v4.1 B 組:「接下來你成為 Japanese modernist 平面設計師」
+signature_lead: "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space."
+signature_close: "Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  theatre and cultural posters, noh masks abstracted to geometry, fans and seasons, calligraphic
+  forms
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

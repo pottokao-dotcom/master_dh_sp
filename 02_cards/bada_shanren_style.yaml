@@ -1,0 +1,26 @@
+code: bada_shanren_style
+label_zh: "八大山人寫意水墨 (bada_shanren_style)"
+medium: painting
+aspect: '2:3'
+palette: monochrome
+look_paragraph: >
+  A Chinese ink painting in the style of Bada Shanren on pale rice paper, made with a few bold,
+  spontaneous strokes of wet and dry ink and vast empty space. Forms are reduced to their
+  essence: a single shape rendered in a handful of brushstrokes, ink pooling dark or breaking
+  dry and feathered at the edges. The composition is off-balance and daring, the subject set to
+  one side with vast empty paper around it, with an odd, aloof character — a creature with a
+  sidelong glare, a rock top-heavy and precarious. Austere, eccentric and profound.
+signature_lead: "A Chinese ink painting in the style of Bada Shanren, a few bold spontaneous strokes on pale rice paper, vast emptiness."
+signature_close: "A few bold ink strokes, wet and dry, vast empty paper, an austere eccentric calm, black and white."
+mood:
+  default: medium
+  weak: "a quiet, austere calm"
+  medium: "an aloof, eccentric simplicity"
+  strong: "a stark, profound solitude in a few strokes"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  birds with sidelong glaring eyes, fish, lotus, rocks, bare branches, a lone mountain, a melon
+negative: "photograph, colour, detailed realism, western painting, thick paint, busy composition, digital art, anime"

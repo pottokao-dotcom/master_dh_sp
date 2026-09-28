@@ -1,0 +1,32 @@
+code: flash-lit-intimate-diary
+label_zh: 私日記直閃親密
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+look_paragraph: >
+  A private diary snapshot on saturated consumer colour film, as if from the photographer's own
+  life. By default it is lit by a direct flash — nearest surfaces blown bright, a hard shadow
+  behind, the room falling to dark — and the camera stands possessively close, restless and
+  tender at once, bodies and things cut by the frame. When someone in the picture sleeps or
+  rests, the flash gives way to warm, low domestic light and the closeness turns rare and sweet,
+  a beloved body at rest. Deep reds, worn textures, grain; love, loss and desire in the same
+  gesture.
+signature_lead: A private diary snapshot on saturated colour film, possessively close, deep reds and worn textures.
+signature_close: A diary closeness, deep reds, soft grain, love and loss in one gesture.
+mood:
+  default: medium
+  weak: a private, tender closeness
+  medium: a possessive tenderness with an undertow of loss
+  strong: love and grief pressed into the same warm body
+framing:
+  native: close
+  close: close and intimate, a body cut by the frame
+  wide: the quiet private room around the moment
+habitual_subjects: >
+  a wife or lover asleep, a boat at dusk, a futon and kimono in private disarray, meals at home,
+  a cat
+presets:
+  asleep: someone sleeping peacefully, rare sweetness, warm low light
+  close: a possessive, tender closeness
+  wistful: a wistful, faded warmth laced with grief
+negative: detached portrait, studio lighting, posed, glamour, bright cheerful colour, cosy family snapshot

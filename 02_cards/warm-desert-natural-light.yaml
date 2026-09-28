@@ -1,0 +1,32 @@
+code: warm-desert-natural-light
+label_zh: 暖陽沙漠裸體
+aspect: '2:3'
+palette: colour
+adult_mood: true
+look_paragraph: >
+  A bright, sun-drenched natural-light photograph, warm, open and luminous, with a painterly calm.
+  Clear daylight models the subject gently, or soft diffused light from a window or shade wraps
+  it. The palette is earthen and warm — ochre, terracotta, sand — set against a deep blue sky
+  wherever the sky shows, with sun-warmed skin and fine natural film grain. The framing gives the
+  subject room to breathe within its surroundings, whole or in a close study. Anyone in the frame
+  looks calm, open and at ease in the light, and bare skin, where the task has it, is rendered
+  natural and dignified.
+signature_lead: A bright, sun-drenched natural-light photograph in warm earthy tones.
+signature_close: Bright natural sunlight, warm earth tones, a relaxed ease.
+mood:
+  default: medium
+  weak: a gentle natural ease, quietly open
+  medium: warm, healthy, unashamed ease, free in the light
+  strong: radiant freedom, fully alive in sun and earth
+framing:
+  native: neutral
+  close: a closer study of face or body, warm light on skin
+  wide: the figure free within the landscape, big sky, openness
+habitual_subjects: >
+  a young nude or semi-nude figure in a sunlit southwestern desert, adobe walls, terracotta
+  courtyards, sand and big sky, soft adobe interiors with window light
+presets:
+  sun: radiant open sun, free and at ease
+  shade: soft diffused window light, tender natural calm
+  earth: painterly harmony with ochre earth, natural and dignified
+negative: studio lighting, glossy, pin-up, coy pose, dim interior, flash, cheap gravure

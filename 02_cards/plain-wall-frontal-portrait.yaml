@@ -1,0 +1,32 @@
+code: plain-wall-frontal-portrait
+label_zh: 素牆正面黑白人像
+aspect: '3:4'
+palette: monochrome
+density: sparse
+look_paragraph: >
+  A deadpan frontal black-and-white portrait with classic fine grain and sharp, clear
+  silver-gelatin detail. The subject stands squarely facing the camera, whole and centered, in
+  front of a plain, weathered, bare wall that fills the background edge to edge. Soft even
+  daylight falls from the front with gentle shadows and a balanced tonal range. The camera sits
+  at eye level and looks straight on, unhurried, giving every worn cuff, crease, hand and odd
+  detail of dress its full weight. A person meets the lens with a direct, unguarded, deadpan
+  gaze, and the plain wall and even light treat them with quiet respect.
+signature_lead: A deadpan frontal black-and-white portrait against a plain bare wall, in soft even daylight.
+signature_close: Fine grain, even light, a plain wall, direct and whole.
+mood:
+  default: medium
+  weak: a plain quiet frontal presence
+  medium: a direct, dignified presence, particular and whole
+  strong: a weathered, singular presence given the full weight of its being
+framing:
+  native: neutral
+  close: face, gaze and hands closer against the plain wall
+  wide: the full standing figure with some wall around it
+habitual_subjects: >
+  single ordinary and eccentric people — labourers, drifters, elders, local characters in
+  distinctive worn clothes — standing before the same plain temple wall
+presets:
+  typology: one person frontal against a plain wall, deadpan
+  gaze: a direct unguarded gaze and a weathered face
+  dress: distinctive worn clothing, every crease and cuff visible
+negative: busy background, candid street scene, dramatic lighting, smiling pose, colour, shallow bokeh, ordinary passer-by snapshot

@@ -1,0 +1,31 @@
+code: flat-flash-intimate-portrait-late
+label_zh: 直閃靜物缺席餘影
+aspect: '1:1'
+palette: colour
+look_paragraph: >
+  A quiet, diary-like colour snapshot on faded consumer film, lit by a flat direct flash that
+  pops the nearest surfaces and lets the rest fall into soft dark. The pace is slow: the camera
+  lingers on traces of use — dents, marks, things set down and left where they are — as if
+  something has just left. A person in the frame seems caught on the way out, and the camera
+  rests on what they touch and leave behind. Colours are faded and warm, grain soft, the sky
+  pale where it shows. The faded light holds a calm with a wound in it, time passing in
+  stillness.
+signature_lead: A quiet, faded colour snapshot lit by a flat direct flash, lingering on traces as if something has just left.
+signature_close: Flat flash, faded warm colour, soft grain, a still calm with a wound in it.
+mood:
+  default: medium
+  weak: a quiet, faded stillness
+  medium: a wounded calm, absence heavier than presence
+  strong: a mournful stillness, everything a trace of what is gone
+framing:
+  native: neutral
+  close: close on a trace — a dent, a petal, a mark left behind
+  wide: the quiet room or balcony with space where someone was
+habitual_subjects: >
+  an empty balcony, scattered petals, a vacant chair, the sky over rooftops, a cat, flowers left
+  to wilt
+presets:
+  traces: traces of someone just gone
+  sky: a pale sky over rooftops, time passing
+  stillness: a slow still life with a wound in it
+negative: busy, energetic, posed, glamour, crisp studio light, bright cheerful colour, cosy lifestyle snapshot

@@ -1,0 +1,31 @@
+code: graphic-shadow-colour-block
+label_zh: 強影色塊抽象身體
+aspect: '4:5'
+palette: saturated
+staging: surreal
+look_paragraph: >
+  A graphic, sun-struck colour photograph in hard midday light, where deep black shadows cut
+  sharp shapes across the subject and the ground. Colour comes in bold flat blocks — painted
+  walls, cloth, sky — saturated and clean, set against the inky shadow. The camera turns bodies
+  and things into shapes: limbs folded, a face hidden by a shadow or an object, forms
+  overlapping until they read like a collage. Mirrors, painted surfaces and odd angles flatten
+  the space. Playful, enigmatic and sculptural, the everyday made abstract.
+signature_lead: A graphic colour photograph in hard midday sun, deep black shadows cutting shapes through bold colour blocks.
+signature_close: Hard sun, inky cut-out shadows, bold flat colour blocks, bodies turned into shapes.
+mood:
+  default: medium
+  weak: a bright, playful graphic calm
+  medium: an enigmatic, sculptural play of shape and shadow
+  strong: a strange, abstract collage of bodies, colour and shadow
+framing:
+  native: neutral
+  close: close on a shape made of limb, shadow and colour
+  wide: the subject as bold shapes against flat colour and hard shadow
+habitual_subjects: >
+  dark-skinned models against painted walls, folded limbs, mirrors held to faces, coloured
+  fabric, sun-baked landscapes
+presets:
+  shadow: hard shadows cutting graphic shapes
+  blocks: bold flat colour blocks
+  abstract: bodies abstracted into collage-like shapes
+negative: soft light, overcast, muted colour, cluttered, realistic snapshot, grainy, ordinary fashion photo

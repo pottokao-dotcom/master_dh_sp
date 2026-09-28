@@ -1,0 +1,27 @@
+code: vermeer_style
+label_zh: "維梅爾窗光靜謐 (vermeer_style)"
+medium: painting
+aspect: '4:5'
+palette: colour
+look_paragraph: >
+  An oil painting in the style of Vermeer: soft, cool daylight pours through a window on the
+  left and fills a quiet interior, falling evenly across walls, cloth and skin. Colours are
+  clear and luminous — ultramarine, lemon yellow, pearl white, soft grey — laid in smooth, fine
+  layers with tiny pearl-like highlights on metal, glass and fabric. Everything is composed with
+  calm geometry: a tiled floor, a table edge, a map or picture on the wall, the subject absorbed
+  in a small everyday act. Hushed, still and intimate, time suspended in light.
+signature_lead: "An oil painting in the style of Vermeer, cool window light filling a quiet interior with luminous stillness."
+signature_close: "Cool window light, luminous ultramarine and yellow, pearl highlights, a hushed suspended stillness."
+mood:
+  default: medium
+  weak: "a calm domestic quiet"
+  medium: "a hushed, absorbed stillness in cool light"
+  strong: "a timeless suspension, light itself as the subject"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  women reading letters by a window, maids pouring milk, musicians, checkered floors, maps on
+  the wall, pearl earrings
+negative: "photograph, harsh light, dramatic shadows, thick impasto, loose brushwork, saturated neon colour, clutter, anime"

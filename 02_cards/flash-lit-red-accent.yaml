@@ -1,0 +1,34 @@
+code: flash-lit-red-accent
+label_zh: 白牆紅物硬閃直拍
+aspect: '2:3'
+palette: colour
+adult_mood: true
+staging: surreal
+look_paragraph: >
+  A cheap point-and-shoot snapshot lit by a harsh direct flash: skin and surfaces flat and evenly
+  lit, luminous and slightly blown out at the nearest points, a hard black flash shadow clinging
+  to the surface right behind. The camera is close and frontal, a tight crop. Tones are bare and
+  restrained; where something cheap and red belongs in the scene, it becomes the one vivid accent.
+  Faces are blank and deadpan, mouths closed and relaxed, while any playfulness lives in how
+  bodies and things are arranged. A wall behind a figure is plain, flat and pale, with nothing on
+  it. Slight grain, lo-fi, unpolished.
+signature_lead: A raw lo-fi flash snapshot, flatly lit luminous skin and a hard shadow on the surface behind.
+signature_close: Harsh flat flash, blown luminous skin, deadpan faces, a hard shadow thrown straight behind.
+mood:
+  default: medium
+  weak: a deadpan calm with a faint undercurrent of unease
+  medium: deadpan melancholy and quiet defiance, with a playfully absurd arrangement
+  strong: a raw fragility and taboo charge pressing through the blank deadpan surface
+framing:
+  native: close
+  close: a tight snapshot crop, point-blank
+  wide: the figures set against a plain empty field, sparse and stark
+habitual_subjects: >
+  young friends nude or half-dressed against bare walls or on rooftops, bodies arranged
+  geometrically, animals held as props — a goldfish, a snake, a peacock, a cat — flowers resting
+  on the body, a fresh green leaf
+presets:
+  surreal: a playful absurdity in how things are arranged
+  lonely: isolation and fragility, a quiet emptiness around the figures
+  red accent: one cheap everyday red thing as the lone shocking accent
+negative: glossy studio lighting, soft beauty light, smiling, retouched skin, detailed room, baseboard, clean nude salon portrait, polished minimalist studio

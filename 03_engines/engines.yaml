@@ -1,0 +1,28 @@
+# 引擎段:依雙頭龍 Loader 的 type 自動接在 user 訊息最後。只放「怎麼寫」,不刪畫面內容。
+# 每條標來源:實測 / 官方 / 推測。推測的上線前要測。
+qwen_image:
+  teacher_parts_composite: {subject: eight to ten, regions: ten to twelve, layout: six to eight, lettering: four or five, light: four, comp: three}   # 複合(圖＋版面)老師專用;v4.1 多印字限兩行 → lettering 8–10→4–5 句
+  teacher_parts: {subject: twelve to fourteen, regions: twenty to twenty-two, light: five or six, comp: four}   # 老師專用:Gemma 實測平均 487 字(23 題,2026-09-27)
+  # QI2.1 · TE = Qwen3-VL-8B
+  length: "450 to 550 words. A first pass usually lands near 300 words, which is too short: give the main subject its full six to eight sentences, give every region of the frame its own sentences out to the edges, and write the light in three or four sentences, until the description passes 450 words."   # 使用者定約 500;Gemma 實測:寫 450–550 → 平均 331,這版 → 平均 380(23 題,2026-09-27);舊值 550–700 = 八股 LoRA 分佈
+  elements: fourteen placed elements in a full scene                                       # PE 官方
+  notes:
+    - The renderer takes a separate negative prompt, so the description only says what is there.   # 官方 node 有 negative 輸入
+zimage:
+  teacher_parts_composite: {subject: four or five, regions: four or five, layout: four, lettering: three, light: two, comp: two}   # 4B 複合老師專用(Z-Image 上限約 400);v4.1 多印字限兩行 → lettering 5–6→3 句
+  teacher_parts: {subject: five or six, regions: six to eight, light: three, comp: two}   # 老師專用分段句數:Gemma 實測平均 303 字(23 題,2026-09-27)
+  # Z-Image · TE = Qwen3-4B 第 34 層
+  length: 250 to 350 words, about fifteen to twenty sentences                             # 使用者 2026-09-26 要 4B 短一點;driver v2 上限 400(實測)
+  elements: about eight placed elements                                                    # 推測·未測
+  notes:
+    - Never write a lamp, flash unit, bulb, glow, burst of light or hotspot as a thing in the image unless the user asked for that object; describe only what the light does to surfaces — overexposure, hard-edged shadows, a background falling to black.   # 實測:會畫出燈具
+    - Never write numbers for angles, sizes or distances; describe them in words.          # 實測:對數字無感
+    - Name placement with an explicit side or corner — "in the far upper-right corner" — never a vague "at the edge".   # 實測(小樣本)
+    - The renderer ignores negative prompts, so never rely on saying what is absent.       # 實測
+klein:
+  teacher_parts: {subject: five or six, regions: six to eight, light: three, comp: two}   # 同 zimage·未測
+  # FLUX.2 klein 4B · TE = Qwen3-4B 第 8/17/26 層 · 下面整段先抄 zimage,全部未測
+  length: 250 to 350 words, about fifteen to twenty sentences                             # 同 zimage·未測
+  elements: about eight placed elements                                                    # 推測·未測
+  notes:
+    - Never write numbers for angles, sizes or distances; describe them in words.          # 推測·未測

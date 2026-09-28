@@ -1,0 +1,179 @@
+{
+ "rule": "2026-09-28 使用者選:拿掉 #15 #22 #23;#13 #18 #21 #25 用 seed 7;其餘 seed 42;三種 DiT 同一個 seed",
+ "picks": [
+  {
+   "no": 1,
+   "card": "pe-default",
+   "prompt": "Dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco at Lunar New Year",
+   "seed": 42
+  },
+  {
+   "no": 2,
+   "card": "bw-geometric-street-candid",
+   "prompt": "A ballerina leaping across the zebra crossing in Shibuya",
+   "seed": 42
+  },
+  {
+   "no": 3,
+   "card": "rainy-window-abstract-portrait",
+   "prompt": "A girl in a yellow raincoat waiting under the neon signs of Mong Kok on a rainy night",
+   "seed": 42
+  },
+  {
+   "no": 4,
+   "card": "refined-minimalist-studio-portrait",
+   "prompt": "A young maiko in kimono and full white makeup glancing over her shoulder",
+   "seed": 42
+  },
+  {
+   "no": 5,
+   "card": "saturated-banal-monumental",
+   "prompt": "A giant inflatable rubber duck floating in Victoria Harbour, the Hong Kong skyline behind it",
+   "seed": 42
+  },
+  {
+   "no": 6,
+   "card": "bw-dramatic-chiaroscuro",
+   "prompt": "A lone samurai standing in a bamboo forest as light pierces the mist",
+   "seed": 42
+  },
+  {
+   "no": 7,
+   "card": "surreal-staged-monochrome",
+   "prompt": "A woman in a ball gown holding a white umbrella on the salt flats of Uyuni",
+   "seed": 42
+  },
+  {
+   "no": 8,
+   "card": "bw-ink-wash-landscape",
+   "prompt": "Hot air balloons drifting over the misty temples of Bagan at sunrise",
+   "seed": 42
+  },
+  {
+   "no": 9,
+   "card": "vintage-bw-elegant-candid",
+   "prompt": "A glamorous couple dancing in a 1930s Shanghai ballroom",
+   "seed": 42
+  },
+  {
+   "no": 10,
+   "card": "hyper-saturated-cinematic-unease",
+   "prompt": "A beauty queen eating cake alone in a pink motel room in Palm Springs",
+   "seed": 42
+  },
+  {
+   "no": 11,
+   "card": "raw-bw-cinematic-portraits",
+   "prompt": "A boxer catching his breath after a fight in a Bangkok gym",
+   "seed": 42
+  },
+  {
+   "no": 12,
+   "card": "high-gloss-noir-glamour",
+   "prompt": "A femme fatale in a black velvet dress on a Hong Kong rooftop at night, the skyline behind her",
+   "seed": 42
+  },
+  {
+   "no": 13,
+   "card": "minimalist-color-landscapes",
+   "prompt": "A single red umbrella on an empty turquoise beach in the Maldives",
+   "seed": 7
+  },
+  {
+   "no": 14,
+   "card": "soft-warm-nostalgic",
+   "prompt": "Kids jumping into the sea from a harbour wall in Sicily on a summer afternoon",
+   "seed": 42
+  },
+  {
+   "no": 16,
+   "card": "monet_style",
+   "prompt": "A garden party under hanging wisteria in full bloom in Kyoto",
+   "seed": 42
+  },
+  {
+   "no": 17,
+   "card": "hokusai_style",
+   "prompt": "A giant wave crashing over the New York skyline",
+   "seed": 42
+  },
+  {
+   "no": 18,
+   "card": "swiss-international-style",
+   "prompt": "A poster for a Tokyo techno festival",
+   "seed": 7
+  },
+  {
+   "no": 19,
+   "card": "art-deco-travel-poster",
+   "prompt": "A travel poster of a zeppelin flying to Shanghai, titled \"Shanghai\"",
+   "seed": 42
+  },
+  {
+   "no": 20,
+   "card": "japanese-modernist-geometric",
+   "prompt": "A poster for a koi festival in Kyoto",
+   "seed": 42
+  },
+  {
+   "no": 21,
+   "card": "pe-default",
+   "prompt": "A beautiful young woman with a shaved head, thick eyebrows and a small silver nose ring, laughing on a scooter through the streets of Taipei at dusk",
+   "seed": 7
+  },
+  {
+   "no": 24,
+   "card": "raw-bw-cinematic-portraits",
+   "prompt": "A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon",
+   "seed": 42
+  },
+  {
+   "no": 25,
+   "card": "soft-warm-nostalgic+swiss-international-style",
+   "prompt": "A fashion poster titled \"PARIS\", a fashionable woman on the terrace of a luxury Paris penthouse, the Eiffel Tower behind her",
+   "seed": 7
+  },
+  {
+   "no": 26,
+   "card": "refined-minimalist-studio-portrait+japanese-modernist-geometric",
+   "prompt": "A colour beauty magazine cover titled \"BLOOM\", a young Korean woman with dewy skin and peach blush",
+   "seed": 42
+  },
+  {
+   "no": 27,
+   "card": "van_gogh_style",
+   "prompt": "Drunk salarymen in loosened ties stumbling home under a full moon in Shinjuku, Tokyo",
+   "seed": 42
+  },
+  {
+   "no": 28,
+   "card": "rainy-window-abstract-portrait",
+   "prompt": "A young woman in a clear transparent raincoat over a bikini, laughing under the neon signs of Mong Kok on a rainy night",
+   "seed": 42
+  },
+  {
+   "no": 29,
+   "card": "high-gloss-noir-glamour+swiss-international-style",
+   "prompt": "A fashion poster for Milan couture week titled \"MILANO\", a model in a sculptural white coat",
+   "seed": 42
+  },
+  {
+   "no": 30,
+   "card": "hyper-saturated-cinematic-unease+japanese-modernist-geometric",
+   "prompt": "A fashion poster for a Tokyo streetwear brand titled \"NEON\", a girl in a candy-pink puffer jacket",
+   "seed": 42
+  },
+  {
+   "no": 31,
+   "card": "refined-minimalist-studio-portrait+swiss-international-style",
+   "prompt": "A beauty magazine cover titled \"GLOW\", a close-up of a woman with glossy red lips and slicked-back hair",
+   "seed": 42
+  },
+  {
+   "no": 32,
+   "card": "soft-warm-nostalgic+japanese-modernist-geometric",
+   "prompt": "A beauty magazine cover titled \"BLOOM\", a young Korean woman with dewy skin and peach blush",
+   "seed": 42
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+[
+ {
+  "i": 0,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 42,
+  "prompt": "A boxer catching his breath after a fight in a Bangkok gym",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "00_raw-bw-cinematic-portraits_s42_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A boxer catching his breath after a fight in a Bangkok gym is captured in this black and white photograph. The boxer, an older man with a heavy, muscular build, leans heavily against a concrete wall, his face contorted in exhaustion. His skin is a map of sweat and fine lines, rendered in shades of mid-grey and charcoal. He wears a damp, thin cotton shirt that clings to his chest, the fabric appearing heavy and saturated with moisture. His hands, large and knobby, hang limp at his sides, fingers slightly curled. His gaze is vacant, directed toward a point beyond the lens, eyes wide and tired. At the far left, the corner of the gym is visible, where a heavy metal weight rack sits partially obscured by deep, dark shadows. Behind the subject, the wall of the gym shows scuffs and streaks of chalk dust, appearing as a textured mid-grey. In the upper right, a window allows a wash of soft, diffused daylight to enter the room. At the bottom, the floor is a hard, matte grey surface, scattered with small, chalky specks of grit. To the right, a stack of heavy leather gloves rests on a low, wooden bench, their surfaces showing a worn, tactile texture. The lighting is soft and overcast, coming from an unseen window to the side. It catches the dampness on the boxer's skin, creating silvery highlights on his forehead and neck. Shadows fall away from the light source, leaving the corners of the gym in dense black. The camera is held at a medium distance, at eye level, capturing a candid, unposed moment. The focus is sharp on the boxer's face, while the background elements like the weight rack and window fall into a soft, cinematic blur. The image carries a heavy, somber atmosphere of physical exhaustion and quiet reflection. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ },
+ {
+  "i": 1,
+  "code": "high-gloss-noir-glamour",
+  "seed": 42,
+  "prompt": "A femme fatale in a black velvet dress on a Hong Kong rooftop at night, the skyline behind her",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "01_high-gloss-noir-glamour_s42_00001_.png",
+  "final_prompt": "A glossy, hard-lit, high-contrast noir glamour photograph. A femme fatale in a black velvet dress stands upon a Hong Kong rooftop at night, captured in a high-contrast black and white glamour photograph. The woman is an adult with a commanding presence, her face a mask of cold, piercingly direct gaze. She wears a heavy black velvet dress that clings to her form, the fabric catching a sharp, silvery highlight on its raised nap. Her hands, long and poised, rest against the smooth, dark stone of the rooftop edge. Her expression is one of detached, predatory power, eyes fixed on a point beyond the frame. The silhouette of her figure is sharp and statuesque, standing tall against the void. In the far upper-left corner, the deep charcoal shadows of a distant, indistinct building edge fade into an inky black. At the upper right, the skyline of Hong Kong, rendered in stark, chalky white lines against a void of total darkness, cuts across the sky. In the lower-left corner, the rooftop surface shows a fine, granular texture of weathered stone. Behind the subject, the skyline recedes into a series of hard-edged, geometric silhouettes against a pitch-black background. To the far right, the edge of a building's parapet creates a sharp, vertical line of mid-grey. The entire background behind her is a vast, empty expanse of midnight darkness. The lighting is hard and directional, coming from an unseen source above and to the side. It creates a harsh, clinical contrast, turning the edges of her black velvet dress into brilliant, silvery highlights. Deep, ink-black shadows swallow any detail not directly struck by the light. The camera is positioned at a medium distance, level with the subject's eye line, creating a sense of voyeuristic tension. The focus is sharp on the texture of the black velvet and the woman's eyes, while the distant skyline remains in soft, cinematic blur. The image radiates a sense of noir tension and dangerous, silent isolation. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 2,
+  "code": "minimalist-color-landscapes",
+  "seed": 42,
+  "prompt": "A single red umbrella on an empty turquoise beach in the Maldives",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "02_minimalist-color-landscapes_s42_00001_.png",
+  "final_prompt": "A painterly minimalist colour photograph, the scene reduced to bold simple fields of colour and form. A single red umbrella stands motionless on an empty turquoise beach in the Maldives, captured in a minimalist, painterly composition. The red umbrella is a large, heavy object with a glossy, blood-red fabric that catches the light in sharp, liquid streaks. It sits upright, its metal ribs forming a dark silhouette against the bright sky. The fabric shows a subtle, fine weave, appearing almost like a deep crimson oil on water. It occupies the central focus, a singular, bold shape against the vastness. In the far upper-left corner, the sky is a solid, intense shade of acid-blue. At the upper-right, the horizon line is a sharp, clean cut between the blue sea and the blue sky. In the far lower-left, the turquoise beach stretches out, a smooth, saturated expanse of electric turquoise. At the bottom edge, the sand is a flat, dark plane of deep teal. To the right of the umbrella, the ocean meets the shore in a seamless, saturated line of cobalt. Behind the subject, the ocean waves are not visible but exist only as a vast, empty field of deep cyan. The lighting is direct and harsh, coming from a high, overhead sun. It creates a hard-edged shadow directly beneath the umbrella's base. The sunlight hits the red fabric, making it gleam with a high-gloss, liquid-like reflection. The camera is positioned at a low angle, looking directly at the umbrella. The subject is placed dead-center, surrounded by a vast, empty space to emphasize its isolation. The image evokes a sense of profound, lyrical stillness through its extreme simplicity. Bold simple colour fields, generous emptiness, clean luminous light, a lyrical stillness."
+ },
+ {
+  "i": 3,
+  "code": "soft-warm-nostalgic",
+  "seed": 42,
+  "prompt": "Kids jumping into the sea from a harbour wall in Sicily on a summer afternoon",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "03_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. A group of children jumping into the sea from a harbor wall in Sicily during a summer afternoon is captured in a soft-focus, nostalgic film photograph. The children, a mix of small and medium builds, are mid-leap, their limbs splayed in a joyful, energetic arc. Their clothes consist of lightweight linen shirts in pale cream and soft sage, and cotton shorts in muted ochre. Their faces are turned upward toward the sun, eyes closed in a moment of pure, unbridled joy. Their hands reach toward the air, fingers slightly splayed as they break the surface. The water they enter is a shimmering, translucent turquoise that catches the light. At the upper left, the sky is a vast, washed-out pale azure, blending into the horizon. In the far upper-right corner, the silhouette of a white marble column rises against the warm light. At the lower right, the stone texture of the harbor wall shows a weathered, porous grey, damp with a thin film of salt. Behind the subjects, the sea meets a distant, hazy shoreline of soft, muted olive. In the far lower-left corner, a few splashes of white foam spray upward from the water's surface. At the upper right, the heat haze makes the distant hills appear as soft, blurred strokes of ochre. The lighting is a warm, golden afternoon sun coming from behind the subjects, creating a rim-light effect that glows along the edges of their hair and clothing. The light is soft and diffused, filtering through a heavy, hazy atmosphere. Shadows are long, gentle, and fall away from the sun's position, leaving the edges of the frame in a soft, creamy blur. The camera is positioned at a low angle, close to the water, making the jump feel more immediate and kinetic. The focus is sharpest on the texture of the water's surface where the children enter, while the rest of the harbor recedes into a soft, dreamlike bokeh. The image evokes a sense of a fleeting, beautiful moment lost to the tide of time. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 4,
+  "code": "van_gogh_style",
+  "seed": 42,
+  "prompt": "The neon alleys of Golden Gai in Tokyo on a rainy night",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "04_van_gogh_style_s42_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting, thick with impasto, depicts the neon alleys of Golden Gai in Tokyo during a rainy night. The narrow, winding alleyway is a swirl of acid-yellow and cobalt-blue light, where the rain falls in thick, rhythmic strokes of emerald and violet. The walls of the buildings are rendered in heavy, textured strokes of deep indigo and charcoal, reflecting the electric glare. A figure, a young adult in a damp, dark-grey trench coat, moves through the shadows, their silhouette a series of quick, directional brushstrokes against the saturated darkness. Their face is a mask of intense, restless energy, eyes reflecting a violent, hot-orange glare from a nearby sign. The hands, partially visible, are gripped tightly, the skin a pulsing orange-red under the light. At the far upper-left, the darkness of the night is broken by the aggressive, vibrating lines of a neon sign in electric pink and cyan. In the center, the wet cobblestones of the street glisten with a thick, heavy impasto, turning the stone into a landscape of liquid silver and black. At the far right, the side of a building rises up, its surface a chaotic dance of hot-pink and deep violet, the rainwater trickling down in long, sweeping ridges of white paint. Behind the subject, the distant lights of the city create a shimmering, rhythmic blur of chrome-yellow and acid-green. At the bottom edge, the ground is a chaotic mess of dark-blue and deep-purple, where the raindrops appear as hard-edged, jagged slashes of white paint. The lighting is a violent, pulsing energy, with light bleeding from the neon signs in rings of thick, glossy paint. Harsh, acid-yellow light strikes the wet surfaces, creating high-contrast, hard-edged shadows. The reflections on the puddles are a series of violent, overlapping rings of hot-white and violet. The viewpoint is low, looking up at the narrow, claustrophobic passage between buildings. Everything is rendered with a sense of frantic, swirling motion, with the perspective bending and distorting the straight lines of the alley. The entire scene vibrates with a restless, heartfelt vitality that refuses to be still. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 5,
+  "code": "monet_style",
+  "seed": 42,
+  "prompt": "A garden party under hanging wisteria in full bloom in Kyoto",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "05_monet_style_s42_00001_.png",
+  "final_prompt": "An Impressionist oil painting in the style of Monet, short broken strokes of pure colour catching fleeting light. An impressionist oil painting depicts a garden party under hanging wisteria in full bloom in Kyoto. A group of people, dressed in light linen and silk, move through the garden, their forms softened by the heavy brushstrokes. One woman in a pale cream slip dress with a flowing skirt reaches toward the vines, her hands lost in the thick, lilac-colored strokes of the blossoms. Another man in a charcoal linen shirt stands slightly behind, his posture relaxed as he gazes toward the distant path. Their faces are mere suggestions of warm ochre and soft rose, dissolving into the bright, vibrating light of the scene. The clothing they wear is rendered in broken, flickering strokes of pale mint and soft sand. In the upper left, a dense thicket of hanging wisteria in shades of deep violet and lavender spills over a wooden veranda, its branches casting long, violet-tinted shadows. At the far right, a stone garden path, painted in strokes of muted olive and slate, disappears into a soft blur of greenery. Behind the subjects, the background dissolves into a wash of warm terracotta and pale amber, suggesting the heat of a summer afternoon. In the lower corner, a scattering of fallen petals in shades of pale lavender and cream rest upon a patch of mossy, deep forest-green ground. The lighting is warm and flickering, catching the edges of the leaves in golden highlights. Sunlight filters through the foliage, creating a shimmering effect of broken, horizontal strokes of pale yellow and white. Shadows are deep and violet, hiding the details of the garden floor in a haze of blue-grey tones. The viewpoint is low, looking up slightly at the hanging wisteria, making the flowers feel vast and overwhelming. The focus is soft, with the immediate foreground and background bleeding into a luminous, impressionistic haze. The entire piece vibrates with a sense of fleeting, sun-drenched tranquility. Broken strokes of pure colour, coloured shadows, shimmering reflections, fresh fleeting light."
+ },
+ {
+  "i": 6,
+  "code": "hokusai_style",
+  "seed": 42,
+  "prompt": "A giant wave crashing over the New York skyline",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "06_hokusai_style_s42_00001_.png",
+  "final_prompt": "A Japanese woodblock print in the style of Hokusai, bold outlines and flat layered colour, Prussian blue and indigo. A giant wave crashing over the New York skyline is rendered as a bold woodblock print. A massive, heavy wave of deep Prussian blue and charcoal swirls with thick, stylized white crests that cut through the scene. The water's surface is a series of sharp, flowing black outlines defining waves of indigo and slate-grey. This overwhelming tide rushes toward the viewer, its edges sharp and graphic. The water's texture is a flat pattern of overlapping curves and heavy ink strokes. At the upper left, the skyline of New York is a collection of flat, overlapping planes in muted ochre and pale cream. These buildings are rendered with hard, geometric outlines that do not follow traditional perspective but instead create a sense of immense scale. At the right, the skyline recedes into a series of overlapping rectangles in warm terracotta and deep indigo. At the bottom, the water meets the base of the city in a violent, energetic rush of white ink and dark navy. In the far upper-right corner, the clouds are stylized as swirling patterns of soft pink and pale grey. At the lower right, the water's edge is a chaotic arrangement of jagged, black lines. The lighting is flat and even, characteristic of a woodblock print. There are no soft gradients, only flat areas of color separated by hard black outlines. The light reflects off the water's surface as a series of white, graphic marks. The composition uses a daring diagonal, with the skyline forming a sharp, steep angle against the crashing wave. The viewpoint is low, looking up at the immense scale of the water and the buildings. The entire piece carries a sense of overwhelming, graphic energy and crushing power. Bold flowing outlines, flat layered woodblock colour, stylised waves and clouds, wood and paper texture."
+ },
+ {
+  "i": 7,
+  "code": "swiss-international-style",
+  "seed": 42,
+  "prompt": "A poster for a Tokyo techno festival",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "07_swiss-international-style_s42_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A poster for a Tokyo techno festival, structured with a rigid, modular layout. The poster features a large, bold headline in signal red, centered over a void of deep navy. Below the title, a series of smaller, precise text blocks in white, aligned to the grid, list the date and venue. The entire composition is contained within a clean, rectangular frame that bleeds off the bottom edge. A single, sharp geometric rule in signal red cuts across the center of the page, separating the title from the secondary text. The background is a flat, solid charcoal-grey, providing a stark contrast to the red elements. In the far upper-left corner, a small, white circle sits perfectly aligned with the grid. In the far right area, a thin, white vertical bar separates the main content from the edge. At the bottom right, a row of tiny, white text blocks containing 'Tokyo Techno Festival' and 'Sat. 10/04' is placed in a precise, grid-aligned layout. In the lower left corner, a small, white circle sits near the margin. The entire design uses a strict, asymmetric balance, leaving significant white space on the left side. The lighting is non-existent, as the scene relies on high-contrast, flat color blocks. No shadows are cast, as the light is a uniform, even wash. The red and white elements are rendered with crisp, sharp edges against the dark background. The composition follows a strict, neo-grotesque grid, with all text and graphic elements aligned to the vertical columns. The viewpoint is a direct, head-on, top-down perspective, keeping everything flat and unobstructed. The work conveys a sense of cold, objective, and highly structured energy. Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+ },
+ {
+  "i": 8,
+  "code": "art-deco-travel-poster",
+  "seed": 42,
+  "prompt": "A travel poster for a zeppelin voyage to Shanghai",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "08_art-deco-travel-poster_s42_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster for a zeppelin voyage to Shanghai, rendered in a bold, streamlined Art Deco style. A large, silver-toned airship, its hull a smooth curve of polished chrome, dominates the center of the frame. The structure is a series of sharp, geometric ribs and deep navy shadows that define its heavy, metallic silhouette. A single, massive engine, rendered in a sleek, gold-leafed texture, protrudes from the side, catching a hard, white light. The ship's surface reflects a dim, twilight sky of deep indigo and charcoal. At the upper left, the background transitions into a vast, empty void of midnight blue. At the upper right, the silhouette of a distant, stylized cityscape appears, reduced to simplified, golden geometric shapes representing skyscrapers. In the lower left corner, the horizon line is a sharp, straight cut against a pale cream sky. At the bottom, the edge of the frame shows a polished, dark mahogany plinth that reflects the silver sheen of the ship. Behind the subject, the sky fades into a deep, saturated navy gradient. \"ZEPPELIN VOYAGE TO SHANGHAI\" in a tall, elegant, gold-leafed sans-serif, centered at the top. \"EXPEDITION OF THE VOID\" in a smaller, widely spaced, cream-colored sans-serif, placed directly below the main title. \"EST. 1925\" in a tiny, thin, gold-toned font at the very bottom edge. The lighting is dramatic and directional, coming from an unseen source behind the viewer to create hard-edged, metallic reflections on the ship's surface. The light casts long, sharp shadows that stretch across the chrome-plated hull. A soft, ambient glow catches the rim of the metallic edges, making them appear luminous against the dark background. The composition uses a low, forward-leaning perspective that makes the airship appear monumental and imposing. The vertical lines of the ship's frame and the structural lines of the cityscape create a sense of intense, structured speed. The overall effect is one of grand, optimistic, and highly stylized luxury. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ },
+ {
+  "i": 9,
+  "code": "japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A poster for a koi festival in Kyoto",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "09_japanese-modernist-geometric_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a koi festival in Kyoto, rendered in a Japanese modernist graphic design. A large, simplified koi fish, rendered as a series of flowing, curved arcs in deep crimson and bright vermilion, dominates the center of the frame. The fish's tail is a single, sweeping arc of pale pink, suggesting movement through water. Below the main subject, a series of geometric, overlapping circles in muted indigo represent the rhythmic motion of the festival. The background is a vast expanse of pale cream, providing a void against which the shapes stand. In the far upper-left corner, a small, sharp square of warm terracotta represents a traditional roofline. At the bottom right, a cluster of tiny, perfect circles in jade green signifies the presence of many spectators. In the far upper-right corner, a single, sharp line of charcoal grey suggests a distant mountain range. At the bottom center, a series of small, precise blocks in white sans-serif typeface contain the words \"KYOTO KOI FESTIVAL\". Below that, in a smaller font, a line of text reads \"Celebrate tradition and culture\". In the lower left corner, a small, clean block of text lists \"Date: April 15th\" and \"Location: Gion District\". \"KYOTO KOI FESTIVAL\" in a large, bold, black sans-serif font at the bottom center; \"Celebrate tradition and culture\" in a small, black sans-serif font directly beneath it; \"Date: April 15th\" and \"Location: Gion District\" in a small, black sans-serif font in the lower left corner. The lighting is flat and even, as if the entire composition is printed on smooth paper. There are no hard shadows, only the subtle, crisp edges of the geometric shapes. The colors remain saturated and unmoving. The composition uses extreme negative space and heavy, symmetrical balance. The viewpoint is straight-on and level with the eye, keeping the focus entirely on the central, abstract shapes. The overall effect is one of quiet, poised stillness and traditional grace. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ }
+]

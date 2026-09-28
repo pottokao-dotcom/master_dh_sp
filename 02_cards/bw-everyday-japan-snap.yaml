@@ -1,0 +1,30 @@
+code: bw-everyday-japan-snap
+label_zh: 日常趣味黑白即拍
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A candid black-and-white snapshot grabbed quickly with a compact camera: casual grain, plain
+  available light, now and then a small pop of on-camera flash, the exposure flat and
+  unpolished. The camera sits at eye level among ordinary people and catches the exact instant
+  something small and funny lines up — a gesture, a glance, a coincidence of people, animals and
+  things that lasts half a second. The framing is loose and a touch crooked, centered where the
+  moment is. The camera is plainly fond of everyone in the picture, amused and kind.
+signature_lead: A candid black-and-white compact-camera snapshot, caught at the exact funny instant.
+signature_close: Casual grain, plain light, a quick loose frame, fond and amused.
+mood:
+  default: medium
+  weak: a gentle everyday tenderness
+  medium: a tender, funny everyday moment, affectionate and a little absurd
+  strong: a perfectly timed laugh-out-loud coincidence, caught with delight
+framing:
+  native: neutral
+  close: close on the funny detail or expression
+  wide: more of the everyday scene around the moment
+habitual_subjects: >
+  Japanese everyday life — old folks, schoolchildren, dogs and pigeons, street festivals,
+  small-town shops, a pigeon landing on a head, a child mid-mishap, accidental lineups
+presets:
+  comedy: the absurd comedy of an ordinary moment at the perfect instant
+  child: the unguarded funny charm of a child or an animal
+  coincidence: an accidental coincidence on the street, perfect timing
+negative: polished, posed, dramatic lighting, gloomy, mocking, colour, cinematic, flat dull everyday snapshot

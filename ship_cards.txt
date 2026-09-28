@@ -1,0 +1,28 @@
+# 出貨卡清單(2026-09-28 使用者定):pack.py 只打包這裡列的卡,其餘留在私人 repo。
+# 一行一個卡 code(= 02_cards/<code>.yaml);# 後面是註解。改清單 = 改出貨範圍。
+pe-default                          # 無風格基本款(原 QI2.1 PE-T2I)
+
+# 攝影 13
+bw-geometric-street-candid          # 黑白街頭幾何瞬間
+rainy-window-abstract-portrait      # 暖色雨窗街影
+refined-minimalist-studio-portrait  # 灰底精簡柔光人像
+saturated-banal-monumental          # 俗物飽色巨像
+bw-dramatic-chiaroscuro             # 黑白光束剪影
+surreal-staged-monochrome           # 蒼藍虛無置景
+bw-ink-wash-landscape               # 水墨留白銀鹽山水
+vintage-bw-elegant-candid           # 黑白雅致日常抓拍
+hyper-saturated-cinematic-unease    # 超飽和電影感不安
+raw-bw-cinematic-portraits          # 粗粒黑白寫真(時尚)
+high-gloss-noir-glamour             # 冷冽奢華高反差(時尚)
+minimalist-color-landscapes         # 極簡色塊靜謐風景(大景)
+soft-warm-nostalgic                 # 暖調柔光底片日常(柔和底片)
+
+# 畫家 3
+van_gogh_style                      # 梵谷筆觸
+monet_style                         # 莫內印象光色
+hokusai_style                       # 北齋浮世繪木刻
+
+# 排版 3
+swiss-international-style           # 瑞士國際主義平面設計
+art-deco-travel-poster              # 裝飾藝術旅遊海報
+japanese-modernist-geometric        # 日式現代幾何平面

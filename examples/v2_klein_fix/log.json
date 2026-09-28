@@ -1,0 +1,106 @@
+[
+ {
+  "i": 0,
+  "code": "bw-ink-wash-landscape",
+  "seed": 42,
+  "prompt": "A ferry crossing Lake Como in the early morning",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "00_bw-ink-wash-landscape_s42_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. A ferry crossing Lake Como in the early morning is captured in this black and white photograph. The ferry, a heavy timber-hulled vessel, moves through the water, its hull rendered in charcoal tones against the lighter grey of the lake. Its metalwork, including the iron railing, catches a dim, silvery highlight that fades into a deep black as it recedes into the mist. The deck is empty, a vast expanse of mid-grey texture, suggesting a quiet, solitary passage. The water itself is a series of soft, overlapping gradients, where the surface breaks into fine, chalky white streaks representing the chop. At the upper left, the sky is a vast, empty void of pale, misty grey, blending into the horizon. At the right, the distant shore of Lake Como appears as a mere suggestion of a dark, charcoal silhouette, lost in the heavy fog. Below the ferry, the lake's surface is a chaotic web of soft, silvered highlights and deep, ink-like shadows. In the far background, the hills are nothing more than faint, wispy lines of mid-grey, dissolving into a thick, atmospheric haze. The entire frame is filled with a sense of vast, empty space and quietude. The lighting is diffuse and extremely low-contrast, coming from an unseen source above the fog. It creates no hard edges, only a gentle, softening of tones as things move away from the viewer. The light catches only the very edges of the hull and the ripples on the water, leaving the rest to fade into a heavy, painterly shadow. The camera is positioned at a low angle, looking up at the ferry to emphasize its scale against the mist. The focus is sharpest on the immediate surface of the water near the hull, while the rest of the scene falls into a soft, dreamlike blur. The image evokes a profound sense of isolation and the overwhelming stillness of a world waking in silence. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 1,
+  "code": "bw-ink-wash-landscape",
+  "seed": 7,
+  "prompt": "A ferry crossing Lake Como in the early morning",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "01_bw-ink-wash-landscape_s7_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. A ferry crossing Lake Como in the early morning is captured in this black and white photograph. The ferry, a heavy wooden structure with a dark, charcoal-toned hull, cuts a silhouette against the pale, misty sky. Its surface shows the texture of aged timber and salt-crusted iron, rendered in shades of mid-grey. The metalwork of the bow and stern is slightly lighter, catching a faint, silvery highlight from the approaching sun. A single, empty crate rests on the deck, appearing as a dense black shape amidst the lighter grey of the boat's frame. At the upper left, the sky dissolves into a soft, chalky white haze where the mist meets the horizon. At the upper right, the distant hills of Lake Como appear as indistinct, charcoal-colored smudges, lost in the heavy fog. Behind the subject, the water of the lake is a vast, empty expanse of pale, translucent grey, blending into the mist. At the lower left, the water's surface is a deep, ink-like shadow, suggesting a heavy, cold current. At the lower right, the shoreline is a mere suggestion of a dark, silhouetted outline, barely visible through the thick fog. The lighting is diffuse and extremely soft, coming from an invisible source behind the mist. It creates no hard shadows, only a gentle gradation of tone across the water's surface. The light catches nothing but the very edges of the ferry's hull, turning them into a subtle, silvery rim. The camera is positioned at a low angle, looking slightly upward at the ferry, making the vessel feel heavy and grounded. The focus is sharpest on the texture of the wood, while the surrounding landscape fades into a soft, painterly blur. The image evokes a sense of profound, reclusive stillness and isolation. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 2,
+  "code": "soft-warm-nostalgic",
+  "seed": 42,
+  "prompt": "Two sisters eating shaved ice on a porch in Okinawa",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "02_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. Two sisters eating shaved ice on a porch in Okinawa, captured in a soft, nostalgic film photograph. A young woman and a younger child sit close together, their hands active as they eat. The older sister, a teenager with a soft face and long, sun-bleached hair, wears a loose, pale cream linen shirt. She holds a small bowl of shaved ice, her fingers moving toward her mouth with a quiet, rhythmic grace. Beside her, a younger child, perhaps a toddler, sits with a wide, joyful expression, wearing a simple, faded lilac cotton dress. Their hands, small and steady, reach for the white, crushed sugar ice, which they hold up to their lips. At the upper left, the view opens onto a garden of muted sage and pale sage grass under a soft, hazy sky. Behind the subjects, a wooden porch floor made of weathered, light oak planks recedes into a soft blur. At the right, a wrought-iron railing, brushed with a fine, dusty patina, frames the view. In the background, a distant, out-of-focus house wall shows a hint of warm terracotta and pale grey stone. At the bottom, the edge of a woven wicker chair, colored in a faded olive, sits partially out of frame. The lighting is a warm, golden afternoon sun coming from behind the subjects, creating a soft rim of light along their hair and shoulders. The light is low and gentle, catching the tiny, crystalline fragments of ice and making them glint with a milky, pearlescent sheen. Long, soft shadows stretch away from the porch, keeping the corners of the frame in a gentle, muted dimness. The camera is positioned at a low angle, level with the children's eyes, creating a sense of intimate, shared presence. The focus is sharp on the textures of the ice and the hands, while the background and foreground elements melt into a soft, dreamlike bokeh. The image carries a heavy, quiet ache, a tender moment of childhood warmth caught in a fading, sun-drenched memory. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 3,
+  "code": "soft-warm-nostalgic",
+  "seed": 7,
+  "prompt": "Two sisters eating shaved ice on a porch in Okinawa",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "03_soft-warm-nostalgic_s7_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. Two sisters eating shaved ice on a porch in Okinawa, captured in a soft, nostalgic film photograph. A young woman with a calm, smiling expression sits beside her younger sister, both focused on the frozen treat. The older sister wears a loose, pale cream sundress with a thin hem, her hands gently holding a small, heavy container of shaved ice. The younger sister, perhaps a child, wears a simple, muted blue cotton shirt, her small hands reaching toward the container. Their eyes are bright with a quiet, joyful anticipation, caught in a moment of shared intimacy. The shaved ice itself is a swirl of white and pale blue, appearing as a soft, melting texture against the dark, opaque liquid. At the upper left, a section of a weathered wooden floor, stained a warm terracotta, recedes into a soft blur. Behind the subject, the porch extends toward a view of a sun-drenched garden, where the deep green leaves of a hibiscus plant catch a warm, golden light. At the right edge, a heavy, dark timber pillar, finished in a dusty charcoal, supports the porch structure. Below the subjects, the floorboards show a fine, natural grain, catching a soft, amber reflection. In the far background, a distant, sun-bleached wall of a traditional house shows a muted ochre hue, fading into a hazy, warm haze. The lighting is a warm, low afternoon sun coming from behind the subjects, creating a soft rim-light effect along their hair and shoulders. This light lifts the shadows and turns the edges of the shaved ice into a bright, glowing white. The overall light is generous and soft, imbuing the scene with a sense of gentle warmth. The camera is positioned at a medium distance, level with the subjects, using a shallow depth of field that keeps the sisters sharp while the porch and background fall into a soft, dreamy blur. The framing leaves a generous amount of empty space around the subjects, allowing them room to breathe within the open space of the porch. The photograph captures a quiet, tender moment of siblinghood, a fleeting memory held in a soft, golden light. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 4,
+  "code": "van_gogh_style",
+  "seed": 42,
+  "prompt": "A noodle stall at Raohe night market in Taipei",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "04_van_gogh_style_s42_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts a noodle stall at the Raohe night market in Taipei, rendered with thick, swirling impasto. A vendor, an elderly man with deep-set eyes and a heavy build, leans over his workbench. He wears a coarse, sleeveless tunic of acid-yellow silk and heavy trousers of dark indigo. His hands, gnarled and stained with ink, move with rhythmic energy as he prepares a bowl of noodles. The noodles themselves are thick, glossy ribbons of white and cream-colored paint, swirling like liquid light. A heavy ceramic bowl sits on the wooden board, its surface rippled with thick, directional strokes of cobalt blue. At the upper left, the dark, textured background shows the movement of a crowded street, where the silhouettes of passersby swirl in shades of violet and emerald. At the upper right, the neon signs of the market flicker with acid-pink and electric-blue strokes that pulse against the blackness. At the bottom left, the ground is a chaotic arrangement of discarded wrappers and spilled sauce, all rendered in thick, impasto ridges of burnt orange and cadmium red. At the bottom right, the corner of the stall's wooden frame is visible, its grain rendered in sharp, dark strokes of charcoal and sienna. Behind the subject, the distant street lights of the market create a sense of depth through swirling rings of hot yellow and orange. The lighting is provided by the internal glow of the stall, casting long, distorted shadows that dance across the textures. A warm, amber light pulses from a hidden source, catching the edges of the thick paint ridges. The light itself seems to vibrate, creating a sense of intense, heartfelt vitality. The viewpoint is low, close to the wooden board, making the viewer feel part of the rush. The composition uses a tight, claustrophobic focus on the vendor's hands and the noodles, while the background remains a chaotic, beautiful blur of motion. The entire scene vibrates with a restless, emotional energy that captures the pulse of a city at night. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 5,
+  "code": "van_gogh_style",
+  "seed": 7,
+  "prompt": "A noodle stall at Raohe night market in Taipei",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "05_van_gogh_style_s7_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts a noodle stall at the Raohe night market in Taipei, where thick, swirling ridges of paint suggest a restless, vibrant energy. A vendor, an older man with a weathered face and deep-set eyes, leans over his workbench. He wears a heavy, coarse linen shirt in a shade of acid-yellow, the fabric rendered in thick, impasto strokes that ripple like waves. His hands, large and calloused, move with rhythmic, expressive strokes as he prepares a bowl of noodles. Beside him, a ceramic bowl, heavy with liquid broth, catches a ring of light, its surface a series of thick, swirling glazes in cobalt and emerald. The noodles themselves are thick, heavy ropes of white paint, coiling and twisting around a wooden spatula. At the upper left, the night sky over Taipei is a chaotic swirl of ultramarine and deep violet, the stars appearing as bright, pulsing orbs of chrome-yellow. At the upper right, the market stalls fade into a blur of hot orange and blood-red, suggesting the movement of passing crowds. Behind the subject, the street of the night market is a dense, textured thicket of indigo and black, where shadows dance in rhythmic, heavy impasto. At the lower left, the pavement of the market is a smear of dark brown and burnt sienna, the cracks catching a glint of reflected light. At the lower right, a stack of steaming bowls sits on a wooden table, the steam rendered as thick, curling ribbons of white paint. The lighting is a series of intense, directional glints that pulse from unseen overhead sources. Light hits the edges of the ceramic bowls, creating sharp, bright highlights against the dark shadows. The colors themselves seem to glow, casting long, restless shadows across the scene. The viewpoint is a close-up, slightly low, looking up at the vendor to emphasize the physical presence of the market. The focus is sharp on the texture of the noodles and the hands, while the background dissolves into a soft, impressionistic haze of heavy brushstrokes. The entire composition vibrates with an intense, heartfelt vitality, capturing the soul of a city at night. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 6,
+  "code": "japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A poster for a jazz night in Berlin",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "06_japanese-modernist-geometric_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a jazz night in Berlin, presented as a graphic design of flat geometric shapes and bold, minimalist typography. The poster features a large, overlapping circle of deep indigo representing a shadow over a city, partially obscured by a sharp, pale cream arc. A small, stylized silhouette of a human face, rendered in warm terracotta, sits behind a series of clean, straight lines. The background consists of a vast, empty space of charcoal grey, providing a heavy, silent foundation. At the upper left, a series of thin, vertical lines in muted olive create a sense of rhythmic movement. At the lower right, a single, perfect circle in vermilion rests against the charcoal grey edge. Behind the central subject, a collection of abstract, simplified buildings in pale pink and jade green are arranged in a way that mimics a skyline without detail. At the bottom, a row of small, white squares represents a collection of empty seats in a hall. \"JAZZ NIGHT IN BERLIN\" in a large, bold, black sans-serif typeface, centered at the top. \"SUNDAY, OCTOBER 15\" in a much smaller, white sans-serif typeface, placed directly underneath the main title. \"THE VENUE IS OPEN\" in a tiny, light grey sans-serif typeface, placed at the very bottom edge. \"STAY IN THE VOID\" in a small, white sans-serif typeface, placed near the bottom corner. The lighting is non-existent, replaced by the stark contrast between the deep indigo and the pale cream. The colors do not cast light, but rather exist as solid, unmoving planes. No shadows are visible, only the sharp, clean edges where one color meets another. The composition is strictly centered, using a formal, symmetrical layout typical of modernist design. The viewer's eye is drawn directly to the void created by the overlapping geometric forms. The overall effect is one of quiet, poised anticipation for a midnight performance. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ },
+ {
+  "i": 7,
+  "code": "japanese-modernist-geometric",
+  "seed": 7,
+  "prompt": "A poster for a jazz night in Berlin",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "07_japanese-modernist-geometric_s7_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a jazz night in Berlin, rendered as a modernist graphic design. The poster features a large, bold title reading \"JAZZ NIGHT\" in a clean, black sans-serif typeface. Below the title, the words \"IN BERLIN\" appear in a smaller, white font. A subtle, stylized silhouette of a saxophone, rendered in a deep charcoal, sits behind the text. The entire layout is composed of a series of overlapping, geometric arcs in shades of warm ochre and pale cream. At the upper left, a series of vertical charcoal lines create a rhythmic pattern. At the right, a series of circular arcs in muted indigo overlap to form a background pattern. In the lower third, a small block of text reads \"SUNDAY EVENING\" in a tiny, pale pink font. Behind the central text, a large, simplified abstract face, composed of smooth, flat shapes in vermilion and jade, is visible. At the bottom edge, a thin, horizontal line of pale cream separates the text from the bottom margin. \"JAZZ NIGHT\" in a large, black, sans-serif font at the center; \"IN BERLIN\" in a small, white, sans-serif font directly below it; \"SUNDAY EVENING\" in a tiny, pale pink, sans-serif font at the bottom center. The lighting is non-existent, as the piece is flat-printed onto a smooth paper surface. No shadows or highlights are present, only the hard edges of the printed ink. The composition uses a strict, centered layout with wide, empty spaces to maintain balance. The viewpoint is a direct, eye-level perspective looking at the flat graphic. The work carries a sense of quiet, poised elegance through its minimalist abstraction. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ }
+]

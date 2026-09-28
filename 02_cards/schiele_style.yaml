@@ -1,0 +1,28 @@
+code: schiele_style
+label_zh: "席勒表現線條 (schiele_style)"
+medium: painting
+aspect: '2:3'
+palette: colour
+adult_mood: true
+look_paragraph: >
+  A drawing in the style of Schiele, a nervous, angular contour line in pencil or ink that
+  twists and tenses around the figure, washed with patches of gouache and watercolour. Colour is
+  sparse and raw — ochre and reddish flesh, acid green, bruised violet — dabbed into joints,
+  hands and faces, leaving much bare paper. Bodies are thin, angular and contorted, hands spread
+  and bony, gazes intense and exposed. The figure is set against empty paper the setting left
+  undrawn, raw, anxious and unflinching.
+signature_lead: "A drawing in the style of Schiele, a tense angular contour line with raw patches of gouache on bare paper."
+signature_close: "Nervous angular line, raw flesh-toned gouache, bare paper, an anxious, unflinching intensity."
+mood:
+  default: medium
+  weak: "a restless, sparse intensity"
+  medium: "an anxious, exposed rawness"
+  strong: "a contorted, feverish intensity of line and flesh"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  angular self-portraits, contorted adult figures, bony spread hands, wilting sunflowers,
+  crooked town houses, embracing couples
+negative: "photograph, smooth oil painting, soft blending, background scenery, glamour, digital art, anime, minors"

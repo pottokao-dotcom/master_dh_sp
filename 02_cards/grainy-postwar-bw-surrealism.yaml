@@ -1,0 +1,32 @@
+code: grainy-postwar-bw-surrealism
+label_zh: 新舊撞擊粗粒黑白
+aspect: '3:2'
+palette: monochrome
+staging: surreal
+look_paragraph: >
+  A grainy, high-contrast black-and-white documentary photograph with a charged, faintly surreal
+  edge and the look of a mid-century print: rough heavy grain, crushed blacks and hard blown
+  highlights. The camera comes close to surfaces and lets their damage show — scarred, warped,
+  blistered, cracked, wet and glinting. Where the scene holds old and new things, they jam
+  against each other in the same frame, worn tradition pressed up against cheap modern plastic,
+  metal or asphalt. Frames are stark and a little off-balance, cut into fragments. The quiet
+  unease sits in the damaged surfaces and the hard glare, like a wound left open.
+signature_lead: A grainy, high-contrast black-and-white documentary photograph with a charged surreal edge.
+signature_close: Rough grain, crushed blacks, scarred surfaces, old and new jammed together.
+mood:
+  default: medium
+  weak: a quiet charged unease inside an ordinary scene
+  medium: a stark collision of old and new, grainy and tense
+  strong: a raw shock, scarred and warped surfaces glaring in hard contrast
+framing:
+  native: neutral
+  close: close charged detail, a scarred surface or a collision of textures
+  wide: a wider street where old and new press against each other
+habitual_subjects: >
+  1950s–70s Japanese streets, occupation-era signs and soldiers, melted and warped bottles,
+  scarred skin and surfaces, wet asphalt and neon, protesters, shrines beside concrete
+presets:
+  scar: a melted, warped, scarred surface, damage made visible
+  collision: worn tradition jammed against cheap modern things
+  unrest: wet asphalt, neon glare and a crowd, charged unease
+negative: clean, pretty, neutral snapshot, colour, smooth digital, nostalgic postcard, calm tourist street

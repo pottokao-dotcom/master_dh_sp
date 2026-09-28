@@ -1,0 +1,31 @@
+code: bw-epic-chiaroscuro
+label_zh: 黑白壯闊光影
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  An epic, dramatic black-and-white photograph with a deep, rich tonal range and biblical
+  chiaroscuro: a shaft or wash of light breaks through haze or cloud and sculpts the subject
+  into monumental grandeur. Blacks are deep and velvety, highlights luminous, fine grain and
+  immense detail throughout. The space opens wide and grave around the subject, sky and land or
+  crowd and structure rising to monumental scale. Any people in the frame are rendered with
+  sculptural dignity, their labour or endurance made almost sacred by the light. Sublime and
+  grave together.
+signature_lead: An epic black-and-white photograph in biblical chiaroscuro, a shaft of light sculpting the scene into monumental grandeur.
+signature_close: Deep velvety blacks, sculpting light through haze, monumental grave dignity, black and white.
+mood:
+  default: medium
+  weak: a grave, quiet dignity
+  medium: an epic reverence, dignity wrung from hardship
+  strong: a sublime, almost sacred grandeur
+framing:
+  native: wide
+  close: a closer sculptural view of a face, body or surface in dramatic light
+  wide: an epic wide vista with the subject in monumental space and dramatic light
+habitual_subjects: >
+  masses of labourers in mines and industry, migrants on the move, vast deserts, glaciers and
+  forests, indigenous peoples
+presets:
+  labour: labour made monumental by dramatic light
+  genesis: vast sublime nature under sculpting light
+  dignity: grave sacred dignity in hardship
+negative: flat light, colour, snapshot, cheerful, intimate small scene, low contrast, ordinary dramatic black and white photo

@@ -1,0 +1,31 @@
+code: symmetric-empty-grand-interiors
+label_zh: 宏偉對稱空曠室內
+aspect: '4:3'
+palette: colour
+density: sparse
+look_paragraph: >
+  A serene large-format colour photograph of an interior, rigorously symmetrical, taken from the
+  centre line in a frontal one-point perspective so the room recedes evenly into deep space. Even
+  ambient light fills every corner with balanced tones and soft shadow. The colour of the room's
+  own materials is rich and warm, saturated yet natural, and the detail is immense and clean from
+  the nearest floorboard to the farthest cornice. The space stands vacant beyond what the task
+  places in it; worn floors and whatever the room holds in orderly rows keep the quiet of the
+  crowds it was built for.
+signature_lead: A serene, rigorously symmetrical large-format colour photograph of an empty interior.
+signature_close: Strict symmetry, an empty room, even light, deep receding space.
+mood:
+  default: medium
+  weak: a calm ordered quiet, faintly hollow
+  medium: serene monumental reverence, a dignified emptiness
+  strong: an overwhelming sacred stillness that aches with absence
+framing:
+  native: neutral
+  close: closer onto a symmetric architectural detail
+  wide: the whole room seen at once, deep receding space
+habitual_subjects: >
+  grand libraries, opera houses, theatres, palaces, museums, reading rooms, grand staircases
+presets:
+  temple: a grand cultural hall, serene opulent monumentality
+  symmetry: rigorous perfect symmetry, balanced one-point perspective
+  stillness: empty reverent stillness
+negative: people, crowd, tilted angle, wide-angle distortion, harsh shadows, dim lighting, travel snapshot

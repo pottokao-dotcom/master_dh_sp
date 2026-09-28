@@ -1,0 +1,31 @@
+code: deep-focus-bw-street-early
+label_zh: 深焦黑白街頭錯位
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A deep-focus black-and-white street photograph on 35mm film, sharp from the nearest edge to
+  the far background so every layer of the visual clutter reads clearly. Plain daylight, fine
+  grain, a full range of greys. The framing looks careless but lands with precision: where a
+  pole, sign or lamppost stands in the scene, the camera lines it up so it sprouts straight out
+  of the subject, and signs, windows and passers-by crowd the layers behind. Anyone in the frame
+  is caught ordinary and unready, mid-action. The wit is deadpan: the world is messy, a little
+  absurd and worth playing with.
+signature_lead: A deep-focus black-and-white street photograph, sharp in every layer, the frame deliberately crowded.
+signature_close: Everything sharp front to back, plain daylight, deadpan collisions of things, black and white.
+mood:
+  default: medium
+  weak: a dry, everyday wit
+  medium: a deadpan, playful jumble of the ordinary
+  strong: a gleefully absurd collision of things, the world caught off guard
+framing:
+  native: neutral
+  close: closer, the subject jostled by a pole, sign or window edge
+  wide: a wider street with every layer sharp and readable
+habitual_subjects: >
+  small-town and city streets, parades, glowing television sets in empty rooms, shop windows,
+  signs and telephone poles, ordinary Americans
+presets:
+  collision: a pole or sign sprouting from the subject, deadpan
+  clutter: every layer of street clutter sharp and readable
+  unready: people caught ordinary and unposed, mid-action
+negative: shallow depth of field, bokeh, blur, clean minimal composition, posed portrait, colour, glamour, elegant balanced street photo

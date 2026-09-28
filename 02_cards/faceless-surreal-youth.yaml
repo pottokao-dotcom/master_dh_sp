@@ -1,0 +1,33 @@
+code: faceless-surreal-youth
+label_zh: 無臉仰角青空怪趣擺拍
+aspect: '2:3'
+palette: colour
+staging: surreal
+exceptions: [obscured]
+look_paragraph: >
+  A clean, fresh natural-daylight photograph with a wistful, nostalgic summer mood. The camera
+  often looks up from a low angle, setting the subject against a vivid blue sky or soft open
+  light. Anyone in the frame is seen faceless — from behind, the face turned away, hidden by
+  hair or an object, or cut off by the frame edge — so the figure becomes an anonymous symbol.
+  Bodies are held in deliberately odd, awkward or surreal staged poses: a mid-air leap, a stiff
+  tilt, a limb at a strange angle. Clean fine clarity, bright soft contrast, fresh colour;
+  playful, a little strange and quietly bittersweet.
+signature_lead: A clean, fresh daylight photograph from a low angle against a vivid blue sky, the figure faceless and oddly posed.
+signature_close: Vivid blue sky, a low upward angle, a faceless staged pose, fresh and quietly bittersweet.
+mood:
+  default: medium
+  weak: a light, fresh stillness, slightly odd
+  medium: a wistful, playful strangeness, anonymous and nostalgic
+  strong: an aching nostalgia, markedly surreal staged poses against an empty sky
+framing:
+  native: neutral
+  close: close on a strange gesture or the back of a figure, faceless
+  wide: a faceless figure leaping or posed against a vast open blue sky
+habitual_subjects: >
+  adult office workers in suits and white shirts leaping against blue sky, rooftops, telephone
+  wires, summer streets, ties flying mid-jump
+presets:
+  leap: a figure leaping against the vast blue sky, liberation
+  odd: a deliberately strange, awkward staged pose
+  anonymous: a faceless figure as an anonymous symbol of a passing summer
+negative: school uniform, minors, schoolgirl, sexualized, suggestive pose, frontal face portrait, smiling at camera, dark moody, harsh flash, ordinary youth snapshot

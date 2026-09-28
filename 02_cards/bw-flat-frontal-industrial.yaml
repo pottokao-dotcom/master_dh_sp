@@ -1,0 +1,32 @@
+code: bw-flat-frontal-industrial
+label_zh: 工業孤影黑白
+aspect: '4:3'
+palette: monochrome
+density: sparse
+look_paragraph: >
+  A deadpan, frontal black-and-white photograph made under flat, even overcast light that leaves
+  every surface shadowless. The camera stands square to the subject at eye level, centred,
+  verticals straight and the perspective calm, the same framing a catalogue would give every
+  object. Large-format detail runs from edge to edge, with fine grain and a full, smooth range of
+  neutral greys. Outdoors, the subject stands isolated against a blank, pale overcast sky. Every
+  seam, stain, flaking patch and weathered joint of its surface is recorded with quiet, even care,
+  as if the photograph were preserving something about to disappear.
+signature_lead: A frontal, centred black-and-white photograph under flat overcast light, in smooth neutral greys.
+signature_close: Flat overcast light, a square frontal view, neutral greys, black and white.
+mood:
+  default: medium
+  weak: quietly neutral, lightly documentary
+  medium: rigorously objective yet faintly elegiac
+  strong: absolute stillness with a hushed requiem beneath it
+framing:
+  native: neutral
+  close: closer, the subject filling the frame
+  wide: the subject centred with wide blank sky or ground around it
+habitual_subjects: >
+  water towers, gas holders, blast furnaces, winding towers, grain elevators, cooling towers,
+  half-timbered houses
+presets:
+  typology: rigorous frontality, an anonymous systematic catalogue
+  isolated: a single structure isolated against blank overcast sky
+  archaeology: the melancholy of an obsolete form, an archival record
+negative: dramatic sky, sunset, directional sunlight, deep shadows, tilted perspective, colour, casual snapshot of a building

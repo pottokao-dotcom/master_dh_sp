@@ -1,0 +1,27 @@
+code: rembrandt_style
+label_zh: "林布蘭光影 (rembrandt_style)"
+medium: painting
+aspect: '4:5'
+palette: colour
+look_paragraph: >
+  An oil painting in the style of Rembrandt: a warm golden light falls from one side out of deep
+  brown darkness, modelling the subject in rich chiaroscuro while the rest dissolves into
+  shadow. The palette is earthy — umber, ochre, amber, deep reds — glowing in thin glazes, with
+  thick impasto where the light strikes skin, metal or cloth. Brushwork is free and searching in
+  the shadows, precise in the lit areas. Faces carry an inward, searching humanity, every
+  wrinkle and fold treated with tenderness. Quiet, solemn and deeply human.
+signature_lead: "An oil painting in the style of Rembrandt, warm golden side light modelling the subject out of deep brown darkness."
+signature_close: "Warm golden chiaroscuro, earthy glazes, thick impasto in the light, an inward human depth."
+mood:
+  default: medium
+  weak: "a quiet, warm solemnity"
+  medium: "a searching, tender humanity out of darkness"
+  strong: "a profound, solemn inwardness, light wrested from shadow"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  biblical scenes, self-portraits in old age, merchants and scholars, candlelit interiors, gold
+  chains and velvet berets
+negative: "photograph, photorealistic, bright even lighting, flat colour, digital painting, anime, cold blue palette"

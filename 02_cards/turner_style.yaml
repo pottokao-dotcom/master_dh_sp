@@ -1,0 +1,27 @@
+code: turner_style
+label_zh: "透納大氣光霧 (turner_style)"
+medium: painting
+aspect: '3:2'
+palette: colour
+look_paragraph: >
+  A painting in the style of Turner, the scene dissolving into light, mist, spray and weather.
+  Thin washes and veils of colour — pale gold, amber, silver and sea-grey — sweep across the
+  surface, and a blazing sun or glow sits at the heart of the picture, swallowing outlines.
+  Solid forms appear as faint suggestions inside swirling atmosphere, with a few sharp touches
+  of darker paint. The paint is thin and scraped in places, thick and flicked in others. Loose,
+  sweeping and sublime, the elements themselves as the subject.
+signature_lead: "A painting in the style of Turner, the scene dissolving into swirling light, mist and golden haze."
+signature_close: "Veils of gold and silver light, swirling atmosphere, forms dissolving, sublime and elemental."
+mood:
+  default: medium
+  weak: "a soft golden haze"
+  medium: "a luminous, swirling atmosphere"
+  strong: "a sublime vortex of light, storm and sea"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  ships in storms and fog, sunsets over the sea, steam trains in rain, burning buildings, Venice
+  in haze, snowstorms
+negative: "photograph, sharp detail, crisp outlines, flat colour, dark heavy contrast, digital painting, anime"

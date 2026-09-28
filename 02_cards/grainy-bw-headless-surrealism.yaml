@@ -1,0 +1,33 @@
+code: grainy-bw-headless-surrealism
+label_zh: 黑白無頭荒誕
+aspect: '3:2'
+palette: monochrome
+staging: surreal
+exceptions: [obscured, blur]
+look_paragraph: >
+  A stark, grainy, high-contrast black-and-white photograph in which an ordinary everyday scene
+  turns quietly strange and dreamlike. Rough heavy grain, crushed black shadows and blown white
+  skies. Each person is plainly who they are — their clothes, build and gesture all there — while
+  the face is gone: a head turned away, cut off by the top edge of the frame, smeared into motion
+  blur, or hidden behind a hand, a cloth or an object. Space around them is empty and bleak — a
+  bare field, a blank wall, a white sky. One ordinary thing sits isolated and a little absurd, and
+  the stillness of the frame feels hollow.
+signature_lead: A stark, grainy black-and-white photograph, an ordinary scene made quietly strange, the figure faceless.
+signature_close: Rough grain, crushed blacks, a hidden face, empty bleak space.
+mood:
+  default: medium
+  weak: a quiet odd stillness, faintly off
+  medium: a dreamlike unease, the faceless figure adrift in empty space
+  strong: a stark hollow void, the figure anonymous and absurd against blank white
+framing:
+  native: neutral
+  close: a body cropped at the neck, or one absurd detail, stark and close
+  wide: an obscured figure standing in a wide empty field, blank space all around
+habitual_subjects: >
+  headless or back-turned figures, bodies blurred into ghosts, bleak fields and walls, masks,
+  everyday objects made strange, lone silhouettes, 1960s–70s Taiwanese countryside
+presets:
+  void: a headless figure adrift in a bleak emptiness
+  surreal: an everyday scene made strange, one absurd isolated detail
+  blur: a body smeared into ghostly motion, anonymous
+negative: clear frontal face, smiling portrait, clean, colour, smooth digital, busy cheerful street, ordinary grainy portrait

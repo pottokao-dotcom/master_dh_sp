@@ -1,0 +1,31 @@
+code: isolated-bw-portraits
+label_zh: 白底黑白人像
+aspect: '3:4'
+palette: monochrome
+density: sparse
+look_paragraph: >
+  A stark, high-contrast black-and-white portrait against a pure white seamless background, the
+  subject completely isolated in clean, shadowless white. Even, frontal light and large-format
+  sharpness show every pore, line, freckle and loose thread with unflinching clarity. The person
+  faces the camera directly, fully exposed: the social mask slips and a raw, honest, finite human
+  presence comes through. Clean whites, deep velvety accents in hair, eyes and clothing, and a
+  frame that holds a face or a whole standing figure in the empty white.
+signature_lead: A stark black-and-white portrait against a pure white seamless background, sharp in every detail.
+signature_close: A pure white void, unflinching frontal sharpness, an honest human presence, black and white.
+mood:
+  default: medium
+  weak: a plain, direct presence
+  medium: unflinching honest exposure, the mask stripped away
+  strong: raw confrontational intensity, a person laid bare against the void
+framing:
+  native: neutral
+  close: a tight, unflinching face filling the frame
+  wide: the whole figure standing alone in white emptiness
+habitual_subjects: >
+  working people and drifters of the American West, artists, the powerful, ordinary faces;
+  models caught in energetic motion
+presets:
+  portrait: raw psychological portrait, weathered honest humanity
+  motion: dynamic movement, energy and joy against the white
+  gaze: an unflinching gaze with nowhere to hide
+negative: background scenery, shadows on backdrop, soft focus, retouched skin, colour, glamour

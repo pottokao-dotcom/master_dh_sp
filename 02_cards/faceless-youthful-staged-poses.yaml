@@ -1,0 +1,34 @@
+code: faceless-youthful-staged-poses
+label_zh: 無臉柔夢俏皮擺拍
+aspect: '2:3'
+palette: colour
+adult_mood: true
+staging: surreal
+exceptions: [obscured]
+look_paragraph: >
+  A soft, dreamy natural-daylight photograph with a nostalgic, youthful summer feel and gentle
+  film warmth. The camera often looks up from a low angle into vivid blue sky or soft everyday
+  light. Anyone in the frame is seen faceless — from behind, the face turned away, veiled by
+  hair or cropped by the frame — so body and gesture carry everything. Poses are deliberately
+  playful, coy or a little strange, staged with a wink. Colours are fresh soft pastels, contrast
+  gentle, the finish clean with a faint film softness. The atmosphere is wistful and teasing,
+  charged yet tender, artful rather than glossy.
+signature_lead: A soft, dreamy daylight photograph in fresh pastels, a faceless figure in a playful staged pose under blue sky.
+signature_close: Soft pastel daylight, a low angle, a faceless coy pose, wistful and gently teasing.
+mood:
+  default: medium
+  weak: a light playful freshness, a hint of coy ambiguity
+  medium: a dreamy nostalgic teasing, softly charged
+  strong: a strongly coquettish, dreamlike playfulness, faceless and artful
+framing:
+  native: neutral
+  close: close on a playful gesture or the curve of a back, faceless and artful
+  wide: a faceless figure in a playful pose against a vast open blue sky
+habitual_subjects: >
+  adult young women in sundresses or loose shirts, rooftops, blue sky, bedrooms with sheer
+  curtains, lounging or jumping
+presets:
+  coy: a coy, playful teasing pose, soft and dreamy
+  ambiguous: a softly charged ambiguity, mood over body
+  leap: a figure leaping against the blue sky, joy
+negative: school uniform, minors, explicit, pornographic, glossy glamour, hard flash, frontal face portrait, noir, ordinary sexy photo

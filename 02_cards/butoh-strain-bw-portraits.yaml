@@ -1,0 +1,34 @@
+code: butoh-strain-bw-portraits
+label_zh: 扭曲肉身黑白劇
+aspect: '3:2'
+palette: monochrome
+adult_mood: true
+staging: surreal
+exceptions: [blur]
+look_paragraph: >
+  A dramatic, high-contrast black-and-white photograph with deep crushed blacks and intense
+  chiaroscuro, coarse expressive grain and a theatrical, dreamlike darkness. Light carves the
+  figure out of the black like sculpture. The camera finds the body at its moment of greatest
+  tension, whatever it is doing: tendons, knuckles and sinews standing out, flesh pressed,
+  twisted and compressed, a neck or back caught at the strain point rather than at rest. Framing
+  crops hard into the body and its shadow, and quick movement smears into blur. Skin glows
+  against the black like something both desired and mourned, ritual and uncanny.
+signature_lead: A dramatic black-and-white photograph in deep chiaroscuro, the figure carved out of darkness at a moment of strain.
+signature_close: Crushed blacks, coarse grain, taut straining flesh, theatrical darkness.
+mood:
+  default: medium
+  weak: a quiet uncanny shadow over the figure
+  medium: a sensual darkness edged with dread, the body taut
+  strong: an intense ritual charge, the body carved and straining in the black
+framing:
+  native: neutral
+  close: an abstracted fragment of the straining body, cropped into flesh and shadow
+  wide: a lone figure straining within a stark open landscape
+habitual_subjects: >
+  nude bodies as sculpture, butoh dancers with whitened skin, ritual gestures, roses pressed to
+  flesh, rice fields and farm villages, surreal pairings of body and shadow
+presets:
+  rose: flesh and a rose as dark sculpture, sensual and funereal
+  butoh: blurred ritual motion, a primal straining body
+  surreal: a dreamlike uncanny staging of body and shadow
+negative: calm relaxed pose, soft glamour nude, smooth skin, colour, bright even light, clean studio, high-contrast nude without tension

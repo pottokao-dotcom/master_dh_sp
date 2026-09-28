@@ -1,0 +1,31 @@
+code: deep-focus-bw-street-late
+label_zh: 黑白框中框枝椏雜景
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A wide-angle black-and-white photograph crammed corner to corner with overlapping layers,
+  sharp throughout, fine grain and a full grey scale. The subject is often seen through whatever
+  the scene offers as a second frame — a window, a windshield, a doorway, a mirror holding
+  another view — so frames nest inside frames. Where plants grow, tangled branches, stems and
+  weeds crawl across the picture and half enclose the subject, dense to the point of comedy. The
+  camera stands close with a wide lens, cutting bodies and things at the frame edge, awkward and
+  candid. The pace is slow and overloaded, every crowded corner quietly accepted as it is.
+signature_lead: A wide-angle black-and-white photograph crammed with overlapping layers, frames within frames, sharp throughout.
+signature_close: Frames within frames, dense overlapping layers, fine grain, a quiet overloaded calm, black and white.
+mood:
+  default: medium
+  weak: a quiet, cluttered calm
+  medium: a slow, overloaded acceptance of things as they are
+  strong: an old man's restless visual overload, every corner filled
+framing:
+  native: neutral
+  close: closer, the subject cut and enclosed by a frame or tangled branches
+  wide: a wider view seen through a window or windshield, layers to every corner
+habitual_subjects: >
+  America seen through a car window, desert and tangled stems, aging bodies, self-portraits,
+  square awkward nudes
+presets:
+  frames: frames within frames, a view through glass and mirror
+  tangle: branches and stems crawling across the whole picture
+  overload: every corner filled with overlapping layers
+negative: clean minimal frame, shallow depth of field, blur, empty space, colour, glamour, polished portrait

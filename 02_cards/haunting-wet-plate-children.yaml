@@ -1,0 +1,31 @@
+code: haunting-wet-plate-children
+label_zh: 濕版瑕疵幽夢
+aspect: '4:3'
+palette: monochrome
+look_paragraph: >
+  A haunting wet-plate collodion photograph, soft and dreamlike, in silvery tones with a faint
+  antique cast. The plate carries its chemical flaws: scratches, streaks, pour marks, light
+  leaks, blurred halos and a dark vignette that swallows the corners. A glowing haze softens the
+  highlights while deep shadow pools low in the frame, and parts of the picture melt into soft
+  focus as if time itself had moved during the exposure. The subject seems both present and
+  already becoming memory. The haze and scratches make it tender and intimate, shadowed by
+  decay, faintly ominous.
+signature_lead: A haunting wet-plate collodion photograph, silvery and dreamlike, scratched and haloed by antique chemical flaws.
+signature_close: Wet-plate flaws, glowing haze, dark vignette, a tender and faintly ominous dream, black and white.
+mood:
+  default: medium
+  weak: a soft, dreamy melancholy
+  medium: a haunting tenderness shadowed by time
+  strong: memory and mortality blooming through the flaws of the plate
+framing:
+  native: neutral
+  close: an intimate close view dissolving into halos and soft focus
+  wide: a hazy landscape suffused with wet-plate flaws and vignette
+habitual_subjects: >
+  humid fields and rivers, mossy woods, decaying houses and porches, old trees, quiet rural land
+  at dusk
+presets:
+  dream: a tender wet-plate dream shadowed by time
+  land: decaying land suffused with chemical halos
+  haunt: memory blooming through the flaws of the plate
+negative: children, nude, minors, clean modern sharp, digital, colour, high-key, glossy, ordinary sepia filter photo

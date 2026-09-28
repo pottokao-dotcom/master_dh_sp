@@ -1,0 +1,27 @@
+code: monet_style
+label_zh: "莫內印象光色 (monet_style)"
+medium: painting
+aspect: '3:2'
+palette: colour
+look_paragraph: >
+  An Impressionist oil painting in the style of Monet, painted outdoors to catch a passing
+  moment of light. Short, broken strokes of pure colour sit side by side and blend in the eye;
+  shadows are coloured violet and blue, highlights warm and flickering. Edges soften and
+  dissolve into atmosphere — mist, water, sunlight through leaves — and reflections shimmer in
+  broken horizontal strokes. The whole surface vibrates with light and air rather than outline,
+  fresh, luminous and fleeting, the canvas showing through in places.
+signature_lead: "An Impressionist oil painting in the style of Monet, short broken strokes of pure colour catching fleeting light."
+signature_close: "Broken strokes of pure colour, coloured shadows, shimmering reflections, fresh fleeting light."
+mood:
+  default: medium
+  weak: "a soft, luminous calm"
+  medium: "a fresh, shimmering moment of light and air"
+  strong: "a dissolving vision, form melting into light"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  water lilies and garden ponds, haystacks and poppy fields, cathedrals at different hours, the
+  river, parasols in meadows
+negative: "photograph, sharp outlines, flat colour, dark heavy shadows, smooth digital painting, anime, hard edges"

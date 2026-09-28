@@ -1,0 +1,27 @@
+code: hokusai_style
+label_zh: "北齋浮世繪木刻 (hokusai_style)"
+medium: painting
+aspect: '3:2'
+palette: colour
+look_paragraph: >
+  A Japanese woodblock print in the style of Hokusai: bold, flowing black outlines enclose flat
+  areas of colour printed in layered blocks — Prussian blue, indigo, soft pink, ochre and pale
+  green — with the grain of the wood and the soft texture of the paper showing through. Space is
+  built from overlapping planes rather than perspective; clouds, waves and water become stylised
+  patterns of curls and lines. Composition is dynamic and daring, a strong diagonal or a huge
+  form framing a small detail. Graphic, energetic and precise.
+signature_lead: "A Japanese woodblock print in the style of Hokusai, bold outlines and flat layered colour, Prussian blue and indigo."
+signature_close: "Bold flowing outlines, flat layered woodblock colour, stylised waves and clouds, wood and paper texture."
+mood:
+  default: medium
+  weak: "a calm, graphic clarity"
+  medium: "a dynamic, daring woodblock energy"
+  strong: "a towering, dramatic force of nature in line and colour"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  great waves, Mount Fuji from many places, travellers on mountain roads, waterfalls and
+  bridges, fishermen, cranes
+negative: "photograph, oil painting, soft shading, 3D, gradients, realistic perspective, digital painting, anime"

@@ -1,0 +1,32 @@
+code: high-gloss-noir-glamour
+label_zh: 冷冽奢華高反差
+aspect: '2:3'
+palette: either
+adult_mood: true
+look_paragraph: >
+  A high-gloss, high-contrast glamour photograph with the polish of a cinematic noir still: hard
+  directional light or hard flash, deep inky blacks, sharp glossy clarity, the tones cold and
+  lacquered whether in black and white or in bold colour. The staging is bold and theatrical; the
+  camera often takes in the whole figure head to feet from a slightly voyeuristic vantage and sets
+  it up like a statue. The subject is the one in command, a cold, direct stare that owns the
+  frame, while skin, fabric, glass and chrome gleam. An undertow of erotic power and danger lives
+  in the gaze and the shadow, as if the whole polished world could crack.
+signature_lead: A glossy, hard-lit, high-contrast noir glamour photograph.
+signature_close: Hard light, deep noir blacks, a cold commanding gaze.
+mood:
+  default: medium
+  weak: a poised sensual confidence
+  medium: commanding power, cool noir tension with a faint menace
+  strong: transgressive dominance, voyeuristic luxury shadowed by cold command
+framing:
+  native: neutral
+  close: bold close glamour, a commanding presence filling the frame
+  wide: the whole figure staged head to feet with space around it
+habitual_subjects: >
+  powerful nude or dressed figures, luxury hotels, poolsides, stiletto heels, mirrors, staged
+  noir scenarios, the wealthy
+presets:
+  statuesque: a full-figure view set up like a statue, commanding
+  noir: noir glamour, cool transgressive tension
+  power: dominance, luxury and control shadowed by danger
+negative: soft light, cute, smiling, weapon, knife, gun, cropped limbs, amateur snapshot, merely glossy sexy photo

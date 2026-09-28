@@ -1,0 +1,33 @@
+code: flash-outdoor-intimate-snapshot
+label_zh: 戶外直閃街頭日記
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+exceptions: [tilt]
+look_paragraph: >
+  A snapshot on saturated 1970s consumer colour film, lit by a direct flash that overpowers
+  whatever light is there: even outdoors in daylight, the nearest surfaces are popped flat and
+  bright and a hard shadow falls straight behind. The camera is close, casual and a little
+  tilted, catching someone unguarded and slack rather than posing. Around them the everyday
+  scene — pavement, shutters, doorways, a grey sky — stays ordinary, which makes anything
+  private or greedy happening in it feel exposed. Warm cast, deep reds, faded grain, a
+  mischievous bad-taste edge.
+signature_lead: A direct-flash snapshot on saturated 1970s colour film, the flash popping the scene flat even in daylight.
+signature_close: Flat hard flash over daylight, deep reds, a casual tilt, a mischievous exposed intimacy.
+mood:
+  default: medium
+  weak: a casual everyday closeness
+  medium: a mischievous, exposed intimacy in an ordinary place
+  strong: a perverse, bad-taste charge, desire breaking through composure
+framing:
+  native: close
+  close: point-blank and tilted, the ordinary street behind
+  wide: pulled back to show more of the street, shutters and sky
+habitual_subjects: >
+  old downtown streets and alleys, shop shutters, wooden house doorways, overcast sky, women in
+  kimono eating messily, split watermelon
+presets:
+  exposed: a private act exposed in an ordinary public place
+  flash: daylight popped flat by a hard frontal flash
+  sky: an overcast sky over the street, faded melancholy
+negative: soft natural light, golden hour, studio lighting, posed, glamour, clean tidy street, travel snapshot, tungsten side light

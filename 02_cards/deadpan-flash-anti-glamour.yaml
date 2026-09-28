@@ -1,0 +1,31 @@
+code: deadpan-flash-anti-glamour
+label_zh: 硬閃反精緻冷面時尚
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A casual, deadpan snapshot shot with a harsh on-camera flash, even in bright daylight, so
+  faces and clothes are blown flat and a little overexposed while the background stays plain.
+  Everything is unretouched and slightly unflattering on purpose: blotchy skin, creases, awkward
+  angles, a frame that looks careless and a bit crooked. Colour is bright, cheap and ordinary,
+  the setting everyday rather than glamorous. Anyone the task names looks straight at the lens
+  with a blank or wry expression, caught between poses; with nobody named, the place stays empty
+  and the deadpan lives in the things themselves. Funny, frank and anti-glamorous.
+signature_lead: A harsh on-camera flash snapshot, deadpan and unretouched, blown flat even in daylight.
+signature_close: Harsh flat flash, bright ordinary colour, unretouched and awkward, a wry deadpan honesty.
+mood:
+  default: medium
+  weak: a dry, casual frankness
+  medium: a wry, deadpan anti-glamour
+  strong: an absurd, gleefully unflattering honesty
+framing:
+  native: neutral
+  close: a close, flash-blown face or detail, unretouched
+  wide: the whole figure standing awkwardly in an ordinary place
+habitual_subjects: >
+  celebrities and models in ordinary places, hotel rooms, parking lots, kitchens, the
+  photographer's own family, fruit and food
+presets:
+  flash: harsh flash blowing the scene flat
+  awkward: an awkward, unposed, unflattering moment
+  wry: a wry deadpan stare into the lens
+negative: retouched, glossy, soft light, polished studio, elegant pose, cinematic lighting, ordinary fashion editorial

@@ -1,0 +1,31 @@
+code: whimsical-fairytale-fashion
+label_zh: 童話劇院奇幻時裝
+aspect: '1:1'
+palette: saturated
+staging: surreal
+look_paragraph: >
+  A whimsical fairytale fashion photograph, romantic and theatrical, in soft painterly light.
+  Colour is either a sweet pastel candy palette or rich storybook hues, lavish and hand-made in
+  feel. The staging is eccentric and dreamlike: whatever the scene holds is arranged like a
+  storybook set, and scale plays tricks, so something beside the subject looms enormous.
+  Textures are tactile and handcrafted — paper, fabric, painted wood, flowers. The wonder is
+  childlike and generous, with a faint wistful, quirky melancholy folded into the escape.
+signature_lead: A whimsical fairytale fashion photograph in soft painterly light, lavish, theatrical and dreamlike.
+signature_close: Storybook colour, painterly light, a play of scale, handcrafted wonder with a wistful edge.
+mood:
+  default: medium
+  weak: a gentle storybook charm
+  medium: an eccentric, enchanted wonder
+  strong: a lavish dream-logic fantasy with a melancholy undertow
+framing:
+  native: wide
+  close: closer onto a single whimsical subject
+  wide: a theatrical tableau with room to breathe, scale playing tricks
+habitual_subjects: >
+  English country houses, fairytale forests, giant dolls and oversized everyday objects,
+  eccentric costumed characters, animals
+presets:
+  fairytale: an enchanted storybook set
+  eccentric: eccentric uncanny whimsy
+  pastel: soft dreamy pastel romance
+negative: gritty, documentary, harsh flash, drab colour, minimal studio, realistic snapshot, ordinary pastel fashion photo

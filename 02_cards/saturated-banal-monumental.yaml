@@ -1,0 +1,30 @@
+code: saturated-banal-monumental
+label_zh: 俗物飽色巨像
+aspect: '3:2'
+palette: saturated
+look_paragraph: >
+  A richly saturated dye-transfer colour photograph that treats whatever it sees as monumental.
+  Ordinary daylight, deep luminous colour — dense reds, greens and ambers — and a smooth,
+  saturated 1970s film finish. The camera takes an unexpected low or oblique angle, often close to
+  the ground, so an everyday thing looms large and strangely important. Everything in the frame is
+  ranked equally; the plainest thing in view gets the same full attention as the subject. The
+  result is vivid, calm and a little uneasy, the everyday turned strange.
+signature_lead: A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental.
+signature_close: Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large.
+mood:
+  default: medium
+  weak: an ordinary scene in pleasant saturated colour
+  medium: a banal thing made monumental and oddly charged
+  strong: the overlooked made vivid and uneasy, the everyday transfigured
+framing:
+  native: neutral
+  close: an ordinary object filling the frame from a low, oblique angle
+  wide: an ordinary scene — a lot, a yard, an interior — in rich colour
+habitual_subjects: >
+  tricycles, parked cars, diners, gas stations, freezers, ceilings with bare bulbs, suburban yards,
+  shop interiors of the American South
+presets:
+  democratic: an everyday object rendered monumental in deep colour
+  colour note: a single bold colour note in an ordinary scene
+  banal: the overlooked made strangely charged and vivid
+negative: muted colour, desaturated, grand landscape, beauty shot, glossy advertising, black and white

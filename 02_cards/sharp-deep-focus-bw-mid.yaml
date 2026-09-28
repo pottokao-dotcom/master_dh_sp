@@ -1,0 +1,31 @@
+code: sharp-deep-focus-bw-mid
+label_zh: 黑白反射層疊街景
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A sharp, deep-focus black-and-white photograph in which reality comes in layers. Where there
+  is glass, reflections stack over what lies behind it, so street, sky and figures overlap and
+  slide into one flat plane. In sunlight, the photographer's own long shadow falls into the
+  frame, across the ground or the subject's back. Wires, poles, window frames and railings slice
+  the picture into cells, and something in the foreground cuts across the subject. It looks
+  casually wrong and is precise to the millimetre. Fine grain, plain daylight, every layer
+  sharp, a dry self-mocking wit.
+signature_lead: A sharp, deep-focus black-and-white photograph, reflections and lines slicing the scene into layers.
+signature_close: Layered reflections, slicing lines, everything sharp, a dry deadpan wit, black and white.
+mood:
+  default: medium
+  weak: a quiet layered oddness
+  medium: a deadpan, self-mocking layering of the everyday
+  strong: a dizzying pile-up of reflections, shadows and lines, reality folded flat
+framing:
+  native: neutral
+  close: closer, the subject cut and overlaid by glass, shadow or frame
+  wide: a wider street scene sliced into cells by poles and wires
+habitual_subjects: >
+  shop windows with mannequins, gas stations and motels, roadside America, the photographer's
+  own shadow on people and walls
+presets:
+  reflection: reflections in glass stacked over the scene
+  shadow: the photographer's own long shadow falling across the subject
+  grid: wires and poles slicing the frame into cells
+negative: clean glass, shallow depth of field, blur, simple uncluttered frame, colour, posed portrait, ordinary street snapshot

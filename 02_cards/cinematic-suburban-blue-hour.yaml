@@ -1,0 +1,31 @@
+code: cinematic-suburban-blue-hour
+label_zh: 暮光電影感凝結場景
+aspect: '16:9'
+palette: colour
+look_paragraph: >
+  A cinematic large-format photograph lit like a film set at the blue hour: cold blue twilight
+  outside, warm pools of light glowing from windows, doorways and lamps within the scene,
+  drifting mist and atmosphere between them. Everything is sharp from front to back,
+  ultra-detailed and clean, the palette desaturated teal and amber. The framing is a symmetrical
+  film still, a tableau held in suspended time. Anyone in the frame stands frozen mid-moment,
+  gaze unfocused, as if something private has just cracked inside them. The ordinary scene feels
+  quietly, intimately wrong.
+signature_lead: A cinematic large-format photograph at the blue hour, cold twilight against warm window light, mist and deep focus.
+signature_close: Blue-hour twilight, warm window glow, drifting mist, a frozen film-still stillness.
+mood:
+  default: medium
+  weak: an uncanny twilight quiet
+  medium: a suspended dread, something quietly wrong
+  strong: a private collapse frozen in a vast, silent tableau
+framing:
+  native: wide
+  close: a closer film still on the subject, still frozen
+  wide: a wide symmetrical tableau with space around the subject, lit windows and mist
+habitual_subjects: >
+  small-town streets at dusk, lit houses, empty yards, diners, parked cars, a lone figure
+  standing in the road
+presets:
+  twilight: uncanny twilight stillness, eerie quiet
+  window: a figure by a glowing window, interior isolation
+  street: an empty dusk street, motionless, drifting mist
+negative: daylight snapshot, harsh flash, shallow depth of field, busy action, candid street photo, pretty suburban sunset

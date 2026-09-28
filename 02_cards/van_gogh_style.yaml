@@ -1,0 +1,32 @@
+code: van_gogh_style
+label_zh: "梵谷筆觸 (van_gogh_style)"
+medium: painting
+aspect: '4:5'
+palette: saturated
+look_paragraph: >
+  An oil painting in the style of Van Gogh: thick impasto laid on in short, directional
+  brushstrokes that swirl and ripple through every surface — sky, water, walls, faces and fields
+  all move with the same restless rhythm. Colour is vivid and emotional, built from
+  complementary pairs: cobalt and ultramarine against chrome yellow and orange, emerald against
+  red. Forms carry dark contour lines, perspective bends slightly, and light seems to pulse from
+  lamps, stars and sun as rings of thick paint. The canvas texture and ridges of paint are
+  visible everywhere, intense, heartfelt and alive.
+signature_lead: "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour."
+signature_close: "Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+mood:
+  default: medium
+  weak: "a warm, vivid everyday calm"
+  medium: "an intense, heartfelt vitality"
+  strong: "an ecstatic, turbulent emotion swirling through everything"
+framing:
+  native: neutral
+  close: "a close painted study, the brushstrokes large and visible"
+  wide: "a wide landscape or scene, the sky swirling above"
+habitual_subjects: >
+  wheat fields and cypresses, starry night skies, sunflowers, café terraces at night, village
+  streets, peasants at work, self-portraits
+presets:
+  swirl: "swirling, rhythmic brushstrokes through the sky"
+  sunflower: "chrome yellow and orange against cobalt blue"
+  night: "a starry night with pulsing rings of light"
+negative: "photograph, photorealistic, smooth digital painting, flat vector, airbrushed, thin wash, muted colour, anime"

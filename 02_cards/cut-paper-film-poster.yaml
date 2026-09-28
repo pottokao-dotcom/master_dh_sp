@@ -1,0 +1,25 @@
+code: cut-paper-film-poster
+label_zh: "剪紙極簡電影海報 (cut-paper film poster)"
+medium: design
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A minimalist mid-century film poster made from simple cut-paper shapes: one bold symbolic
+  silhouette or fragmented figure in black against a single flat field of colour — orange, red
+  or yellow — with ragged, hand-cut edges. Everything unnecessary is removed; the image is a
+  single idea. Lettering is hand-cut or hand-drawn, irregular and slightly uneven, set in a
+  small block with the credits. The paper grain and slight misalignment of the cut layers show.
+  Stark, graphic and suspenseful.
+picture_paragraph: "The picture is made of flat cut-paper shapes with ragged hand-cut edges: one bold symbolic silhouette on a flat field of colour."
+page_paragraph: "The page is a minimalist mid-century film poster made from cut paper: a single flat field of colour — orange, red or yellow — with a few bold black cut-paper shapes with ragged, hand-cut edges around the picture, echoing its subject as a silhouette. The picture sits as one clean panel on the paper, reproduced as it is. Lettering is hand-cut or hand-drawn, irregular and slightly uneven, in a small block with the credits. The paper grain and slight misalignment of the cut layers show."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "mid-century cut-paper"   # v4.1 B 組:「接下來你成為 mid-century cut-paper 平面設計師」
+signature_lead: "A minimalist cut-paper film poster, one bold black silhouette against a single flat field of colour."
+signature_close: "Ragged cut-paper shapes, one flat colour field, a single symbolic silhouette, stark and suspenseful."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  thriller and drama film posters, spiralling shapes, disjointed arms and figures, title
+  sequences
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

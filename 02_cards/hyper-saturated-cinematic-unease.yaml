@@ -1,0 +1,31 @@
+code: hyper-saturated-cinematic-unease
+label_zh: 超飽和電影感不安
+aspect: '2:3'
+palette: saturated
+look_paragraph: >
+  A hyper-saturated, cinematic colour photograph with the lush look of old Technicolor film:
+  candy pinks, poison greens, deep reds, every surface lacquered and flawless under controlled
+  studio light. The scene is staged with perfect order, a pristine interior or set arranged like
+  a film still. Anyone the task names holds a doll-like stillness, gaze blank or drifting; with
+  nobody named, the empty scene itself looks too perfect, as if something is quietly wrong
+  behind it. The polish is total and the unease seeps through it — pop, glamorous and
+  psychologically tense.
+signature_lead: A hyper-saturated cinematic colour photograph, lacquered Technicolor perfection with a quiet unease.
+signature_close: Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection.
+mood:
+  default: medium
+  weak: a glossy, faintly odd calm
+  medium: a pristine perfection with a quiet unease
+  strong: a lurid psychological tension under total polish
+framing:
+  native: neutral
+  close: a close film still, a blank gaze and lacquered colour
+  wide: a pristine staged interior like a film still, the subject within it
+habitual_subjects: >
+  glamorous housewives in perfect kitchens, pills and cigarettes, tearful blank faces, pastel
+  suburban interiors, lacquered nails
+presets:
+  technicolor: lush Technicolor saturation
+  uncanny: doll-like stillness, something quietly wrong
+  filmstill: a pristine staged film still
+negative: muted colour, grainy, candid, natural light, messy, documentary, ordinary glossy advertisement

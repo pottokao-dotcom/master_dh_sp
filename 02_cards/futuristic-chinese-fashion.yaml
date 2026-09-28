@@ -1,0 +1,31 @@
+code: futuristic-chinese-fashion
+label_zh: 瓷肌鮮色未來中式
+aspect: '3:4'
+palette: saturated
+look_paragraph: >
+  A hyper-polished digital fashion photograph with a high-gloss graphic surface and bold, vivid,
+  jewel-toned colour. Light is bright, clean and even, contrast controlled and luminous. Skin is
+  flawless matte porcelain — smooth, powdery and clean, the gloss living in the colour and the
+  graphic shapes rather than on the skin. Wherever the scene has clothing, ornament, props or a
+  set, traditional Chinese motifs meet sleek futurist forms: brocade beside chrome, calligraphic
+  curves beside hard-edged geometry. Framing is bold and iconic, every surface immaculate and
+  retouched to perfection, confident and aspirational.
+signature_lead: A hyper-polished digital fashion photograph in bold jewel-toned colour, flawless matte porcelain skin, graphic and immaculate.
+signature_close: Bold graphic colour, flawless matte skin, clean luminous light, tradition fused with the future.
+mood:
+  default: medium
+  weak: a polished, poised confidence
+  medium: a bold, iconic modern elegance
+  strong: an audacious, flawless futurist grandeur
+framing:
+  native: neutral
+  close: a bold iconic close-up, the face or form filling the frame
+  wide: the subject staged within an elaborate graphic set
+habitual_subjects: >
+  Chinese models and celebrities, magazine covers, opera costumes, ethnic dress, zodiac motifs,
+  painted landscapes fused with futurism
+presets:
+  fusion: traditional motifs fused with futurist forms
+  gloss: vivid saturated graphic colour, high-gloss surface
+  flawless: flawless porcelain perfection, iconic
+negative: oily skin, greasy, wet skin, grainy, gritty documentary, muted colour, messy background, amateur snapshot, ordinary glossy fashion photo

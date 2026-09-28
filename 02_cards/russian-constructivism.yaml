@@ -1,0 +1,25 @@
+code: russian-constructivism
+label_zh: "俄國構成主義 (Constructivism)"
+medium: design
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A Russian Constructivist design: bold diagonal composition with blocks, bars and circles
+  thrust across the page at sharp angles, printed in flat red, black and off-white on rough
+  paper. Heavy condensed sans-serif lettering runs along the diagonals and up the edges,
+  sometimes stacked or angled, carrying slogans with urgency. The picture enters as cut-out
+  fragments — figures and objects clipped, enlarged, repeated and set against the geometry,
+  often seen from a dramatic low angle. Dynamic, revolutionary and loud.
+picture_paragraph: "The picture is a cut-out photomontage: figures and objects clipped from high-contrast black-and-white photographs, enlarged, angled and sometimes tinted red."
+page_paragraph: "The page is a Russian Constructivist layout: blocks, bars and circles thrust across the sheet on sharp diagonals, printed in flat red, black and off-white on rough paper. The picture is set at a sharp angle along a diagonal, its rectangle clipped and tilted against the geometry, reproduced as it is. Heavy condensed sans-serif lettering runs along the diagonals and up the edges, stacked or angled, carrying a slogan with urgency."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Russian Constructivist"   # v4.1 B 組:「接下來你成為 Russian Constructivist 平面設計師」
+signature_lead: "A Russian Constructivist poster, bold red and black diagonals, heavy sans-serif lettering and cut-out photomontage."
+signature_close: "Sharp diagonals, flat red and black, stacked condensed type, photomontage cut-outs, urgent and dynamic."
+signature_lead_composite: "A Russian Constructivist poster, bold red and black diagonals, heavy sans-serif lettering and sharply cut-out shapes."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  propaganda posters, film posters, book covers, workers and machines, megaphones, radio towers
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

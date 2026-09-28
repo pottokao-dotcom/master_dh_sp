@@ -1,0 +1,26 @@
+code: art-deco-travel-poster
+label_zh: "裝飾藝術旅遊海報 (Art Deco)"
+medium: design
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  An Art Deco travel poster: bold, simplified forms reduced to sleek geometry and dramatic
+  perspective, with strong verticals and streamlined curves. Colour is flat and luminous in
+  smooth airbrushed gradients — midnight blue, cream, gold, coral — and shapes are crisp-edged
+  like a stencil. Lettering is a tall, elegant geometric sans-serif, widely spaced, set in a
+  band across the top or bottom. The picture is framed boldly within the layout, given a
+  monumental, forward-leaning presence of speed and modernity. Glamorous, optimistic and grand.
+picture_paragraph: "The picture is a stylised illustration: forms simplified into sleek geometry, smooth airbrushed gradients, crisp stencil-like edges and dramatic perspective."
+page_paragraph: "The page is an Art Deco travel poster layout: strong verticals, streamlined curves and stepped geometric borders in flat, smooth airbrushed gradients of midnight blue, cream, gold and coral, crisp-edged like a stencil. The picture is framed boldly in a tall panel within this geometry, reproduced as it is. Lettering is a tall, elegant geometric sans-serif, widely spaced, set in a band across the top or bottom."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Art Deco"   # v4.1 B 組:「接下來你成為 Art Deco 平面設計師」
+signature_lead: "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering."
+signature_close: "Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+signature_lead_composite: "An Art Deco travel poster, sleek simplified geometry and tall elegant lettering."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  ocean liners, express trains, skyscrapers, resorts and coastlines, aeroplanes, cocktail
+  glasses
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

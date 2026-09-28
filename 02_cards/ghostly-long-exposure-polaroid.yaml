@@ -1,0 +1,30 @@
+code: ghostly-long-exposure-polaroid
+label_zh: 長曝拍立得幽光人像
+aspect: '4:5'
+palette: either
+look_paragraph: >
+  A soft, ghostly large-format instant-film photograph made with a long exposure in a dim room,
+  the light brushed slowly over the subject so it glows unevenly out of the dark. Edges melt and
+  drift with tiny movements, some parts sharp, others dissolving like breath on glass. Colour,
+  when there is colour, is muted and painterly — dusty rose, faded ochre, deep umber — and the
+  chemical border and uneven emulsion of the instant film show at the edges. The pace is slow
+  and intimate, the subject seen as a presence more than a surface, timeless and hushed.
+signature_lead: A soft, ghostly large-format instant-film photograph, a long exposure glowing out of darkness.
+signature_close: Soft light brushed over darkness, melting edges, muted painterly tones, a hushed timeless presence.
+mood:
+  default: medium
+  weak: a quiet, hushed softness
+  medium: an intimate, ghostly presence
+  strong: a dreamlike apparition, dissolving and timeless
+framing:
+  native: neutral
+  close: a close portrait glowing out of darkness, edges melting
+  wide: the whole figure emerging softly from a dark, empty room
+habitual_subjects: >
+  models in draped fabric, bare studio walls, single figures in near darkness, flowers, still
+  lifes
+presets:
+  ghost: a ghostly glow emerging from darkness
+  painterly: muted painterly colour, dusty rose and umber
+  slow: a slow, hushed long exposure
+negative: sharp digital, hard flash, bright even light, saturated colour, busy background, glossy retouching, ordinary soft-focus portrait

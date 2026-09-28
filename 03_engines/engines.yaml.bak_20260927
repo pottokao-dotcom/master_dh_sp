@@ -1,0 +1,23 @@
+# 引擎段:依雙頭龍 Loader 的 type 自動接在 user 訊息最後。只放「怎麼寫」,不刪畫面內容。
+# 每條標來源:實測 / 官方 / 推測。推測的上線前要測。
+qwen_image:
+  # QI2.1 · TE = Qwen3-VL-8B
+  length: 550 to 700 words, about twenty-five to thirty sentences, five or six paragraphs   # 八股 LoRA 實測分佈
+  elements: fourteen placed elements in a full scene                                       # PE 官方
+  notes:
+    - The renderer takes a separate negative prompt, so the description only says what is there.   # 官方 node 有 negative 輸入
+zimage:
+  # Z-Image · TE = Qwen3-4B 第 34 層
+  length: 250 to 350 words, about fifteen to twenty sentences                             # 使用者 2026-09-26 要 4B 短一點;driver v2 上限 400(實測)
+  elements: about eight placed elements                                                    # 推測·未測
+  notes:
+    - Never write a lamp, flash unit, bulb, glow, burst of light or hotspot as a thing in the image unless the user asked for that object; describe only what the light does to surfaces — overexposure, hard-edged shadows, a background falling to black.   # 實測:會畫出燈具
+    - Never write numbers for angles, sizes or distances; describe them in words.          # 實測:對數字無感
+    - Name placement with an explicit side or corner — "in the far upper-right corner" — never a vague "at the edge".   # 實測(小樣本)
+    - The renderer ignores negative prompts, so never rely on saying what is absent.       # 實測
+klein:
+  # FLUX.2 klein 4B · TE = Qwen3-4B 第 8/17/26 層 · 下面整段先抄 zimage,全部未測
+  length: 250 to 350 words, about fifteen to twenty sentences                             # 同 zimage·未測
+  elements: about eight placed elements                                                    # 推測·未測
+  notes:
+    - Never write numbers for angles, sizes or distances; describe them in words.          # 推測·未測

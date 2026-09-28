@@ -1,0 +1,13 @@
+{
+ "swiss-international-style": "grid|sans-serif|flush[- ]left|white space|asymmetr|swiss",
+ "russian-constructivism": "diagonal|photomontage|red and black|constructivis|slogan|angled",
+ "art-nouveau": "whiplash|nouveau|floral|vine|ornament|halo|lithograph|flowing curve",
+ "art-deco-travel-poster": "art deco|deco|streamlin|airbrush|geometric|gradient|stencil",
+ "pop-art": "pop art|halftone|ben-day|dots|comic|screen[- ]print|thick black outline",
+ "bauhaus": "bauhaus|primary colou?r|red square|yellow triangle|blue circle|lowercase|geometric shape",
+ "polish-poster-school": "hand-?drawn|hand-?lettered|surreal|metaphor|accent colou?r|paper texture|texture of the paper|polish",
+ "psychedelic-60s-poster": "psychedelic|swirl|melting|liquid|vibrat|ornament",
+ "jazz-typographic-album-cover": "tinted|typograph|stacked|high[- ]contrast|cropped|slab|sans-serif",
+ "cut-paper-film-poster": "cut[- ]paper|silhouette|ragged|hand-?cut|flat field",
+ "japanese-modernist-geometric": "geometric|circle|flat colou?r|vermilion|indigo|empty space|balance"
+}

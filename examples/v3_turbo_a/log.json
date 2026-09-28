@@ -1,0 +1,132 @@
+[
+ {
+  "i": 0,
+  "code": "pe-default",
+  "seed": 42,
+  "prompt": "A lantern-lit dragon dance winding through Chinatown in San Francisco at Lunar New Year",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "00_pe-default_s42_00001_.png",
+  "final_prompt": "A realistic photograph captures a lantern-lit dragon dance winding through Chinatown in San Francisco during Lunar New Year. The dragon, a massive serpent-like creature with scales of polished brass and deep crimson silk, coils and coils around the center of the frame. Its head, a sharp and pointed snout, moves with a rhythmic, heavy weight as it turns. The body is a blur of motion, with the silk catching the light to reveal its fine, thread-like texture. The dragon's eyes are two bright, glowing orbs of amber, fixed in a permanent, watchful stare. At the upper left, the dark, textured stone of a historic building facade recedes into a deep charcoal shadow. At the upper right, the street is lined with narrow alleyways and traditional wooden shop signs, their surfaces worn smooth by decades of use. In the lower left, the wet, reflective pavement of the alleyway catches a distorted, shimmering reflection of the dragon's movement. In the lower right, a row of small, ornate metal lanterns stands in the shadows, their edges catching a faint, amber glint. Behind the subject, the distant, blurred silhouettes of San Francisco's architecture rise against a dim, slate-grey sky. The lighting is provided by a cluster of hanging lanterns, casting a warm, amber glow that cuts through the cool, dim atmosphere. Hard-edged shadows fall away from the light source, leaving the recesses of the alleyways in deep, ink-black darkness. The light catches the moisture on the dragon's scales, making them appear as bright, metallic streaks. The camera is positioned at a medium distance, looking slightly upward to capture the scale of the dragon against the skyline. The focus is sharp on the dragon's head and the immediate texture of the dragon's scales, while the background and foreground fall into a soft, cinematic blur. The image evokes a sense of ancient tradition clashing with the modern, urban grit of a city under celebration."
+ },
+ {
+  "i": 1,
+  "code": "bw-geometric-street-candid",
+  "seed": 42,
+  "prompt": "A ballerina leaping across the zebra crossing in Shibuya",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "01_bw-geometric-street-candid_s42_00001_.png",
+  "final_prompt": "A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance. A ballerina leaping across the zebra crossing in Shibuya is captured in this black and white photograph. The ballerina, a figure in mid-air, possesses a lithe, athletic build and long, flowing tulle skirts that billow upward. Her face is turned toward the sky, expression a momentary blur of grace, eyes closed. She wears a light silk slip dress that catches the light on its smooth surface. Her legs are extended in a powerful, athletic leap, muscles tensed under the thin fabric. Her hands are outstretched, fingers slightly curled in a gesture of suspension. In the upper left, the blurred motion of a passing vehicle creates a streak of silver against a charcoal sky. At the upper right, the vertical lines of a building's corner meet a shadow. Behind the subject, the sidewalk recedes into a deep, dark void where the light fails to reach. To the lower left, the edge of a concrete curb shows a texture of fine, grit-like particles. At the lower right, the distant, out-of-focus shapes of pedestrians walking past the crossing appear as soft, indistinct silhouettes. The ground below her feet is a textured, mid-grey surface of asphalt. The lighting is directional and hard, coming from an unseen source above and to the side. It casts sharp, dark shadows that define the edges of the ballerina's silhouette. The light catches the silk of her dress, making it appear as a bright, luminous streak against the darkness. The camera is held at a natural eye-level, capturing the jump with a sense of kinetic energy. The composition uses the diagonal lines of the zebra crossing to lead the eye toward the center of the leap. The image captures a fleeting, elegant moment of movement amidst the urban chaos. Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white."
+ },
+ {
+  "i": 2,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 42,
+  "prompt": "A girl in a yellow raincoat waiting under the neon signs of Mong Kok on a rainy night",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "02_rainy-window-abstract-portrait_s42_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. A girl in a yellow raincoat waiting under the neon signs of Mong Kok on a rainy night is captured through a veil of heavy condensation and rain-streaked glass. The girl, a young adult with a slender build and damp, dark hair, stands partially obscured by the window frame. She wears a long, oversized yellow raincoat made of thick, matte-finish nylon that clings to her shoulders. Her hands are tucked into the deep pockets of the coat, and her gaze is directed toward a point just beyond the lens, lost in thought. Her face is partially visible, showing a soft, contemplative expression as she waits. At the upper left, the dark, charcoal-grey sky of a rainy night is visible through a heavy layer of mist and droplets. At the upper right, the neon signs of Mong Kok glow with a dim, saturated amber and deep crimson, their light bleeding into the surrounding darkness. Behind the subject, the urban architecture of the street is a soft, out-of-focus blur of muted navy and charcoal tones. At the lower left, a dark, blurred silhouette of a building's corner cuts across the frame, creating a sense of depth. At the lower right, the wet pavement of the street reflects the neon light as streaked, vertical lines of warm ochre and deep violet. In the center, a large poster or label features the words \"Mong Kok\" in a bold, sans-serif typeface, colored in a bright, electric yellow. Below this, a smaller tagline reads \"City Lights\" in a simple, white font. The lighting is dim and moody, with the neon signs providing a warm, amber glow that catches the edges of the raindrops on the glass. The light reflects off the wet surfaces of the girl's yellow raincoat, creating a soft, diffused sheen. Harsh, hard-edged shadows are softened by the thick, heavy atmosphere. The camera is positioned at eye-level, looking through a window with a dark foreground shape that obscures the left side of the frame. The focus is soft, with the girl's silhouette appearing slightly out of focus, while the neon signs provide a secondary layer of color. The image carries a heavy sense of quiet, urban isolation and a sense of waiting in a world half-veiled by rain. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 3,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 42,
+  "prompt": "A young maiko in full makeup glancing over her shoulder",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "03_refined-minimalist-studio-portrait_s42_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. A young maiko in full makeup, captured in a black and white studio photograph. The young maiko stands with a poised, quiet grace, her head tilted back slightly as she gazes over her shoulder. Her face is a landscape of meticulous detail, where the texture of her skin is rendered in soft, silvered tones against the deep charcoal shadows of her eyes. A heavy, dark silk slip dress, smooth and opaque, clings to her form, its surface catching a subtle, diffused highlight along the shoulder. Her hands, pale and steady, rest lightly against the fabric of the dress at her waist. Her expression is one of serene, practiced dignity, eyes partially obscured by a thin, matte application of makeup that emphasizes the fine lines around her eyes. In the upper left, the background consists of a seamless, neutral grey void that offers no distraction from the subject. To the right, a single, soft-edged shadow falls away from the subject's side, disappearing into a dense, ink-black void. At the bottom, the hem of the silk slip dress disappears into a mid-grey gradient, blending into the empty space. Behind the subject, the walls meet in a sharp, clean line, creating a narrow corner that frames her silhouette. The lighting is a single, soft source coming from the side, casting long, gentle shadows that define the contour of her face. The light catches the fine, raised texture of her makeup, turning the highlights into a bright, chalky white. All other areas fall into a smooth, graduated darkness. The camera is positioned at eye level, maintaining a close and intimate distance. The subject is centered, framed by the empty space to emphasize her isolation and stillness. The image carries a sense of profound, quiet grace and ritualistic restraint. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 4,
+  "code": "saturated-banal-monumental",
+  "seed": 42,
+  "prompt": "A giant inflatable rubber duck floating in Victoria Harbour",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "04_saturated-banal-monumental_s42_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. A giant inflatable rubber duck floats aimlessly in Victoria Harbour, captured in a saturated, monumental style. The giant inflatable rubber duck, a massive and rounded shape of glossy, blood-red rubber, sits or drifts through the water. Its surface is smooth and highly reflective, catching the overhead sun to create a deep, liquid-like sheen. The rubber appears thick and heavy, yet it floats with an unnatural, heavy stillness. A few small, dark indentations mark where the air might be trapped within the material's folds. The duck's silhouette is a blunt, rounded mass against the vastness of the water. In the far upper-left corner, the dark, heavy water of Victoria Harbour recedes into a deep, ink-black void. At the upper right, the surface of the water is a chaotic, shimmering smear of acid-yellow sunlight reflecting off the waves. Behind the subject, the horizon line is a sharp, dark streak where the sea meets a heavy, bruised sky. In the lower-left corner, a few large, dark, irregular shadows cast by unseen objects move across the water's surface. At the bottom right, the water becomes a dense, dark pool of deep indigo, obscuring any sense of the harbor's depth. The lighting is harsh and direct, coming from a high angle that creates bright, white highlights on the duck's curves. Harsh, hard-edged shadows fall directly beneath the duck's belly. The sunlight turns the water into a series of intense, dancing streaks of amber and gold. The camera is positioned at a very low, oblique angle, nearly level with the water's surface to make the duck appear impossibly large. The focus is sharp on the texture of the rubber, while the distant horizon falls into a soft, heavy blur. The image possesses a heavy, claustrophobic stillness, turning a moment of drifting into something permanent and strange. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 5,
+  "code": "bw-dramatic-chiaroscuro",
+  "seed": 42,
+  "prompt": "A lone samurai standing in a bamboo forest as light pierces the mist",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "05_bw-dramatic-chiaroscuro_s42_00001_.png",
+  "final_prompt": "A dramatic black-and-white photograph, one hard shaft of light cutting through haze into deep shadow. A lone samurai standing in a bamboo forest, captured in a dramatic black and white photograph. The samurai stands with a heavy, silent presence, a silhouette of charcoal and mid-grey against the void. He wears a traditional black haori, a wide collar, and a heavy, textured kirtle that catches a sliver of silver light on its hem. His face is partially obscured by the shadow of his helmet, showing only a sharp jawline and a steady, unreadable gaze. His hands are clenched into fists at his sides, the knuckles highlighted by a hard shaft of light. He stands perfectly still, a figure of stoic isolation in the center of the frame. In the far upper-left corner, a dense thicket of bamboo stalks rises into a charcoal darkness, their sharp edges lost to the haze. Behind the subject, the forest recedes into a vast, empty space where the mist becomes a thick, chalky white fog. At the lower right, several fallen bamboo stalks lie on the ground, their rough textures rendered in deep black. In the background, the mist swirls in heavy, opaque layers that swallow any sense of depth. To the left, a single bamboo stalk cuts a diagonal line through the silvered haze. At the bottom, the ground is a dark, textured surface of dirt and dampness, catching a faint, diffuse reflection. The lighting is a single, hard-edged beam of light cutting through the mist from the upper right. This light creates a sharp, silvery highlight on the edges of the bamboo and the samurai's silhouette. Long, diagonal shadows fall away from the light source, dividing the frame into blocks of light and deep black. The camera is positioned at a medium distance, looking slightly up at the figure to emphasize his stature. The composition uses the diagonal lines of the bamboo to lead the eye toward the central silhouette. The image evokes a sense of profound, quiet isolation and a heavy, lingering stillness. A single beam of light, bold diagonal shadows, a still poetic solitude, black and white."
+ },
+ {
+  "i": 6,
+  "code": "surreal-staged-monochrome",
+  "seed": 42,
+  "prompt": "A woman in a ball gown holding a white umbrella on the salt flats of Uyuni",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "06_surreal-staged-monochrome_s42_00001_.png",
+  "final_prompt": "A surreal, staged black-and-white photograph, forms placed like objects in vast, bright, empty space. A woman in a ball gown holding a white umbrella stands on the salt flats of Uyuni in this black and white photograph. The woman, a young adult with a poised and calm expression, stands perfectly still. She wears a voluminous ball gown made of heavy, flowing silk that catches the light with a sharp, silvery sheen. Her hands, pale and steady, grip the handles of a white umbrella, which is held upright at her chest. Her gaze is directed toward the empty horizon, eyes clear and unblinking. The fabric of her dress ripples slightly as if caught in a breeze, creating deep charcoal folds against the chalky white ground. In the far upper-left corner, the vast, pale ground stretches toward a low, distant horizon line. At the upper right, the salt flats continue into a vast, empty space where the pale ground meets a bright, featureless sky. To the left of the subject, the salt flats appear as a flat, textured expanse of mid-grey and chalky white. Behind the subject, the horizon line is a sharp, clean division between the pale ground and the empty sky. In the far lower-right corner, the salt flats show a subtle, granular texture under the harsh light. At the bottom edge, the ground recedes into a soft, out-of-focus blur of pale tones. The lighting is harsh and direct, coming from a high, unseen source to the side. It casts a hard-edged shadow from the umbrella onto the ground. The bright light turns the salt crystals into tiny, glinting points of silver. The camera is positioned at a low angle, looking slightly up at the subject to emphasize her presence against the void. The subject is placed deadpan in the center, surrounded by a massive amount of negative space. The image carries a sense of quiet, theatrical isolation and whimsy. Vast pale emptiness, a low horizon, deadpan theatrical placement, playful and dreamlike, black and white."
+ },
+ {
+  "i": 7,
+  "code": "bw-ink-wash-landscape",
+  "seed": 42,
+  "prompt": "Hot air balloons drifting over the misty temples of Bagan at sunrise",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "07_bw-ink-wash-landscape_s42_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. Hot air balloons drift over the misty temples of Bagan at sunrise, captured in a black and white photograph. A large, pale silhouetted balloon with a heavy, dark fabric envelope drifts through the haze. The airship's internal structure is a complex web of charcoal-toned ropes and wires, partially obscured by the thick, opaque mist. The fabric of the balloon's envelope shows a fine, chalky texture where it catches a sliver of light. A single, thin tether line, rendered in a deep, ink-like black, reaches down from the edge of the frame. The entire object appears as a ghostly, translucent shape against the encroaching fog. At the upper left, the mist is a seamless, luminous wash of mid-grey, blending into nothingness. At the upper right, the sky transitions into a pale, silver-grey gradient where the first light begins to touch the horizon. Behind the subject, the distant silhouette of a temple spire rises, its stone edges dissolving into a soft, charcoal haze. In the lower right corner, the ground is a vast, empty void of deep black, suggesting a landscape lost to the heavy fog. At the bottom edge, the mist thickens into a dense, opaque wall of light-grey, masking any detail of the earth. To the far left, the air is a gradient of pale, misty tones that offer no sense of a horizon. The lighting is a diffuse, low-contrast glow coming from the horizon, casting everything into a soft, silvered haze. This light catches the edges of the balloon's frame, turning the thin wires into thin, sharp lines of pale grey. The rest of the scene remains in a state of deep, atmospheric shadow. The camera is positioned at a low angle, looking up at the drifting balloon to emphasize its isolation. The focus is sharpest on the texture of the balloon's fabric, while the temple spires in the distance fall into a soft, painterly blur. The image evokes a sense of quiet, reclusive stillness, a moment suspended in a silent, misty void. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 8,
+  "code": "vintage-bw-elegant-candid",
+  "seed": 42,
+  "prompt": "A glamorous couple dancing in a 1930s Shanghai ballroom",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "08_vintage-bw-elegant-candid_s42_00001_.png",
+  "final_prompt": "An elegant vintage black-and-white candid photograph in soft natural daylight. A glamorous couple dancing in a 1930s Shanghai ballroom is captured in this black and white photograph. The man, a man in his prime, wears a silk shirt with a sharp collar and a dark waistcoat, his hands reaching toward the woman's waist. The woman, a woman of the same age, wears a flowing, floor-length gown made of heavy, textured satin that catches the light. Her face is turned slightly, her expression one of quiet, joyful surrender as she moves. Her hair, styled in a sophisticated updo, spills over her shoulders, the silk of her dress catching the light on its folds. Their bodies are entwined in a fluid, rhythmic motion, the tension of their limbs suggesting a deep, shared rhythm. At the upper left, a vast, empty expanse of a dark ceiling shows a pattern of intricate, ornamental molding. At the upper right, a tall, slender pillar or architectural element recedes into a deep charcoal shadow. Behind the subject, the ballroom extends into a soft, out-of-focus distance, where a single, large window allows a wash of bright, silvery light to spill across the floor. At the lower left, the polished marble floor reflects a sliver of the ceiling's pattern, a faint, shimmering grey. At the lower right, a heavy velvet curtain hangs in thick, dense black folds, partially obscuring the view of a side table. In the far background, the silhouette of a distant, decorative archway or decorative molding is visible in a mid-grey tone. The lighting is a soft, diffused daylight entering from a high, unseen window, casting long, gentle shadows across the floor. The light hits the edges of the silk and satin, creating a range of silvery highlights against the darker tones. There is no harshness, only a luminous, even distribution of light that makes the textures of the fabric appear soft and tactile. The camera is positioned at a medium distance, level with the subjects, creating a sense of being a silent witness to the dance. The focus is sharp on the couple's hands and the textures of their clothing, while the rest of the ballroom falls into a soft, creamy blur. The image carries a sense of quiet, timeless elegance and the grace of a forgotten era. Soft classic grain, gentle daylight, a quiet everyday grace, black and white."
+ },
+ {
+  "i": 9,
+  "code": "hyper-saturated-cinematic-unease",
+  "seed": 42,
+  "prompt": "A beauty queen eating cake alone in a pink motel room in Palm Springs",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "09_hyper-saturated-cinematic-unease_s42_00001_.png",
+  "final_prompt": "A hyper-saturated cinematic colour photograph, lacquered Technicolor perfection with a quiet unease. A beauty queen eating cake alone in a pink motel room in Palm Springs is captured in a hyper-saturated, cinematic film still. The beauty queen, a woman in her prime with a porcelain complexion and a blank, doll-like expression, sits perfectly still. She wears a floor-length slip dress of acid-pink satin that clings to her frame, the fabric reflecting a glossy, liquid sheen. Her hands, manicured with glossy red lacquer, hold a single piece of cake, the sugar-coated surface appearing unnaturally smooth and white. A heavy, blood-red silk scarf wraps around her neck, its texture a deep, velvet-like shadow against her skin. Her gaze drifts aimlessly, lost in a vacant, hypnotic stare. At the upper left, a window pane shows a blurred, candy-pink reflection of a desert sky, the light bleeding through with a toxic, saturated hue. Behind the subject, the wall is a solid, lacquered shade of hot pink, the surface so smooth it looks like a polished plastic toy. To the right, a bedside table holds a single, heavy ceramic mug, its surface a deep, glossy obsidian. In the far lower-right corner, a sliver of a bedsheet, a deep crimson, folds into the shadows. At the bottom edge, a portion of a pink rug, a plush and highly reflective pile, recedes into a dark, void-like shadow. The lighting is a harsh, studio-controlled glare that hits the pink surfaces with aggressive, clinical intensity. Hard-edged shadows fall away from the light source, creating a high-contrast, staged atmosphere. Every highlight on the satin dress and the cake is a blinding, overexposed white. The camera is positioned at a low angle, looking slightly up at the subject to emphasize her isolation. The focus is sharp on the texture of the cake and the skin, while the background falls into a soft, saturated blur. The image radiates a sense of staged, hyper-real perfection, leaving a heavy, psychological tension in the air. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ }
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "i": 0,
+  "code": "pe-default",
+  "seed": 42,
+  "prompt": "Dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco at Lunar New Year",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "00_pe-default_s42_00001_.png",
+  "final_prompt": "A cinematic still captures a procession of dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco during Lunar New Year. Two elderly men, their skin lined with deep creases and silvered by age, move with rhythmic grace. They wear heavy, charcoal-grey silk robes that pool around their legs and long, dark trousers. Their hands, weathered and strong, grip the thick, polished wooden poles that support the massive, shimmering scales of a golden dragon. The dragon itself is a massive, intricate sculpture of molten gold, its scales catching the light with a wet, reflective sheen. It coils around its poles, a heavy, living thing of liquid metal. In the upper left, the dark, wet stone walls of an old San Francisco building rise up, catching a faint, amber reflection from a distant lantern. At the upper right, the narrow, cobblestone street recedes into a soft, out-of-focus shadow. Behind the subject, the lantern-lit streets of Chinatown stretch away, filled with the silhouettes of other performers in traditional robes. In the lower left corner, a puddle on the ground reflects the warm, orange glow of the lanterns. At the lower right, a row of decorative metal lanterns hangs from the eaves of a building, their glass orbs catching the dim light. The entire background is a deep, saturated navy, suggesting the dense, humid atmosphere of the city at night. The lighting is dim and atmospheric, provided by the warm, orange light of hanging lanterns. Harsh, long shadows stretch across the wet cobblestones. The light catches the edges of the golden dragon's scales, making them appear to glow against the darkness. The camera is positioned at a medium distance, level with the ground to emphasize the scale of the dragon. The focus is sharp on the hands of the dancers and the dragon's head, while the surrounding street falls into a soft, cinematic blur. The image evokes a sense of ancient tradition and the heavy, rhythmic energy of a city celebrating a new year."
+ },
+ {
+  "i": 1,
+  "code": "pe-default",
+  "seed": 7,
+  "prompt": "Dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco at Lunar New Year",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "01_pe-default_s7_00001_.png",
+  "final_prompt": "A cinematic still of dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco during Lunar New Year. The golden dragon, a massive and intricate structure of heavy, textured gold leaf, coils around a central wooden pole. The dragon's scales are thick and uneven, catching the light with a dull, matte sheen. A group of elderly and middle-aged dancers, their faces etched with years of experience, move in unison, their hands wrapped tightly around the thick, dark timber of the poles. They wear traditional silk robes in shades of deep crimson and midnight blue, the fabric rippling and heavy with movement. Their eyes are fixed forward, or perhaps caught in a moment of collective motion, as they push the weight of the creature through the narrow alleys. At the far upper-left, the dark, textured stone walls of a San Francisco building rise, their surfaces worn and damp from a recent rain. In the upper-right corner, the dim, amber glow of hanging lanterns casts long, dancing shadows across the cobblestone ground. Behind the subject, the narrow street recedes into a deep, charcoal darkness, where the silhouettes of more distant structures become indistinct. At the bottom edge, the wet, reflective stone of the street catches a glint of the golden light, showing a pale, wet sheen. To the left of the frame, a row of hanging lanterns hangs suspended by thin, weathered ropes, their paper surfaces slightly curling and yellowed by age. The lighting is provided by the dim, amber light of hanging lanterns, casting a warm, diffused glow that catches the edges of the golden dragon. This light falls directly from the upper portion of the frame, creating soft, long shadows behind the figures. The light reflects off the wet surfaces of the street and the silk of the dancers' robes, creating a subtle, shimmering effect. The camera is positioned at a low angle, looking up at the procession to emphasize the height of the dragon. The focus is sharp on the textures of the gold dragon and the hands of the dancers, while the distant background falls into a soft, dark blur. The image captures a sense of ancient, rhythmic movement amidst the quiet, nocturnal stillness of the city."
+ },
+ {
+  "i": 2,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 42,
+  "prompt": "A young maiko in kimono and full white makeup glancing over her shoulder",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "02_refined-minimalist-studio-portrait_s42_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. A young maiko in a kimono and full white makeup, glancing over her shoulder, is captured in this black and white studio portrait. The young maiko, a teenager with a delicate build, wears a heavy silk kimono with intricate embroidery that catches the light in soft, silvery highlights. Her face is entirely coated in a matte, chalky white makeup that defines her cheekbones and jawline with sharp, clean lines. Her eyes are partially obscured by a slight tilt of her head as she looks over her shoulder, her expression one of quiet, composed dignity. Her hands, pale and slender, rest lightly against the fabric of her kimono, fingers relaxed and still. At the upper left, the background falls away into a deep, charcoal shadow where the meeting corner of two walls meets. At the upper right, a soft, mid-grey gradient transitions into total blackness. Behind the subject, the void of the studio is a seamless, empty space of even, light grey tones. In the lower left corner, the floor or platform upon which she stands is a dark, matte surface that absorbs any stray light. In the lower right corner, the frame ends abruptly, leaving only the empty, dark expanse of the room. The lighting is a single, controlled side-light coming from the left, creating a strong, high-contrast gradation across the texture of the silk. This light rakes across the side of her face, emphasizing the sharp edges of her white makeup. The shadows cast by her body fall away into the darkness of the corners. The camera is positioned at eye-level, maintaining a direct, intimate proximity to the subject. The focus is sharp on the texture of the white makeup and the weave of the silk, while the edges of the frame dissolve into a soft, out-of-focus blur. The image carries a sense of refined, quiet, and essential grace. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 3,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 7,
+  "prompt": "A young maiko in kimono and full white makeup glancing over her shoulder",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "03_refined-minimalist-studio-portrait_s7_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. A young maiko in a silk kimono and full white makeup, captured in a quiet, intimate studio portrait. The young maiko, a girl of perhaps seventeen, turns her head slightly away, her gaze directed toward the shoulder of someone else not visible in the frame. She wears a traditional silk kimono of pale cream, its fabric heavy and lustrous, paired with a matching white blouse. Her face is entirely coated in a thin, even layer of white makeup that highlights the smoothness of her skin. A single, delicate piece of hair, perhaps a small ribbon or accessory, rests against her cheek. Her expression is one of calm, quiet dignity, her eyes cast over her shoulder toward an unseen presence. At the upper left, the background consists of a soft, seamless expanse of charcoal-grey fabric that fades into a deep, muted shadow. Behind the subject, the space opens into a neutral, dark void where no other detail is visible. At the lower right, the edge of the frame shows a hint of the white silk blouse's texture, catching a soft, diffused light. In the far upper-right corner, the composition remains empty, a vast area of deep grey. At the bottom, the focus is sharp on the texture of the cream silk, while the surrounding air appears as a smooth, undisturbed void. The lighting is soft and directional, coming from the side to create a gentle gradation across the silk. It catches the fine, dust-like texture of the white makeup on her face. The shadows fall softly away from the light, masking any harsh edges. The camera is positioned at eye-level, creating a direct and personal encounter. The subject is centered, framed by the empty, dark space that surrounds her. The photograph carries an air of profound, silent grace and traditional restraint. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ }
+]

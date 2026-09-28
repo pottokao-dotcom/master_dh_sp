@@ -1,0 +1,32 @@
+code: refined-minimalist-studio-portrait
+label_zh: 灰底精簡柔光人像
+aspect: '1:1'
+palette: either
+density: sparse
+look_paragraph: >
+  A refined, minimalist studio photograph: the subject set against a plain seamless backdrop of
+  neutral grey, sometimes in a narrow corner of two meeting walls, lit by one soft, controlled
+  north-light from the side that models form with exquisite gradation. Tones have the depth and
+  smoothness of a platinum print; in colour, the palette stays restrained and muted, close to the
+  grey of the ground. Detail is immaculate, from the weave of cloth to the lines of a hand.
+  Everything extraneous is stripped away, and whatever stands before the camera is given the same
+  composed stillness and the same quiet, essential dignity.
+signature_lead: A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light.
+signature_close: A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity.
+mood:
+  default: medium
+  weak: a quiet, understated poise
+  medium: refined dignified elegance, every subject given equal reverence
+  strong: austere perfection, the subject reduced to its essence
+framing:
+  native: neutral
+  close: a tight, elegant study of form or face
+  wide: the subject poised in clean negative space on the seamless ground
+habitual_subjects: >
+  fashion models, portraits of artists, people photographed in a small portable studio, still
+  lifes of flowers, food, cigarette ends and found objects
+presets:
+  elegance: refined timeless elegance, distilled poise
+  still life: an exquisite minimalist still life
+  portrait: the subject distilled to formal elegance
+negative: cluttered background, environment, props, harsh flash, snapshot, busy pattern

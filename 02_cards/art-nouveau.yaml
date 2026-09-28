@@ -1,0 +1,25 @@
+code: art-nouveau
+label_zh: "新藝術 (Art Nouveau)"
+medium: design
+aspect: '1:2'
+palette: colour
+look_paragraph: >
+  An Art Nouveau design framed by flowing organic ornament: whiplash curves, stylised flowers,
+  vines and halo-like circles enclosing the picture. Lines are elegant and continuous, colours
+  soft and harmonious — muted golds, sage greens, dusty rose, cream — printed like a colour
+  lithograph. Lettering is hand-drawn and decorative, with rounded, flowing letterforms
+  integrated into panels at the top or bottom. The picture sits inside the ornamental frame, its
+  edges softly merging into the flowing lines around it. Lush, romantic and decorative.
+picture_paragraph: "The picture is an idealised, finely drawn lithographic illustration with flowing outlines, soft flat colour and graceful stylised figures and flowers."
+page_paragraph: "The page is an Art Nouveau frame of flowing organic ornament: whiplash curves, stylised flowers, vines and halo-like circles drawn around the picture, in soft muted golds, sage greens, dusty rose and cream, printed like a colour lithograph. The picture sits inside the ornamental frame, reproduced as it is; the ornament stops at its edge. Lettering is hand-drawn and decorative, with rounded flowing letterforms set in panels at the top or bottom."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Art Nouveau"   # v4.1 B 組:「接下來你成為 Art Nouveau 平面設計師」
+signature_lead: "An Art Nouveau poster, flowing whiplash ornament and a halo frame around the picture, soft lithograph colours."
+signature_close: "Whiplash curves, floral ornament, soft golds and greens, hand-drawn flowing lettering, graceful and decorative."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  theatre posters, product advertisements, women with flowing hair, seasons and flowers,
+  calendars, decorative panels
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

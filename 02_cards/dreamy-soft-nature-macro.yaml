@@ -1,0 +1,30 @@
+code: dreamy-soft-nature-macro
+label_zh: 柔光淡彩夢幻微距
+aspect: '1:1'
+palette: colour
+look_paragraph: >
+  A soft, overexposed high-key photograph in square format, bathed in gentle luminous backlight.
+  Colours are pale pastels — milky whites, soft greens and pinks — at low contrast, highlights
+  blooming, with a delicate haze, fine soft grain and now and then a light leak or soft sun
+  flare. The camera comes close, a tender macro view of a small everyday moment, one sharp point
+  of focus floating in soft breathing blur. Inside the softness the eye finds one raw detail — a
+  crack, a vein, a bruise, a trace of life and its ending — tenderness holding a small wound.
+signature_lead: A soft, overexposed high-key square photograph in pale pastel light, a tender close view floating in gentle haze.
+signature_close: High-key pastel light, soft haze and flare, fine grain, a small wound inside the softness.
+mood:
+  default: medium
+  weak: a calm, luminous tenderness
+  medium: a fragile, fleeting gentleness with a small sting
+  strong: life and death glimpsed through the softest light
+framing:
+  native: neutral
+  close: an intimate macro fragment filling the frame
+  wide: the subject sharp and afloat in wide, soft, luminous space
+habitual_subjects: >
+  dewdrops on leaves, small insects, light through foliage, water surfaces, eggs, birds,
+  children, soft skies
+presets:
+  luminous: luminous translucent light, airy and weightless
+  calm: calm everyday serenity
+  sting: a fragile moment of life with a small wound glowing inside it
+negative: high contrast, saturated colour, hard flash, dark moody, sharp everywhere, clinical, ordinary pastel photo

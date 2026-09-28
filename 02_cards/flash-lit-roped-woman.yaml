@@ -1,0 +1,33 @@
+code: flash-lit-roped-woman
+label_zh: 繩縛儀式直閃濃紅
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+exceptions: [tilt]
+look_paragraph: >
+  An intimate, ritual snapshot on saturated 1970s consumer colour film, lit by a direct flash:
+  the nearest skin and fabric blown bright, a hard shadow thrown behind, the room falling to
+  black. The camera stays close and a little tilted. Wherever rope, cord, cloth or binding is
+  part of the scene, the camera follows its knots and geometry where they press into skin and
+  fabric, leaving grooves and faint marks. A person in the frame is restrained yet fully present
+  — head heavy to one side, eyes half-lidded and far away, the body languid and taut at once.
+  Deep reds, warm cast, low-fi grain; desire and mortality in one charged stillness.
+signature_lead: An intimate, ritual direct-flash snapshot on saturated 1970s colour film, deep reds and a hard shadow behind.
+signature_close: Flat hard flash, deep reds, a restrained yet present body, a charged ritual stillness.
+mood:
+  default: medium
+  weak: a quiet, charged restraint
+  medium: a ritual surrender, intimate and weary, desire pressed against mortality
+  strong: an intense rite of flesh and restraint, drained and absorbed
+framing:
+  native: close
+  close: close on the body and the geometry pressing into it, cut by the frame
+  wide: the whole figure kneeling or suspended against a dark interior
+habitual_subjects: >
+  adult women bound with coarse rope on tatami or suspended against a dark room, kimono
+  half-open, knots and rope geometry pressed into the skin, red welts
+presets:
+  ritual: a ritual restraint, knots and geometry pressed into skin
+  surrender: a drained, absorbed surrender, weary yet present
+  suspension: a figure suspended against a dark interior
+negative: explicit pornography, genital display, minors, violence, blood, glossy studio fetish shoot, soft romantic light, smiling, ordinary rope photo

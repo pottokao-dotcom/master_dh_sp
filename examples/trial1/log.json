@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "code": "pe-default",
+  "prompt": "An old fisherman mending a net on a harbor pier at dawn",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "00_pe-default_00001_.png",
+  "final_prompt": "An old fisherman mends a net on a harbor pier at dawn, captured in a realistic photograph. The old fisherman, a man in his late years with deep-set eyes and a weathered face, sits hunched over a wooden bench. His hands, thick-knuckled and stained with salt, move with practiced grace as he weaves the coarse, heavy-weave net. He wears a heavy, charcoal-grey wool sweater over a faded navy-blue linen shirt, the fabric appearing stiff and worn. His posture is bent, showing the strain of a lifetime spent on water. At the lower left, the wooden planks of the harbor pier stretch toward the viewer, their grain dark and splintered by salt spray. At the upper right, the vast, misty horizon of the sea meets the pale, bruised-blue sky of dawn. Behind the subject, the silhouettes of distant boats appear as dark, heavy shapes against the fading light. In the far upper-left corner, a few wisps of steam rise from a nearby vessel, curling into the damp air. At the bottom right, the wet stone of the pier's edge reflects the dim, cool light of the morning. The lighting is dim and diffused, characteristic of the pre-dawn sky. A soft, cool light catches the edges of the wet wood and the salt-crusted fabric of the net. Long, soft shadows stretch away from the man's body, cast by the low, grey light of the morning. The camera is positioned at a medium distance, level with the man's waist, creating a sense of quiet presence. The focus is sharp on the texture of the net and the man's hands, while the distant horizon falls into a soft, atmospheric blur. The image carries a heavy, somber mood, a quiet moment of labor before the day begins."
+ },
+ {
+  "i": 1,
+  "code": "bw-geometric-street-candid",
+  "prompt": "An old fisherman mending a net on a harbor pier at dawn",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "01_bw-geometric-street-candid_00001_.png",
+  "final_prompt": "A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance. An old fisherman mending a net on a harbor pier at dawn is captured in this black and white photograph. The old fisherman, an elderly man with a deeply lined face and weathered skin, sits hunched over a heavy wicker basket. His hands, thick-knuckled and calloused, move with practiced precision as he weaves the coarse fibers of the net. He wears a heavy, coarse-knit sweater of charcoal tone and thick canvas trousers that bunch at his ankles. His gaze is fixed downward, lost in the rhythmic motion of the netting, eyes squinted against the fading light. At the upper left, the sky over the harbor is a gradient of pale, chalky white fading into a deep, dark charcoal where the horizon meets the water. Behind the subject, the harbor pier stretches away, its wooden planks showing a texture of deep grain and salt-crusted knots. At the lower right, the wet, dark surface of the water reflects the dim light in long, silvery streaks. In the far upper-right corner, the silhouettes of distant, dark silhouettes of boats move through the mist. At the lower left, the edge of the pier's wooden railing shows a matte, dark texture against the lighter wash of the water. The lighting is a dim, diffused morning light coming from the horizon, casting long, soft-edged shadows across the pier. The light catches the fine, white fibers of the net, making them appear as bright, luminous threads against the darker background. The edges of the frame fall into a heavy, dense black. The camera is positioned at a natural eye-level, looking directly at the man's hands and the net. The pier's horizontal lines create a strong, geometric frame around the subject. The image carries a heavy sense of quiet, solitary endurance. Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white."
+ },
+ {
+  "i": 2,
+  "code": "van_gogh_style",
+  "prompt": "An old fisherman mending a net on a harbor pier at dawn",
+  "aspect": "4:5",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "02_van_gogh_style_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts an old fisherman mending a net on a harbor pier at dawn, rendered in thick, swirling impasto strokes. The old fisherman, a man in his later years with a weathered face and deep-set eyes, sits hunched over a heavy wooden stool. His hands, thick and scarred, move with a rhythmic, repetitive motion as he weaves a coarse net through a series of thick, directional brushstrokes. He wears a heavy, coarse-woven woollen sweater in a shade of acid-yellow and a heavy, dark navy linen tunic. His posture is bent, showing the strain of a life spent in the salt and spray. At the upper left, the sky over the harbor is a turbulent swirl of cobalt and ultramarine, with heavy ridges of paint suggesting the movement of wind and clouds. At the upper right, the distant silhouette of a harbor pier stretches into the mist, its wooden planks rendered in heavy, vibrating strokes of ochre and burnt sienna. In the lower left, the surface of the water at the pier's edge is a chaotic dance of emerald and deep violet, reflecting the dim light of the dawn. At the lower right, the wet stone of the pier's base is a mosaic of dark umber and blood-red undertones. Behind the subject, the horizon line bends and twists, lost in a haze of thick, impasto ridges. The lighting is dim and cold, as if the first light of dawn is just beginning to pierce the heavy, swirling clouds. Hard-edged shadows fall away from any source of light, leaving the corners of the frame in deep, dark indigo. A faint, sickly glow of pale lemon-yellow pulses from the very edges of the canvas where the light might strike the water. The viewpoint is low, looking up slightly at the man to emphasize his struggle against the elements. The focus is sharp on the textures of the net and the hands, while the background elements dissolve into a soft, rhythmic blur. The scene vibrates with a restless, heavy vitality, capturing a moment of quiet, intense labor. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 3,
+  "code": "swiss-international-style",
+  "prompt": "A poster for a harbor jazz festival",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "03_swiss-international-style_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A poster for a harbor jazz festival, designed with a strict modular grid and a sense of objective, dynamic order. A silhouette of a jazz musician stands in the center, hands poised over a brass instrument, eyes closed in deep concentration. The musician wears a charcoal suit jacket and a pale cream shirt, both rendered in flat, solid tones. The silhouette is sharp against a background of deep navy and signal red geometric bars. The figure's posture is rigid and rhythmic, suggesting a moment of intense, controlled performance. At the upper left, a large signal red circle overlaps a black rectangle, creating a sharp diagonal. At the upper right, a series of thin, white horizontal lines run across the frame. Behind the subject, a series of dark navy bars create a rhythmic pattern. In the far lower-left corner, a small white text block reads \"TICKETS NOW AVAILABLE\" in a tiny, precise sans-serif font. In the far lower-right corner, a smaller block of text reads \"JAZZ HALL\" in a medium-sized, bold sans-serif font. At the bottom edge, a thin white line separates the main image from a secondary bar. \"HARBOR JAZZ FESTIVAL\" in a large, bold, black neo-grotesque sans-serif typeface, centered over the middle of the image. \"TICKETS NOW AVAILABLE\" in a small, precise white sans-serif font, placed in the lower-left corner. \"JAZZ HALL\" in a medium-sized, bold white sans-serif font, placed in the lower-right corner. The lighting is even and clinical, as if from a single overhead source. Hard-edged shadows fall away from the subject, creating a stark contrast between the bright white areas and the deep navy voids. No highlights catch the edges of the clothing, maintaining a flat, matte finish. The composition is asymmetric, using a strict grid to balance the heavy signal red elements with the negative space. The viewpoint is straight-on, keeping the subject centered but surrounded by a structured, modular layout. The overall effect is one of cold, calculated precision and a rhythmic, disciplined energy. Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+ }
+]

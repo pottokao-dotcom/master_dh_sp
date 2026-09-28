@@ -1,0 +1,25 @@
+code: bauhaus
+label_zh: "包浩斯 (Bauhaus)"
+medium: design
+aspect: '3:4'
+palette: colour
+look_paragraph: >
+  A Bauhaus design built from primary colours and basic shapes: a red square, a yellow triangle,
+  a blue circle, black bars and thin rules arranged on an asymmetric grid over white or cream
+  paper. Lettering is lowercase geometric sans-serif, set in bold bands and vertical lines,
+  sometimes rotated. The picture sits in a clean rectangle or circle held within the grid of
+  shapes. Printing is flat and crisp on matte paper. Functional, rational and playful, every
+  element placed with intent.
+picture_paragraph: "The picture is reduced to basic geometric shapes in primary colours, or a clean black-and-white photograph set in a rectangle."
+page_paragraph: "The page is built from primary colours and basic shapes: a red square, a yellow triangle, a blue circle, black bars and thin rules on an asymmetric grid over white or cream paper. The picture is set in a clean rectangle or circle within that grid, reproduced as it is. Lettering is lowercase geometric sans-serif in bold bands and vertical lines, sometimes rotated. Printing is flat and crisp on matte paper."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Bauhaus"   # v4.1 B 組:「接下來你成為 Bauhaus 平面設計師」
+signature_lead: "A Bauhaus design of primary colours and basic shapes, geometric lowercase type on an asymmetric grid."
+signature_close: "Red square, yellow triangle, blue circle, geometric lowercase type, asymmetric and functional."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  exhibition posters, typographic book covers, architecture and furniture, abstract geometric
+  compositions
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

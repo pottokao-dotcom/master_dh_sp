@@ -1,0 +1,31 @@
+code: raw-bw-cinematic-portraits
+label_zh: 粗粒黑白寫真
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A raw, cinematic black-and-white photograph with visible film grain and soft overcast daylight,
+  natural and unretouched. Skin shows its real texture — lines, pores, freckles, stray hairs —
+  and hair moves loose in the wind. Gentle, filmic contrast and atmospheric greys give the frame
+  the feel of a still from an old movie. The camera works with available light, candid and
+  unposed, catching a person between moments with an unguarded, direct presence. Settings stay
+  plain and real — a beach, a street, a rooftop, a factory yard — and the soft light and honest
+  skin make the picture intimate and tender, soul over surface.
+signature_lead: A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched.
+signature_close: Visible grain, soft natural light, real skin texture, honest and cinematic.
+mood:
+  default: medium
+  weak: a gentle natural ease
+  medium: an honest, emotional naturalism, the person seen as they are
+  strong: a deeply intimate raw humanity, unguarded and vulnerable
+framing:
+  native: neutral
+  close: an intimate natural close portrait, real face and texture
+  wide: the figure within a beach, street or industrial setting, cinematic space
+habitual_subjects: >
+  women shot naturally with little makeup, plain white shirts, windswept beaches, industrial
+  sites and streets, older faces with deep lines
+presets:
+  raw: raw unretouched natural beauty
+  cinematic: a timeless film-still mood, atmospheric greys
+  fashion: grainy natural black-and-white fashion, soul over surface
+negative: glossy, airbrushed, retouched skin, heavy makeup, studio glamour, colour, hard flash, ordinary black-and-white fashion shot

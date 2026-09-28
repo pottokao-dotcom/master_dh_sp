@@ -1,0 +1,31 @@
+code: bw-warm-humanist-documentary
+label_zh: 鄉野黑白溫厚紀實
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A tender humanist black-and-white documentary photograph in soft natural daylight, with fine
+  classic grain and a deep, low-keyed range of tones: rich dark earth and shadow, with clear
+  highlight used sparingly. The framing is natural and unposed, and the camera stands at a
+  respectful, companionable distance, taking in the subject together with the ground, walls and
+  weather that hold it, so it looks rooted where it is. Faces and hands carry the marks of a life,
+  rendered with quiet clarity rather than drama. Surfaces are plain and matte, and the heavy,
+  grounded tones give everything in the picture a grave, tender respect.
+signature_lead: A tender, fine-grained black-and-white documentary photograph in soft natural daylight.
+signature_close: Soft natural light, fine grain, a quiet dignity, black and white.
+mood:
+  default: medium
+  weak: a gentle everyday calm
+  medium: tender, dignified attention to people rooted in their place
+  strong: a deep reverent humanism, the quiet weight of a vanishing way of life
+framing:
+  native: neutral
+  close: a close, dignified portrait of a weathered face and working hands
+  wide: the subject rooted within the land or a simple home, ground and sky around it
+habitual_subjects: >
+  farmers, elders and children of rural Taiwan, fields and terraces, village homes, doorways,
+  dirt paths, country markets
+presets:
+  land: a person rooted in the land, tender dignified humanism
+  nostalgia: the quiet weight of a simple, vanishing life
+  labour: weathered working hands and face, the dignity of work
+negative: glossy, stylised, dramatic lighting, studio, colour, generic rural snapshot

@@ -1,0 +1,54 @@
+[
+ {
+  "i": 0,
+  "code": "saturated-banal-monumental",
+  "seed": 42,
+  "prompt": "A giant inflatable rubber duck floating in Victoria Harbour, the Hong Kong skyline behind it",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "00_saturated-banal-monumental_s42_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. A giant inflatable rubber duck floats in the dark, oily waters of Victoria Harbour, a monumental and surreal object against the city skyline. The inflatable rubber duck is a massive, heavy-weight inflatable with a thick, textured rubber skin that shows deep, saturated veins of blood-red and acid-yellow. Its surface is slick with moisture, catching the dim light in a way that makes the plastic appear liquid and heavy. The duck's head is a rounded, smooth sphere, and its flippers are stiff, stiffened by the weight of the water. It sits low in the water, its silhouette looming over the harbor with an unnatural, oversized presence. In the far upper-left corner, the distant, dark silhouette of a Hong Kong skyline rises against a bruised, amber sky. At the upper-right, the silhouette of a skyscraper towers over the water, its glass surfaces reflecting the blood-red of the sun. Behind the subject, the Hong Kong skyline stretches across the horizon, a dense cluster of hard-edged shapes in shades of deep charcoal and burnt orange. In the lower-right corner, the surface of Victoria Harbour is a churning, dark mass of liquid and light, reflecting the amber glow of the setting sun. At the bottom edge, the water recedes into a deep, ink-black void where the harbor's edge is lost to shadow. The lighting is low and directional, coming from a setting sun just below the horizon, casting long, hard-edged shadows across the water. A warm, amber light hits the side of the rubber duck, making its red and yellow highlights glow with an intense, unnatural heat. The rest of the scene falls into deep, saturated darkness. The camera is positioned at a very low angle, nearly touching the water's surface, making the duck appear to loom up toward the viewer. The focus is sharp on the texture of the rubber duck, while the distant skyline remains soft and out of focus. The image carries a sense of overwhelming scale and an uneasy, quiet tension. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 1,
+  "code": "saturated-banal-monumental",
+  "seed": 7,
+  "prompt": "A giant inflatable rubber duck floating in Victoria Harbour, the Hong Kong skyline behind it",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "01_saturated-banal-monumental_s7_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. A giant inflatable rubber duck floats amidst the dark, turbulent waters of Victoria Harbour, captured in a saturated, monumental-style photograph. The giant inflatable rubber duck, a massive and heavy form of bright, glossy pink rubber, floats partially submerged, its surface textured with fine, hairline cracks and deep, blood-red indentations. Its head is a smooth, rounded shape, and its eyes are two large, glowing amber orbs that stare directly into the lens. The rubber is thick and heavy, appearing almost solid despite its inflatable nature, catching the light in a way that makes the pink seem liquid and permanent. It drifts through the water, a singular, impossible object in a vast, dark sea. In the lower third of the frame, the dark, churning water of Victoria Harbour ripples around the duck, showing deep indigo and charcoal tones. At the far left, the dark, silhouetted outlines of distant islands break the surface. Behind the subject, the Hong Kong skyline rises like a jagged, acid-green mountain range against a bruised, blood-orange sky. In the upper right corner, the sharp, geometric spires of the city pierce through the haze. At the far right, the dark, turbulent waves roll toward the edge of the frame, disappearing into a deep, void-like shadow. In the background, the skyscrapers of Hong Kong appear as sharp, clinical blocks of hot, acid-yellow and deep, saturated violet. The lighting is harsh and directional, coming from a low angle behind the subject to create a rim of intense, candy-pink light along the edges of the rubber duck. Hard-edged, amber reflections dance on the wet, dark surfaces of the water. The setting sun casts long, dramatic shadows that stretch across the water's surface. The camera is positioned at a low, oblique angle, looking up at the floating duck to make it appear larger than the surrounding skyline. The focus is sharp on the texture of the duck's rubber, while the distant skyline falls into a soft, heavy blur. The image presents a sense of overwhelming, strange scale, turning a trivial toy into a monumental, unsettling presence. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 2,
+  "code": "art-deco-travel-poster",
+  "seed": 42,
+  "prompt": "A travel poster of a zeppelin flying to Shanghai, titled \"Shanghai\"",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "02_art-deco-travel-poster_s42_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster of a zeppelin flying to Shanghai is presented here in a bold, streamlined Art Deco style. A massive, silver-toned airship, rendered in sharp, geometric lines, dominates the center of the frame. Its hull is a series of repeating, stepped cylinders in a polished chrome finish that catches the light with a metallic sheen. The structure of the vessel is reduced to sleek, vertical silhouettes, suggesting immense scale through its compressed perspective. A thin, translucent ribbon of pale cream light traces the curve of the airship's bow, symbolizing the path of travel. The silhouette of the machine is a sharp, geometric shape against a vast, dark sky. In the far upper-left corner, the deep navy void of space meets the edge of a massive, circular sun rendered in a muted amber glow. At the lower-right corner, a cityscape of Shanghai rises up, its skyscrapers simplified into tall, golden geometric spires against a dark charcoal background. In the far upper-right corner, a thin, wispy cloud of pale cream drifts through the dark void, catching a sliver of light. At the bottom edge, a series of horizontal, rhythmic lines in a warm terracotta hue suggest the movement of the airship's wake. Behind the subject, the atmosphere is a gradient of midnight blue fading into a dark, velvet black. \"Shanghai\" in a tall, elegant, geometric sans-serif typeface, positioned in the upper third of the poster in a wide, spaced arrangement. \"JOURNEY TO THE FUTURE\" in a much smaller, secondary font size, placed directly below the main title. \"TRAVELERS ONLY\" in a tiny, thin font at the very bottom edge. The lighting is hard-edged and directional, coming from a single, intense source off-camera to create a high-contrast, dramatic effect. This light creates long, dramatic shadows that stretch across the metallic surfaces of the airship. A subtle, pearlescent reflection glints off the chrome edges of the hull. The composition uses a low-angle, forward-leaning perspective that makes the airship appear monumental and moving toward the viewer. The focus is sharp on the central lines of the airship, while the distant city lights fall into a soft, cinematic blur. The overall effect is one of grand, optimistic, and modernist glamour. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ },
+ {
+  "i": 3,
+  "code": "art-deco-travel-poster",
+  "seed": 7,
+  "prompt": "A travel poster of a zeppelin flying to Shanghai, titled \"Shanghai\"",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "03_art-deco-travel-poster_s7_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster of a zeppelin flying to Shanghai, rendered in bold, streamlined Art Deco style with geometric precision and dramatic perspective. A massive, silver-toned airship with a streamlined, aerodynamic hull dominates the center of the frame. Its surface is a series of sharp, interlocking curves and deep navy panels that catch a hard, directional light. The structure of the zeppelin is composed of smooth, metallic shapes, suggesting immense scale and speed. A single, large window or observation port reflects a distorted, golden light from a distant source. The vessel moves through a sky of midnight blue gradients, its silhouette a sharp, vertical streak against the dark. At the far upper-left corner, the vast expanse of the night sky transitions into a deep, saturated navy. In the far upper-right corner, a cluster of distant, stylized city lights appears as bright, white orbs against a charcoal background. At the bottom edge, the silhouette of a distant coastline or harbor is suggested by a series of dark, geometric shapes. Behind the subject, the atmosphere is a void of deep, flat tones, emphasizing the isolation of the airship. At the lower edge, a series of stylized, rhythmic lines suggest the movement of waves or clouds. \"Shanghai\" in a tall, elegant, gold-toned geometric sans-serif, centered at the top, followed by a smaller tagline \"The Way Home\" in a pale cream, thin sans-serif, placed at the bottom center. The lighting is hard and directional, coming from a source off-camera to create high-contrast shadows. A bright, warm light glints off the metallic edges of the zeppelin's hull. The surrounding environment falls away into deep, ink-black shadows. The composition uses a low, dramatic angle, making the zeppelin appear as a monumental, forward-leaning force. The focus is sharp on the leading lines of the airship's structure, while the background remains a smooth, atmospheric gradient. The work conveys a sense of grand, optimistic, and modernist travel through its sleek, geometric abstraction. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ }
+]

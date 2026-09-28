@@ -1,0 +1,25 @@
+code: pop-art
+label_zh: "普普藝術 (Pop Art)"
+medium: design
+aspect: '1:1'
+palette: colour
+look_paragraph: >
+  A Pop Art design built like a screen print or comic panel: flat saturated colours — hot pink,
+  lemon yellow, cyan, red — with thick black outlines, visible Ben-Day halftone dots and slight
+  misregistration between the colour layers. The picture is treated as an icon, a consumer
+  object or face made bold and graphic, sometimes repeated in a grid with shifting colours.
+  Lettering is punchy, comic-book or bold advertising type, speech bubbles or sound words where
+  they fit. Loud, ironic and bright.
+picture_paragraph: "The picture is a flat screen-printed illustration with thick black outlines, Ben-Day halftone dots and hot flat colour, treated like a comic panel."
+page_paragraph: "The page is laid out like a comic page or screen print: flat saturated panels of hot pink, lemon yellow, cyan and red, divided by thick black outlines, with fields of Ben-Day halftone dots filling the background around the picture. The picture sits inside one panel, reproduced as it is, sometimes repeated in a grid with the panel colours shifting around it. Lettering is punchy comic-book or bold advertising type, in speech bubbles or burst shapes where they fit."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Pop Art"   # v4.1 B 組:「接下來你成為 Pop Art 平面設計師」
+signature_lead: "A Pop Art design like a screen print, flat hot colours, thick outlines and halftone dots."
+signature_close: "Flat hot colours, Ben-Day dots, thick outlines, repeated icons, loud and ironic."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  soup cans and soda bottles, celebrity faces repeated in grids, comic-strip heroines, speech
+  bubbles, explosions
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

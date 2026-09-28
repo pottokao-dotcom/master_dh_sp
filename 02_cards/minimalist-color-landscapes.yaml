@@ -1,0 +1,30 @@
+code: minimalist-color-landscapes
+label_zh: 極簡色塊靜謐風景
+aspect: '3:2'
+palette: saturated
+look_paragraph: >
+  A painterly, minimalist colour photograph that reduces the scene to a few bold, simple fields
+  of colour and form. The subject stands as one clear shape against open planes — sky, water,
+  wall, ground — with generous emptiness around it and a clean edge or horizon. Colour is
+  saturated yet refined, a few rich hues carrying the feeling, laid in smooth blocks with clean,
+  luminous light and fine texture. Everything extra falls away. The stillness is lyrical and
+  meditative, an outer view turned into an inner landscape.
+signature_lead: A painterly minimalist colour photograph, the scene reduced to bold simple fields of colour and form.
+signature_close: Bold simple colour fields, generous emptiness, clean luminous light, a lyrical stillness.
+mood:
+  default: medium
+  weak: a calm, clean quiet
+  medium: a lyrical, meditative stillness
+  strong: an inner landscape of pure colour and emptiness
+framing:
+  native: wide
+  close: closer, a textured colour surface read as an abstract block
+  wide: the subject as one bold form within a vast open colour field
+habitual_subjects: >
+  open seas and skies, sand dunes, white-washed coastal walls, a red boat, a lone tree, simple
+  doorways
+presets:
+  mindscape: a single bold form in a vast colour field
+  lyrical: lyrical painterly stillness, emotional colour
+  blocks: pure colour blocks of wall, sea and sky
+negative: busy, cluttered, literal snapshot, muted grey colour, harsh contrast, crowded scene, ordinary scenic landscape

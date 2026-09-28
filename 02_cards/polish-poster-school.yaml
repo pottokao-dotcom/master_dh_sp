@@ -1,0 +1,26 @@
+code: polish-poster-school
+label_zh: "波蘭海報學派 (Polish Poster School)"
+medium: design
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A Polish Poster School design: a single surreal image fills the page — a metaphor rather than
+  a literal scene, built with collage and expressive distortion. Colours are bold and
+  unexpected, often a limited palette with one striking accent. Lettering is hand-drawn and
+  integrated into the image, irregular and personal rather than a clean typeface, sometimes
+  painted in the same strokes as the image. The texture of the paper stays visible. Witty, dark,
+  poetic and handmade.
+picture_paragraph: "The picture is hand-painted in loose expressive brushwork, a surreal metaphor with visible paint and paper texture."
+page_paragraph: "The page is a Polish Poster School sheet: the picture fills most of the page as one bold image, reproduced as it is, with a limited palette and one striking accent colour on the page around it. Lettering is hand-drawn, irregular and personal, painted onto the sheet and woven around the picture's edges rather than set in a clean typeface. The texture of the paper stays visible in the margins."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Polish Poster School"   # v4.1 B 組:「接下來你成為 Polish Poster School 平面設計師」
+signature_lead: "A Polish School poster, a single surreal painterly metaphor with hand-drawn lettering woven into it."
+signature_close: "Surreal painted metaphor, loose expressive brushwork, bold limited colour, hand-drawn lettering, witty and dark."
+signature_lead_composite: "A Polish School poster, a single surreal visual metaphor with hand-drawn lettering woven into it."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  film, theatre, opera and circus posters, masks, faces merged with objects, clowns, symbolic
+  animals
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

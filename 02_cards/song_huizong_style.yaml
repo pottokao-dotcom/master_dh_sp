@@ -1,0 +1,32 @@
+code: song_huizong_style
+label_zh: "宋徽宗瘦金工筆 (song_huizong_style)"
+medium: painting
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A work in the style of Song Huizong on aged silk of a pale golden-brown tone. Wherever the
+  task shows words, they are written in his Slender Gold script: every stroke hair-thin like
+  drawn wire, with sharp contrast at its ends. Horizontals open with a small angled press, run
+  thin rising slightly to the right, and close in a knot-like pressed dot. Verticals are long
+  and straight, ending in a small knob or a crisp hook. Each turn swells into a knuckle like a
+  crane's knee; left-falling strokes taper like a knife blade, right-falling strokes swell and
+  end like a bamboo leaf; dots are small sharp leaves. Characters are tall and narrow, tight at
+  the centre with long limbs reaching out, in airy columns top to bottom, right to left.
+  Wherever there is a picture, it is a meticulous gongbi painting — fine even outlines, delicate
+  washes of malachite, azurite and rouge — with a column of that inscription and red seals.
+  Refined, poised and imperial.
+signature_lead: "A work in the style of Song Huizong on aged golden silk, in slender, sharp Slender Gold brushwork."
+signature_close: "Slender Gold script, meticulous gongbi colour on aged silk, red seals, refined and imperial."
+mood:
+  default: medium
+  weak: "a calm, refined elegance"
+  medium: "a poised, imperial refinement"
+  strong: "an austere, exquisite perfection in every stroke"
+framing:
+  native: neutral
+  close: "a close view of the brushwork on silk"
+  wide: "the whole scroll with its inscription and seals"
+habitual_subjects: >
+  birds on flowering plum and apricot branches, auspicious cranes, finches and parrots, poems
+  inscribed beside the painting
+negative: "photograph, oil painting, thick brush, bold heavy calligraphy, cursive wild script, western typeface, printed font, modern paper, digital art, anime"

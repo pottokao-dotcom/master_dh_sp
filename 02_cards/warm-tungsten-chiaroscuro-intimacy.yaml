@@ -1,0 +1,32 @@
+code: warm-tungsten-chiaroscuro-intimacy
+label_zh: 暖調單光陰影
+aspect: '2:3'
+palette: colour
+adult_mood: true
+look_paragraph: >
+  A warm, dim, low-key film photograph lit by a single tungsten light from one side, sculpting the
+  subject in chiaroscuro: the nearest planes glow amber while everything else sinks into deep
+  brown-black shadow. The colour is rich but muted — amber, rust, faded warmth — with soft film
+  grain, deep tonal depth and a slightly seedy, worn texture to every surface. The framing is
+  intimate and deliberate. A person meets the lens with a sullen, wary, unsmiling gaze,
+  world-weary yet holding their own presence. The rawness is lit and composed, an intimacy that
+  has been authored rather than stumbled upon.
+signature_lead: A warm, low-key film photograph sculpted by one tungsten side light, deep brown-black shadow around the figure.
+signature_close: One warm side light, deep shadow, a wary gaze into the lens.
+mood:
+  default: medium
+  weak: a quiet, warm, intimate presence
+  medium: raw intimate vulnerability with a defiant, charismatic gaze into the lens
+  strong: fully exposed, fragile-yet-defiant intensity, decadent and unguarded
+framing:
+  native: neutral
+  close: close on the figure low in a dim room, the side light modelling face and skin
+  wide: the figure within the space, surrounded by deep shadow and a little dark negative space
+habitual_subjects: >
+  dim tatami rooms and sparse run-down interiors, sheer worn translucent fabric slipping,
+  bare skin, tousled hair
+presets:
+  fragile: raw directed vulnerability, a fragile-yet-defiant gaze into the lens
+  decadent: decadent dim intimacy in deep warm shadow, a little sordid
+  accident: an accidental, unguarded moment, still present toward the camera
+negative: glossy, bright even lighting, on-camera flash, smiling, beauty retouching, high-key, glossy idol photo, salon glamour

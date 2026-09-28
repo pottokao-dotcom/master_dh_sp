@@ -1,0 +1,28 @@
+code: cezanne_style
+label_zh: "塞尚色塊建構 (cezanne_style)"
+medium: painting
+aspect: '4:3'
+palette: colour
+look_paragraph: >
+  An oil painting in the style of Cézanne: forms are built from small, parallel, directional
+  patches of colour laid side by side, so every object feels solid and constructed like
+  architecture. Shapes lean toward the cylinder, sphere and cone; outlines are broken and
+  restated, perspective shifts slightly between objects, and tables tilt. Colour models form
+  instead of shadow — warm oranges and ochres advancing, cool blues and greens receding. The
+  surface is visibly worked, patient and deliberate, with areas of bare canvas. Calm, solid and
+  quietly radical.
+signature_lead: "An oil painting in the style of C\u00e9zanne, solid forms built from parallel patches of warm and cool colour."
+signature_close: "Parallel constructive brushstrokes, solid geometric forms, warm against cool, a calm deliberate order."
+mood:
+  default: medium
+  weak: "a calm, solid stillness"
+  medium: "a patient, constructed harmony of form and colour"
+  strong: "a monumental, almost architectural order"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  apples and oranges on tilted tables with white cloths, a mountain seen across pines, card
+  players, bathers, village roofs
+negative: "photograph, photorealistic, smooth blending, soft focus, thick glossy impasto, digital painting, anime"

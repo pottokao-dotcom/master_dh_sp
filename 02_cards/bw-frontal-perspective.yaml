@@ -1,0 +1,30 @@
+code: bw-frontal-perspective
+label_zh: 黑白都市縱深
+aspect: '4:3'
+palette: monochrome
+look_paragraph: >
+  A large-format black-and-white photograph taken frontally from the centre line, a one-point
+  perspective drawing the eye deep into space. Light is even, neutral and undramatic; everything
+  is sharp from the nearest kerb to the farthest facade, recorded with deadpan documentary
+  clarity and a smooth range of greys. The ordinary scene is given structure and monumental
+  calm, its lines, surfaces and wear laid out patiently. The gaze is analytic and unhurried,
+  letting the quiet history written into an everyday place slowly surface.
+signature_lead: A frontal large-format black-and-white photograph in one-point perspective, even light, sharp deep into space.
+signature_close: One-point perspective, even neutral light, deep focus, a patient deadpan clarity, black and white.
+mood:
+  default: medium
+  weak: a calm, neutral order
+  medium: a patient, analytic attention to the ordinary
+  strong: the silent history of a place surfacing through its structure
+framing:
+  native: neutral
+  close: closer onto a frontal facade or surface
+  wide: a wide deep view receding to a distant vanishing point
+habitual_subjects: >
+  empty city streets and avenues, building facades, museum galleries with visitors before
+  paintings, family portraits
+presets:
+  street: a frontal one-point empty street, structured and calm
+  typology: deadpan documentary order
+  museum: visitors before a monumental painting in a gallery
+negative: tilted angle, shallow depth of field, dramatic light, colour, candid snapshot, busy action, ordinary street photo

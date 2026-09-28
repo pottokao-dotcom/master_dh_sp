@@ -1,0 +1,33 @@
+code: surreal-saturated-fashion-narrative
+label_zh: 超飽和切腿懸疑時尚
+aspect: '2:3'
+palette: saturated
+adult_mood: true
+staging: surreal
+look_paragraph: >
+  A hyper-saturated, glossy fashion photograph with the charge of a mystery left unsolved.
+  Colour is lacquered and intense — blood reds, acid greens, deep blues — under hard, even
+  studio light or flash that leaves every surface slick and flawless. The framing is boldly
+  graphic: the frame edge cuts the subject off, so a pair of legs, a hand or a stiff torso
+  stands in for the whole, arranged with mannequin-like stillness. The staging hints at a story
+  just outside the picture — something has happened, or is about to. Seductive, surreal and
+  faintly sinister.
+signature_lead: A hyper-saturated, glossy fashion photograph, boldly cropped, lacquered colour under hard light.
+signature_close: Lacquered saturated colour, a bold graphic crop, mannequin stillness, a story just outside the frame.
+mood:
+  default: medium
+  weak: a cool, glossy strangeness
+  medium: a seductive, surreal suspense
+  strong: a sinister, erotic mystery frozen in lacquered colour
+framing:
+  native: neutral
+  close: a bold crop, the subject cut by the frame edge, a fragment standing for the whole
+  wide: the whole staged scene with a hint of narrative at its edges
+habitual_subjects: >
+  women's legs in stilettos, red lips and nails, lying figures, telephones, bathtubs, cars on
+  empty roads, mannequin poses
+presets:
+  fragment: a bold crop where a fragment stands for the whole
+  suspense: an implied story, something just happened
+  lacquer: lacquered, blood-red saturated colour
+negative: natural light, muted colour, candid snapshot, soft focus, grainy documentary, smiling, cheerful catalogue shot

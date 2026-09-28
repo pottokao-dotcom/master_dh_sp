@@ -1,0 +1,33 @@
+code: bw-ink-wash-landscape
+label_zh: 水墨留白銀鹽山水
+aspect: '4:3'
+palette: monochrome
+density: sparse
+exceptions: [obscured]
+look_paragraph: >
+  A soft black-and-white photograph composed like an ink-wash scroll: pale gradated greys, hazy
+  atmospheric depth and wide areas left empty, with the painterly softness of a silver-gelatin
+  print on pale paper. Soft, diffuse light through mist keeps the contrast low; forms dissolve
+  into haze plane by plane, the nearest in dark ink-like tones, the farthest fading to almost
+  nothing, as if several misty views were layered into one scroll. The whole reads as painterly
+  rather than literal, with soft fine grain, and the subject rests quietly within that wide
+  layered space.
+signature_lead: A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space.
+signature_close: Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white.
+mood:
+  default: medium
+  weak: a calm pale misty quiet
+  medium: a poetic, reclusive stillness
+  strong: a sublime scroll-like vastness, the self dissolved into empty space
+framing:
+  native: neutral
+  wide: the subject set in immense misty empty space, layered fading planes
+  close: closer on a single form rendered in soft ink texture
+habitual_subjects: >
+  misty mountains and rivers, lone fishermen and sampans, gnarled pines, cranes, waterfalls,
+  pavilions, plum branches
+presets:
+  recluse: a reclusive escape into misty solitude
+  ranges: layered forms fading through mist
+  antique: the composed elegance of an old ink scroll
+negative: sharp, high contrast, saturated colour, clean digital, harsh light, cluttered, foggy snapshot

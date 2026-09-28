@@ -1,0 +1,31 @@
+code: rigorous-bw-realism
+label_zh: 黑白嚴峻寫實
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A rigorous, exacting black-and-white photograph with a deep, rich tonal range and sharp,
+  uncompromising clarity, printed on classic fine-grained silver gelatin. Strong, controlled
+  light models every form like sculpture, from velvety black through a long scale of greys to
+  clean highlight. The camera stands squarely before its subject and records it as it is,
+  unstaged and unsoftened, every crack, fiber and grain of surface precise. Framing is frontal
+  or sculptural and deliberate, with nothing decorative added, and the deep tones give the
+  subject a grave dignity close to reverence.
+signature_lead: A rigorous, exacting black-and-white photograph, sharp and deep-toned, the subject recorded as it is.
+signature_close: Fine grain, deep full tonal range, sculptural light, grave and precise.
+mood:
+  default: medium
+  weak: a quiet exacting seriousness
+  medium: a grave, dignified realism, hard honesty and precision
+  strong: an uncompromising gravity, close to awe
+framing:
+  native: neutral
+  close: a precise frontal close study of a face, hands or a carved surface
+  wide: the whole subject given dignified sculptural space
+habitual_subjects: >
+  postwar children and working people, poverty and resilience, ancient temples, carved Buddha
+  faces, temple eaves and pillars, weathered faces
+presets:
+  realism: a direct, unsentimental face, hard honest realism
+  temple: a precise, reverent study of carved wood or stone
+  gravity: a weathered subject in deep sculptural light
+negative: staged, stylized, soft focus, dreamy, sentimental, colour, flat low-contrast digital, ordinary documentary snapshot

@@ -1,0 +1,17 @@
+PRIVATE/
+dist/
+05_tests/
+06_text/
+contam_view/
+*.jsonl
+*.png
+*.jpg
+*.gguf
+*.safetensors
+__pycache__/
+
+# 範例照:網頁/縮圖/總表/執行 log 不進 git(可由 log.json 重建)
+examples/web/
+examples/*.jpg
+examples/*/*.jpg
+examples/*.log

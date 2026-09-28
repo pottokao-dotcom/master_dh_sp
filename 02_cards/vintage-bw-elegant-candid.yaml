@@ -1,0 +1,30 @@
+code: vintage-bw-elegant-candid
+label_zh: 黑白雅致日常抓拍
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  An elegant vintage black-and-white candid photograph with soft classic grain and gentle natural
+  daylight, printed in the light, silvery, slightly aged tones of an old silver-gelatin print. The
+  eye behind it is refined, modern and unhurried: small-camera framing, composed yet unposed,
+  catching an everyday gesture with a light touch. Light falls softly and evenly, and the tonal
+  range sits high and luminous, airy greys rather than heavy shadow. Anyone in the frame moves
+  naturally, unaware of the lens. The whole feels cultured, light-footed and affectionate, with a
+  gentle modern poise.
+signature_lead: An elegant vintage black-and-white candid photograph in soft natural daylight.
+signature_close: Soft classic grain, gentle daylight, a quiet everyday grace, black and white.
+mood:
+  default: medium
+  weak: a light, gentle everyday calm
+  medium: a refined, affectionate eye on ordinary life
+  strong: an unhurried grace pervading the everyday
+framing:
+  native: neutral
+  close: a close candid moment, a composed everyday gesture
+  wide: a wider everyday scene with gentle room around the moment
+habitual_subjects: >
+  1930s–50s Taiwanese streets, markets and shops, families, children, women in period dress
+presets:
+  elegant: an elegant composed everyday moment
+  street: ordinary market and street life seen with warm affection
+  home: a family at ease in soft daylight
+negative: gritty, harsh contrast, heavy grain, colour, posed studio portrait, modern clothing

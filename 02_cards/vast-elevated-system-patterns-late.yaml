@@ -1,0 +1,31 @@
+code: vast-elevated-system-patterns-late
+label_zh: 極遠俯瞰抽象色場
+aspect: '16:9'
+palette: colour
+look_paragraph: >
+  An enormous, ultra-sharp colour photograph seen from an extreme height, as if from the air or
+  orbit, the world flattened into pure pattern: bands, grids, ripples and fields of colour that
+  repeat to every edge. Detail is immense and uniform, digitally perfected, grainless and cold.
+  The palette runs in broad, clean colour fields with precise saturated accents. Whatever the
+  task names stays legible as a distinct shape set within the pattern, one element of a vast
+  arrangement. The picture reads like woven data or abstract geometry, beautiful and quietly
+  chilling in its detachment.
+signature_lead: An ultra-sharp colour photograph from an extreme height, the world flattened into pure repeating pattern.
+signature_close: An extreme aerial distance, clean colour fields, pattern to every edge, cold and precise.
+mood:
+  default: medium
+  weak: a cool, abstract calm
+  medium: a cold, dazzling abstraction, the world as arrangement
+  strong: an almost inhuman detachment, reality dissolved into pure geometry
+framing:
+  native: wide
+  close: a tighter field of the pattern, the subject a crisp shape within it
+  wide: the full aerial pattern running to every edge, the subject legible within it
+habitual_subjects: >
+  endless warehouse shelving, ocean surfaces, farmland grids, container ports, abstract building
+  complexes seen from above
+presets:
+  pattern: the world flattened into pure repeating pattern
+  field: broad clean fields of colour seen from far above
+  data: a scene that reads like woven data
+negative: close-up, eye-level view, shallow depth of field, grain, dramatic sky, perspective depth, ordinary drone photo

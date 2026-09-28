@@ -1,0 +1,210 @@
+[
+ {
+  "i": 0,
+  "code": "soft-warm-nostalgic+swiss-international-style",
+  "seed": 42,
+  "prompt": "A fashion poster titled \"PARIS\", a fashionable woman on the terrace of a luxury Paris penthouse, the Eiffel Tower behind her",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "00_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A fashion poster featuring a photograph of a fashionable woman standing on the terrace of a luxury Paris penthouse, with the Eiffel Tower visible behind her. A woman in her prime, seen from behind, wears a flowing silk slip dress in a shade of muted rose. Her hair is styled in soft waves, catching the light as it falls over her shoulders. She stands with a poised, calm posture, her gaze directed toward the distant horizon. Her hands rest lightly against the smooth, weathered stone of the terrace railing. The terrace floor is made of polished, pale cream marble that reflects the warm, amber light. To the left, a heavy velvet curtain in a deep charcoal shade hangs partially open, its texture soft and matte. In the background, the silhouette of the Eiffel Tower rises against a sky of soft, misty lavender. The distant buildings of Paris appear as a series of muted olive and slate-grey shapes, fading into a hazy, warm dusk. The lighting is soft and golden, coming from a low sun setting behind the subject. It creates a gentle, rim-lit glow along the edges of her silhouette and the rim of her dress. Long, soft shadows stretch across the terrace floor, leaving the details in a low-contrast, warm shadow. The shot is taken from a medium distance, using a wide-angle perspective that places the subject off-center to the right. The focus is sharp on the texture of the silk dress and the stone, while the distant city and the tower blur into a soft, atmospheric bokeh. The photograph is placed within a clean, white rectangular frame that occupies the left two-thirds of the page. A thick, signal red vertical bar runs down the right margin, separating the image from a wide, empty white space. The layout follows a strict modular grid, using negative space to balance the heavy subject. The word \"PARIS\" is set in a large, bold, black sans-serif typeface, positioned across the middle of the image. Below it, 'LUXURY COLLECTION' and 'SUMMER EDITION' appear in a much smaller, precise font, aligned to the left margin. All text is black and flush left, following a Swiss International Style grid. The finished piece evokes a sense of quiet, cinematic luxury and a fleeting, beautiful moment of rest. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 1,
+  "code": "soft-warm-nostalgic+swiss-international-style",
+  "seed": 7,
+  "prompt": "A fashion poster titled \"PARIS\", a fashionable woman on the terrace of a luxury Paris penthouse, the Eiffel Tower behind her",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "01_soft-warm-nostalgic_s7_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A fashion poster featuring a photograph of a fashionable woman standing on the terrace of a luxury Paris penthouse, looking out at the Eiffel Tower. A woman in her late twenties, with a sharp jawline and a poised, calm expression, stands facing the camera. She wears a structured, sleeveless cream silk slip dress that catches the light along its edges. Her hands are relaxed at her sides, fingers slightly curled. Her gaze is directed toward the distant, silvered metalwork of the tower. The background consists of a vast, blurred view of the Eiffel Tower, appearing as a soft, textured silver-grey against a pale sky. To her left, the edge of a polished, dark charcoal marble floor recedes into a soft focus. Behind her, the silhouette of the Eiffel Tower's upper girders is visible through the haze of the atmosphere. The terrace floor shows a subtle, worn texture under the soft, golden-hour light. The lighting is a warm, low-angle sun from the side, casting long, soft shadows across the terrace. It catches the rim of her cream silk dress, making the fabric appear luminous against the darker surroundings. The shot is a medium-long shot, taken from a low angle to make her presence feel more grounded and powerful. The focus is sharp on her face and the texture of her silk, while the distant tower and the terrace floor fall into a gentle, creamy blur. The photograph is placed within a clean white rectangular frame, bleeding off the right edge of the page. It is balanced by a large, signal red vertical bar on the left side, creating a strict modular grid. The margins are wide and empty, characteristic of a Swiss International Style layout. The word \"PARIS\" is set in a bold, heavy sans-serif typeface, positioned across the center of the image in a bright white. Below it, 'LUXURY COLLECTION' and 'SPECIAL EDITION' are printed in a small, precise neo-grotesque font, aligned to the left margin. The entire piece evokes a sense of quiet, sophisticated luxury and the lingering ache of a perfect moment. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 2,
+  "code": "refined-minimalist-studio-portrait+japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A colour beauty magazine cover titled \"BLOOM\", a young Korean woman with dewy skin and peach blush",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "02_refined-minimalist-studio-portrait_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A magazine cover featuring a young Korean woman with dewy skin and peach blush, captured in a high-key, soft-focus studio photograph. The subject is a young adult woman with a soft, luminous complexion and a natural peach blush. She wears a simple, lightweight slip dress in a pale cream hue that clings to her curves. Her eyes are closed in a moment of quiet repose, and her hair, styled in soft waves, falls over her shoulders. Her skin appears moist, catching a soft, diffused light that makes her features appear radiant and fresh. The background consists of a seamless, deep charcoal void that recedes into a soft, out-of-focus shadow behind her head. Her hands, pale and smooth, rest lightly against a smooth, matte-finished surface that reflects a faint, pearlescent sheen. The lighting is soft and directional, coming from the side to create a gentle gradient across her cheek and nose. A subtle, pearlescent sheen catches the edges of her skin, suggesting a light dew or moisture. The shot is a medium close-up, taken from a low angle that emphasizes her calm, serene expression. The focus is sharp on her eyes and the texture of her skin, while the rest of the frame falls into a smooth, creamy blur. The photograph is centered within a large, solid indigo square, which is part of a larger composition where a wide, pale cream border separates the image from the page edge. A thin, vermilion line cuts diagonally across the lower right corner, intersecting the photo. The layout follows a modernist grid, using negative space to balance the visual weight of the subject. The word \"BLOOM\" is placed in the upper third of the page, rendered in a large, elegant, silver sans-serif typeface. Below it, in a much smaller, precise font, the words \"VOL. 01\" and \"SUMMER EDITION\" are tucked into the lower right margin. The entire piece evokes a sense of quiet, organic grace and youthful, unscripted beauty. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 3,
+  "code": "refined-minimalist-studio-portrait+japanese-modernist-geometric",
+  "seed": 7,
+  "prompt": "A colour beauty magazine cover titled \"BLOOM\", a young Korean woman with dewy skin and peach blush",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "03_refined-minimalist-studio-portrait_s7_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A magazine cover featuring a young Korean woman with dewy skin and peach blush, captured in a refined studio photograph. A young woman with soft, rounded features and a gentle, calm expression stares directly into the lens. Her skin appears wet with a thin, translucent layer of moisture that catches the light, reflecting a natural, luminous glow. A faint, warm peach blush traces her cheeks, suggesting a recent smile. She wears a simple, sleeveless slip dress of pale cream silk that clings softly to her frame. Her hands are relaxed, resting lightly against a smooth, matte grey surface. The background is a seamless, deep charcoal void that provides a sharp, clean contrast to the subject's luminosity. The edges of the frame show only the empty, dark space surrounding the subject's silhouette. The lighting is a single, soft, directional light source from the side, creating a gentle gradient across her skin and highlighting the moisture. The light falls away into the darkness, leaving the periphery of the frame in total shadow. The shot is a close-up, taken from a medium distance at eye level. The subject is centered, framed by the void, with a shallow depth of field that keeps her skin sharp while allowing the surrounding darkness to remain undisturbed. The photograph is placed within a large, cream-colored rectangular field that occupies the center of the page. A thin, vertical indigo line runs down the left margin, separating the image from a wide, pale ochre border. The layout follows a strict, modernist grid, using geometric voids to direct the eye toward the central subject. The words \"BLOOM\" appear in a large, bold, white sans-serif typeface, positioned across the upper third of the image, overlapping the subject's forehead. Below it, a small line of text, \"VOL. 04\" in a tiny, light grey sans-serif, sits at the bottom right corner. A secondary line, \"THE NEW EDITION\", is placed in the lower left margin in a small, precise font. The piece presents a sense of quiet, intimate elegance and a soft, natural grace. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 4,
+  "code": "van_gogh_style",
+  "seed": 42,
+  "prompt": "Drunk salarymen in loosened ties stumbling home under a full moon in Shinjuku, Tokyo",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "04_van_gogh_style_s42_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts drunk salarymen in loosened ties stumbling home under a full moon in Shinjuku, Tokyo. The figure of a man in his middle years, heavy-set and gaunt, stumbles through the street, his face a mask of deep exhaustion and heavy-lidded sleep. He wears a thin, acid-yellow silk shirt that clings to his chest, and his tie is loose, a thick rope of blood-red silk hanging loosely around his neck. His hands, large and trembling, reach out toward the dark, searching for support. His eyes are half-closed, reflecting a dim, violet light from a distant source. At the upper left, the sky is a swirling vortex of cobalt and deep ultramarine, where the light of the full moon pulses in thick, ridged ridges of white paint. Behind the subject, the alleyway of Shinjuku stretches into a dark, textured void of black and midnight-blue, with the edges of buildings appearing to vibrate with impasto strokes. At the lower right, the ground is a chaotic mess of hot-orange and burnt-umber, showing the uneven, wet texture of a city street. To the left, a side street is rendered in thick, swirling strokes of emerald and indigo, suggesting the movement of a crowd. In the background, the distant lights of Tokyo appear as jagged, acid-yellow smears against a dark, rhythmic background. The lighting is a violent, pulsing glow emanating from the moon, casting long, distorted shadows across the ground. The light hits the edges of the man's silhouette, creating a halo of thick, impasto white paint. Shadows are not black, but deep, swirling pools of violet and charcoal. The viewpoint is low, looking up at the man as he moves, making his stumble appear more dramatic. The perspective of the street bends and twists, creating a sense of overwhelming, restless motion. The entire scene vibrates with a frantic, heavy vitality, capturing the exhaustion of a city at night. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 5,
+  "code": "van_gogh_style",
+  "seed": 7,
+  "prompt": "Drunk salarymen in loosened ties stumbling home under a full moon in Shinjuku, Tokyo",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "05_van_gogh_style_s7_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts drunk salarymen in loosened ties stumbling home under a full moon in Shinjuku, Tokyo. The figures of several adult men, their faces flushed and heavy-lidded with exhaustion, are caught in a moment of sudden, rhythmic collapse. Their hands, thick with impasto strokes of cadmium orange and burnt sienna, reach out in a frantic, swaying motion toward the void. They wear loose, rumpled silk shirts and cotton shirts, the fabric of which has been torn and frayed, hanging limp and heavy over their shoulders. Their eyes are wide, staring into the distance with a glazed, feverish intensity, their skin rendered in thick, swirling ridges of ochre and crimson. Their bodies lean at impossible, shifting angles, as if the very ground beneath them is a vibrating plane of color. At the upper left, the sky is a violent swirl of cobalt and violet, where a massive, pulsing full moon casts its light through thick, impasto ridges of cream and white. At the upper right, the urban architecture of Shinjuku rises up in jagged, expressive strokes of acid yellow and deep indigo. Behind the subjects, the neon signs of Tokyo's streets bleed into the darkness with streaks of hot pink and electric blue. At the bottom edge, the cobblestone street or pavement is a chaotic dance of emerald and charcoal, reflecting the moonlight in long, rippling lines. To the far right, the silhouette of a building or wall is a deep, bruised purple, vibrating with the heat of the city's pulse. The lighting is a violent, pulsing glare from the moon, casting long, distorted shadows across the figures' faces. A sickly, acid-yellow light spills from the surrounding architecture, clashing with the deep, blood-red shadows of the streets. The light catches the edges of the men's limbs, creating a halo of white and cream that swirls around them. The viewpoint is low, looking up at the figures to emphasize their physical imbalance and the overwhelming scale of the moon. The composition is intentionally unstable, with the lines of the buildings bending and twisting in a rhythmic, swirling pattern. The work vibrates with an intense, desperate vitality, capturing a fleeting, feverish moment of urban isolation. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 6,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 42,
+  "prompt": "A young woman in a clear transparent raincoat over a bikini, laughing under the neon signs of Mong Kok on a rainy night",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "06_rainy-window-abstract-portrait_s42_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. A young woman in a clear transparent raincoat over a bikini, laughing under the neon signs of Mong Kok on a rainy night, is captured through a heavy, wet glass surface. The young woman's face is a blur of joy, eyes crinkled and mouth open in a wide smile, her skin appearing pale and damp against the dark surroundings. She wears a clear transparent raincoat that catches the light like liquid, layered over a simple white bikini. Her hands, partially obscured by the condensation, reach out to catch a stray droplet of rain. Her hair, a dark mass of wet curls, clings to her neck and shoulders, partially lost in the fogged glass. At the upper left, the neon signs of Mong Kok glow with a deep amber and electric pink, their light bleeding into the dark. Behind the subject, the cityscape of Mong Kok is a series of soft, out-of-focus shapes of deep navy and charcoal. At the lower right, the dark, reflective surface of a wet pavement creates a distorted, shimmering reflection of the pink light. In the foreground, thick beads of water and heavy condensation cover the lens, obscuring the view of the street. At the upper right, the neon signs fade into a murky, midnight-blue haze. \"MONG KOK\" in large, bold, white sans-serif typeface at the top center; \"LIVE IN THE MOMENT\" in much smaller, thin white typeface directly below it. The lighting is dim and moody, dominated by the warm, amber glow of the neon signs. These lights catch on the wet surfaces of the glass and the rain, creating long, soft reflections. Shadows are deep and heavy, swallowing the edges of the frame. The camera is positioned close to the glass, using a long lens that compresses the distance between the viewer and the subject. The focus is shallow, leaving the woman's smile and the raincoat in a soft, painterly blur. The image carries a sense of quiet, nocturnal intimacy, a fleeting moment of joy lost in a rain-slicked city. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 7,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 7,
+  "prompt": "A young woman in a clear transparent raincoat over a bikini, laughing under the neon signs of Mong Kok on a rainy night",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "07_rainy-window-abstract-portrait_s7_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. A young woman, wearing a clear transparent raincoat over a bikini, laughing under the neon signs of Mong Kok during a rainy night, is captured through a layer of heavy condensation and water droplets on the glass. The woman is seen as a partial, off-center fragment, her face partially obscured by a thick film of moisture and droplets that catch the light. She wears a clear transparent raincoat over a pale cream bikini, her movements frozen in a moment of joy. Her eyes are closed in laughter, and her mouth is slightly agape, though her features are soft and blurred by the lens. Her skin has a warm, amber glow, visible through the translucent fabric of the raincoat. At the upper left, the neon signs of Mong Kok flicker with deep red and electric blue light, their colors bleeding into the surrounding darkness. Behind the subject, the cityscape of Mong Kok is a series of soft, indistinct shapes, a collection of warm amber and deep navy shadows. At the lower right, a dark foreground shape of a wet, charcoal-colored awning creates a heavy, opaque silhouette that obscures the bottom edge of the frame. In the background, the rain falls in long, streaked lines of light against a deep charcoal void. At the upper right, the neon glow from a distant sign reflects off the glass as a smear of pale yellow and violet. \"Mong Kok\" in large, bold, white sans-serif type, centered at the top; \"The Night Life\" in small, muted gold type, centered at the bottom. The lighting is provided by the distant neon signs, casting a warm, amber tint over the scene. The light catches the water droplets on the glass, creating bright, glinting points of light. Shadows are deep and heavy, hiding much of the street's texture behind the wet surfaces. The camera angle is low, looking up slightly through the fogged glass, making the subject appear small and vulnerable. The focus is soft and diffused, with only the immediate condensation and droplets appearing sharp, while the rest of the scene melts into a dreamlike, soft-focus blur. The image carries a sense of quiet, lonely intimacy, a fleeting moment of joy lost in a vast, rainy night. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 8,
+  "code": "high-gloss-noir-glamour+swiss-international-style",
+  "seed": 42,
+  "prompt": "A fashion poster for Milan couture week titled \"MILANO\", a model in a sculptural white coat",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "08_high-gloss-noir-glamour_s42_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A fashion poster for Milan couture week, featuring a model in a sculptural white coat, rendered in black and white. A tall, lithe adult model stands with a commanding, statuesque posture, head held high. The white coat is a heavy, structured garment of silk and wool, its edges sharp and angular like a sculpture. The fabric catches a harsh, directional light that turns the texture into a series of brilliant, silvery highlights against deep charcoal shadows. The subject's gaze is cold and direct, piercing through the viewer with a sense of absolute authority. In the foreground, the white coat's hemline sweeps out in sharp, geometric folds, disappearing into a void of dense black. To the left, a single, polished chrome surface reflects a sliver of the light, appearing as a sharp, silvery streak. The background is a void of absolute, inky blackness, providing no sense of a room or a street, only a stage for the subject's presence. The lighting is hard and directional, coming from a single source off-camera to the right. It creates high-contrast, starkly bright highlights on the edges of the white coat and casts the rest of the scene into total darkness. The camera is positioned at a low angle, looking up at the subject to emphasize her height and power. The focus is razor-sharp on the texture of the white coat, while the edges of the frame bleed into a soft, cinematic blur. The photograph is cropped into a tall, vertical rectangle and placed off-center on the page. A large, signal red geometric bar runs horizontally across the bottom third of the page, acting as a structural element. The rest of the page is a flat, stark white field, creating a stark contrast with the black and white image. The words \"MILANO\" are set in a large, bold, sans-serif typeface, positioned in the upper third of the image, aligned to the left. Below it, a small line reading \"Milan couture week\" and another line reading \"2024\" appear in a tiny, precise font. All text is white, set flush left against the black background of the photograph. The finished piece is a powerful, cinematic advertisement for a high-fashion event, evoking a sense of cold, eternal elegance. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 9,
+  "code": "high-gloss-noir-glamour+swiss-international-style",
+  "seed": 7,
+  "prompt": "A fashion poster for Milan couture week titled \"MILANO\", a model in a sculptural white coat",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "09_high-gloss-noir-glamour_s7_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A fashion poster for Milan couture week featuring a model in a sculptural white coat, captured as a high-gloss, high-contrast glamour photograph. An adult model stands with a commanding, cold stare, their face partially obscured by the heavy, structured folds of a sculptural white coat. The coat is made of a polished, lacquered silk that catches a harsh, directional light, turning the fabric into a series of bright, sharp lines against the deep inky blacks of the background. The model's hands are held stiffly at their sides, fingers long and manicured, reflecting a hard, clinical glare. A sense of dangerous, erotic power radiates from the stillness of the posture. The background is a void of deep charcoal and navy, where the edges of the frame bleed into a heavy, dark shadow. On the left side, a single, sharp highlight glints off a polished chrome surface that cuts through the darkness. The right edge of the frame is a smooth, matte black, providing no sense of depth or environment. The floor beneath the figure is a dark, reflective surface that mirrors the white coat's texture in a distorted, liquid smear. The lighting is a single, hard flash directed from the side, creating extreme contrast between the illuminated white silk and the total darkness of the surroundings. This light causes the edges of the coat to gleam with a sharp, metallic clarity. The camera angle is a low, slightly voyeuristic vantage, looking up at the subject to emphasize their stature. The focus is sharply fixed on the texture of the white coat, while the periphery falls into a soft, cinematic blur. The photograph is placed within a clean, white rectangular frame on a larger page, acting as a separate element. The layout follows a strict modular grid, leaving a significant amount of white space on the right side to balance the heavy image. A thin, signal red horizontal rule separates the photo from the text area. The words \"MILANO\" are set in a large, bold, neo-grotesque sans-serif font, positioned across the center of the photograph in a pale cream hue. Below this, 'MILANO COURT' and 'WEEK' appear in a much smaller, precise typeface, tucked into the lower right margin. The piece is a stark, cinematic advertisement for a high-fashion event. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 10,
+  "code": "hyper-saturated-cinematic-unease+japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A fashion poster for a Tokyo streetwear brand titled \"NEON\", a girl in a candy-pink puffer jacket",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "10_hyper-saturated-cinematic-unease_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. This is a fashion poster for a Tokyo streetwear brand, featuring a girl in a candy-pink puffer jacket, rendered as a cinematic, hyper-saturated photograph. A young woman stands perfectly still, her gaze drifting aimlessly toward a point just beyond the frame. She wears a glossy, candy-pink puffer jacket made of a heavy, synthetic-looking fabric that catches the light with a wet, lacquered sheen. Her hair is styled in a sharp, symmetrical bob, and her expression is blank, frozen in a state of doll-like perfection. The background behind her is a deep, saturated indigo, suggesting a shadowed alleyway where the colors of the streetwear clash against the darkness. To her left, a vertical strip of acid-green neon light casts a harsh, artificial glow onto the side of her jacket. On the right, the floor is a polished, blood-red lacquer that reflects the pink of her coat and the surrounding void. The lighting is harsh and directional, coming from an unseen source to the left, creating deep, ink-black shadows and making the pink fabric appear to glow with a toxic, artificial heat. High-contrast reflections dance across the smooth, synthetic textures of her clothing. The shot is a medium close-up, taken from a slightly low angle to emphasize her upright posture. The subject is centered, while the edges of the frame fall into a soft, cinematic blur, keeping the focus entirely on the texture of the pink jacket. The photograph is cropped into a perfect square and placed within a larger layout consisting of a large circle in ochre and a series of overlapping indigo rectangles. The entire piece is framed by a wide, clean white margin that separates the image from the edge of the page. \"NEON\" is placed across the center of the image in a bold, sans-serif typeface, rendered in a stark white that stands out against the pink. Below this, 'Tokyo' and '2024' are printed in a tiny, precise font in the lower corner. A small masthead 'STREETWEAR' is tucked into the upper left corner in a thin, clean sans-serif. A stark, high-contrast piece that uses intense, saturated colors to create a sense of hyper-real, staged perfection. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ },
+ {
+  "i": 11,
+  "code": "hyper-saturated-cinematic-unease+japanese-modernist-geometric",
+  "seed": 7,
+  "prompt": "A fashion poster for a Tokyo streetwear brand titled \"NEON\", a girl in a candy-pink puffer jacket",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "11_hyper-saturated-cinematic-unease_s7_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A fashion poster for a Tokyo streetwear brand featuring a girl in a candy-pink puffer jacket, captured in a cinematic, hyper-saturated photograph. The girl is a young adult with a doll-like, vacant expression and eyes drifting toward a point out of frame. She wears a heavy, candy-pink puffer jacket made of thick, synthetic fabric that catches the light with a lacquered sheen. Her hands hang limp at her sides, fingers slightly curled, while her gaze remains blank. Her hair is a slick, dark mass that falls over her shoulders, looking unnaturally smooth and polished. The background behind her is a deep, saturated indigo void, suggesting a vast, empty urban space. A single, blood-red neon sign glows from a distance, casting a harsh, acid-red reflection onto the side of her jacket. The floor below her feet is a polished, obsidian-black surface that mirrors her silhouette perfectly. The lighting is a harsh, theatrical studio-style light directed from the front, creating a high-contrast, glossy finish on her jacket. A secondary, toxic-green light source from the side creates sharp, dramatic shadows and intense reflections on the synthetic fibers. The composition is a medium shot, framed to center the subject's head and torso. The viewpoint is at eye-level, looking directly at her face, which is kept in a state of still, unnerving perfection. The photograph is placed within a large, vertical rectangle, surrounded by a wide, flat border of pale pink. A large, solid circle of indigo is placed behind the subject, acting as a frame. The entire layout follows a strict, modernist grid, leaving significant empty space on the left and right sides. The words \"NEON\" appear in a large, bold, sans-serif typeface, positioned across the center of the image in a bright, acid-yellow. Below this, a small line reading \"STREETWEAR\" and another line reading \"TOKYO\" are placed in a tiny, clean font in the bottom right corner. All text is crisp and straight, without any decorative curves. The finished piece presents a sense of hyper-real, glamorous tension through its impossible perfection and violent colors. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ },
+ {
+  "i": 12,
+  "code": "refined-minimalist-studio-portrait+swiss-international-style",
+  "seed": 42,
+  "prompt": "A beauty magazine cover titled \"GLOW\", a close-up of a woman with glossy red lips and slicked-back hair",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "12_refined-minimalist-studio-portrait_s42_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A beauty magazine cover featuring a close-up photograph of a woman with glossy red lips and slicked-back hair. The subject is a mature woman with a smooth, serene face and a calm expression. Her hair is slicked-back, falling in thick, dark tresses that cling to her neck. She wears a simple, dark silk slip that clings to her skin, reflecting a soft, pearlescent sheen. Her lips are coated in a heavy, glossy red lipstick that catches the light with a wet, liquid luster. The background is a deep charcoal void, providing no distraction from the face. To the left, a sliver of a polished, matte-black surface reflects a faint, blurred line of her jaw. On the right, the darkness remains absolute and empty. The lighting is soft and directional, coming from the side to create a high-contrast rim of light along her cheekbone. A single, sharp reflection glints off the wetness of her lips. The camera angle is a close-up, focusing tightly on the mouth and eyes. The focus is sharpest on the texture of the red lipstick, while the hair and skin blur into a soft, creamy bokeh. The photograph is cropped into a vertical rectangle and placed off-center, bleeding off the bottom edge. A wide white margin surrounds the image, acting as a structural column for the layout. The words \"GLOW\" are set in a large, bold, black sans-serif typeface, positioned across the center of the image. Below it, a small line of text reads \"THE NEW EDITION\" in a tiny, clean font. A secondary line below that reads \"VOL. 12\" in a similarly small font. The entire piece conveys a sense of refined, mature elegance through its minimalist and intense focus. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 13,
+  "code": "refined-minimalist-studio-portrait+swiss-international-style",
+  "seed": 7,
+  "prompt": "A beauty magazine cover titled \"GLOW\", a close-up of a woman with glossy red lips and slicked-back hair",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "13_refined-minimalist-studio-portrait_s7_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A beauty magazine cover featuring a close-up of a woman with glossy red lips and slicked-back hair, rendered as a high-quality platinum print. The subject is a mature woman with a calm, serene expression. Her lips are coated in a heavy, deep crimson lipstick that catches the light with a wet, reflective sheen. Her hair is slicked-back tightly against her forehead, forming a sharp, smooth line of dark charcoal hair. She gazes directly into the lens with an expression of quiet, essential dignity. In the upper third of the frame, a smooth, matte charcoal backdrop meets a soft, out-of-focus shadow. Below the subject, the neck and shoulders are visible, showing a soft, pale cream skin texture. To the right, a small, clean white margin provides a buffer for the layout. The lighting is a single, soft source from the side, creating a sharp gradation on the curve of her cheek and the wetness of her lips. The light falls away into a deep, muted navy shadow in the corners of the frame. The shot is a tight, intimate close-up, taken from a slightly low angle to emphasize the presence of the face. The focus is sharply fixed on the lips and the texture of the hair, while the background falls into a soft, creamy blur. The photograph is cropped into a vertical rectangle and placed off-center on the page, leaving a large area of solid, flat white space on the left. A thin, signal red horizontal rule separates the image from the bottom text block. The entire composition follows a strict modular grid, balancing the heavy weight of the image with the open white space. \"GLOW\" is set in a large, bold, black neo-grotesque sans-serif, positioned over the center of the image. 'BEAUTY' and 'VOL. 04' appear in a much smaller, precise black typeface, tucked into the white margin below the main title. The lettering is flush left, aligned to the right edge of the photo. The cover evokes a sense of refined, quiet elegance and mature grace. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 14,
+  "code": "soft-warm-nostalgic+japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A beauty magazine cover titled \"BLOOM\", a young Korean woman with dewy skin and peach blush",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "14_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A magazine cover featuring a young Korean woman with dewy skin and peach blush, captured in a soft, natural-light photograph. A young woman with a calm, soft gaze and a gentle expression stands in the center of the frame. Her skin appears luminous, wet with a fine, translucent layer of moisture that catches the light, giving her face a pearlescent sheen. A light peach blush marks her cheeks, blending naturally into the soft, diffused shadows of her nose. She wears a simple, sleeveless slip dress in a muted cream silk that clings softly to her shoulders. Her hair is a soft, wavy mass of deep chestnut, catching a glint of light at the edges. The background behind her is a blurred, out-of-focus garden, rendered in shades of muted sage and pale olive. The edges of the frame show only the suggestion of a soft, sun-drenched garden path, rendered with a gentle, creamy grain. The lighting is a soft, golden-hour glow coming from the side, creating a rim-light effect along her hair and shoulders. The light is diffused and warm, making the highlights on her skin appear as a soft, pearlescent glow rather than harsh reflections. The shot is a medium close-up, taken from a slightly low angle to emphasize a sense of quiet grace. The subject is placed centrally, surrounded by a wide, empty space that allows her to breathe within the frame. The photograph is cropped into a square and placed within a larger layout of a Japanese modernist magazine cover. A large, solid indigo circle frames the image, while the rest of the page is filled with clean, flat geometric shapes in ochre and pale pink. The margins are wide and empty, creating a sense of calm balance. The words \"BLOOM\" are set in a bold, clean sans-serif typeface, positioned across the upper third of the image in a bright, pale cream. Below it, a small masthead in a delicate, precise script reads \"THE BEAUTY JOURNAL\" and \"VOL. 12\" in a tiny, muted charcoal font. The lettering is crisp and clean, sitting directly over the subject's chin. The finished piece is a quiet, tender study of fragility and natural beauty. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 15,
+  "code": "soft-warm-nostalgic+japanese-modernist-geometric",
+  "seed": 7,
+  "prompt": "A beauty magazine cover titled \"BLOOM\", a young Korean woman with dewy skin and peach blush",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "15_soft-warm-nostalgic_s7_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A magazine cover featuring a photograph of a young Korean woman with dewy skin and peach blush, rendered in a soft natural-light photograph on medium-format film. A young woman with a soft, rounded face and a gentle, tired expression stares directly into the lens. Her skin is slicked with fine, translucent droplets of water that catch the light like tiny diamonds, creating a luminous, dewy effect. A light peach blush traces the curve of her cheeks, appearing almost as a natural tint against the pale cream of her skin. She wears a simple, loose-fitting silk slip in a muted cream color that clings softly to her frame. The background behind her is a vast, out-of-focus garden, where soft, blurred shapes of muted olive and pale green suggest distant shrubbery. The edges of the frame show only the deep shadows of a stone bench and a hint of a warm, sun-drenched stone floor. The lighting is a soft, low afternoon sun coming from the side, creating a gentle rim-light along the curve of her hair and the edges of her skin. The shadows are soft and diffused, leaving no harsh highlights, only a gentle, warm glow that makes her skin appear to glow from within. The shot is a medium close-up, taken at eye-level to create a sense of intimacy. The focus is sharp on her eyes and the dew on her cheek, while the rest of the scene falls into a soft, creamy bokeh. The photograph is cropped into a perfect square and placed centrally on a larger page. The surrounding area is a field of flat, solid indigo and warm ochre, framed by thin, clean white borders. Geometric circles in pale pink and vermilion overlap the edges of the photo, acting as a subtle border. The entire layout follows a Japanese modernist grid, using negative space to balance the heavy subject. The word \"BLOOM\" is placed across the center of the photograph in a large, clean, white sans-serif typeface. Below it, in a much smaller font, 'VOLUME 01' and 'SPRING EDITION' are tucked into the bottom right corner. The lettering is crisp and precise, designed to feel modern and detached from the organic texture of the photograph. The finished piece evokes a quiet, tender nostalgia, a moment of fragile beauty caught in a dream-like, sun-drenched memory. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ }
+]

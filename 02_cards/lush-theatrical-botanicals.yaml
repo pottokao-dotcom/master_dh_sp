@@ -1,0 +1,31 @@
+code: lush-theatrical-botanicals
+label_zh: 飽和濕潤繁花實景
+aspect: '1:1'
+palette: saturated
+look_paragraph: >
+  A real, living photograph in hyper-saturated theatrical colour — operatic and staged in
+  intensity, yet clearly photographed, with real film texture and slight grain rather than a
+  plastic or computer-rendered finish. The saturation lives in the true colours of the things
+  themselves, across the full spectrum — crimson, magenta, cyan, violet, gold — with bright
+  blooming highlights held against rich, deep shadow. Surfaces are dewy and moist, glistening with
+  droplets. The arrangement is natural, irregular and asymmetrical, overflowing, lush to the edge
+  of too much.
+signature_lead: A real, living photograph in hyper-saturated theatrical colour, dewy and glistening, deep shadow behind.
+signature_close: Full-spectrum saturated colour, wet glistening surfaces, lush irregular abundance.
+mood:
+  default: medium
+  weak: fresh, dewy, joyful brightness
+  medium: intoxicating operatic overload, lush vivid life with an undertow of transience
+  strong: overwhelming saturation, heavy and over-ripe, glistening to the verge of too much
+framing:
+  native: neutral
+  close: a dense, overflowing composition that fills the frame
+  wide: one or a few over-ripe forms against a simpler deep ground
+habitual_subjects: >
+  masses of living flowers — peonies, dahlias, lotus, lilies, chrysanthemums, hydrangeas —
+  goldfish in water, cherry blossom, fireworks, lush gardens
+presets:
+  radiant: dazzling full-spectrum colour, festive operatic brilliance
+  dreamlike: hypnotic, dreamlike saturation
+  opulent: dense sensual colour, overflowing, a faint edge of decay
+negative: plastic, CGI, illustration, symmetric pattern, flat pink filter, dry, dull colour, black and white

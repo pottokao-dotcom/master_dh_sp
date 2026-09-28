@@ -1,0 +1,31 @@
+code: square-bw-portrait-flash
+label_zh: 方框黑白直視閃光
+aspect: '1:1'
+palette: monochrome
+look_paragraph: >
+  A stark square black-and-white photograph with medium-format clarity and slight grain, every
+  detail sharp. The subject sits centered in the square, facing the camera head-on, lit by a
+  slightly harsh direct flash that flattens the face and throws a small hard shadow just behind.
+  A person looks straight into the lens, a little awkward and completely present, the flash
+  catching every crease of skin and clothing. Surroundings are plain and everyday — a living
+  room, a yard, a hallway, a park. The picture feels confrontational and intimate at once, the
+  ordinary turning faintly uncanny.
+signature_lead: A stark square black-and-white photograph, the subject centered and facing the lens under a harsh direct flash.
+signature_close: Square frame, direct flash, a head-on stare, plain everyday surroundings.
+mood:
+  default: medium
+  weak: a plain direct presence, faintly off
+  medium: a confrontational head-on stare, awkward and dignified
+  strong: an unflinching uncanny gaze, strange and tender at once
+framing:
+  native: neutral
+  close: a tight face and shoulders, the stare filling the square
+  wide: the full figure centered in a plain room or yard
+habitual_subjects: >
+  unusual people facing the camera — identical twins, circus and sideshow performers, eccentric
+  couples, people in costume, children with odd expressions — in plain homes and parks
+presets:
+  stare: a person staring straight into the lens, uncanny and direct
+  outsider: a performer or eccentric presented head-on with awkward dignity
+  uncanny: something strange surfacing in an ordinary couple or child
+negative: candid, oblique angle, soft flattering light, glamour, colour, widescreen, bokeh, ordinary square portrait

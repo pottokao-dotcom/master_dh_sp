@@ -1,0 +1,30 @@
+code: gaudy-staged-kitsch-portraits
+label_zh: 絢爛俗艷偽景人像
+aspect: '3:4'
+palette: saturated
+look_paragraph: >
+  A lurid, hyper-saturated staged photograph with the camp gaudiness of an old studio portrait:
+  electric colour, glitter, sequins and plastic sheen wherever the scene has surfaces to catch
+  them, often a fake painted backdrop behind. Everything looks deliberately artificial and
+  staged. A person in the frame is caught doll-stiff and frontal, skin waxy under flat bright
+  light, gaze fixed like a memorial portrait. The surface is gaudy and festive; underneath it
+  runs something eerie, melancholy and morbid — glitter masking memory and death.
+signature_lead: A lurid, hyper-saturated staged portrait photograph, electric colour and glitter against a fake painted backdrop.
+signature_close: Gaudy electric colour, glitter and plastic sheen, a doll-stiff stillness, festive and morbid at once.
+mood:
+  default: medium
+  weak: a gaudy, uncanny stillness
+  medium: a glittering kitsch gone eerie
+  strong: a morbid paradise of plastic and neon, waxy and frozen
+framing:
+  native: neutral
+  close: a doll-stiff frontal portrait against a glittering backdrop
+  wide: the whole kitsch tableau with flowers, tinsel and neon around
+habitual_subjects: >
+  posed figures in funeral, variety-stage and temple-fair settings, sequins and tinsel, plastic
+  flowers, memorial portraits, electric flower floats
+presets:
+  uncanny: lurid kitsch gone uncanny, doll-stiff
+  memorial: a memorial-portrait stillness, waxy and frozen
+  electric: neon float gaudiness, tinsel and plastic flowers
+negative: natural light, documentary, muted colour, candid, tasteful, minimal, ordinary saturated portrait

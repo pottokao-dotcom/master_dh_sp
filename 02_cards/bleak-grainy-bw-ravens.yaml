@@ -1,0 +1,32 @@
+code: bleak-grainy-bw-ravens
+label_zh: 北國蒼穹寒鴉
+aspect: '3:2'
+palette: monochrome
+exceptions: [blur]
+look_paragraph: >
+  A bleak, rough-grained black-and-white photograph with the look of pushed high-speed film:
+  coarse gritty grain, crushed inky blacks and a heavy blown-out sky pressing down on the scene.
+  Dark shapes stand out hard against that white emptiness, their edges soft and smeared where
+  anything moves. The frame feels desolate and wintry, with wide stretches of blank sky, snow,
+  ground or wall around the subject, and the tones jump from dense black to glaring white with
+  little in between. The print looks raw and degraded, printed too dark, and the loneliness
+  lives in all that blank white around the dark shapes.
+signature_lead: A bleak, coarse-grained black-and-white photograph, crushed blacks under a heavy blown-out sky.
+signature_close: Rough grain, crushed blacks, a heavy white sky, desolate and lonely.
+mood:
+  default: medium
+  weak: a lonely grey stillness, a few dark shapes against an empty sky
+  medium: a brooding solitude, dark forms scattered against a heavy sky
+  strong: a near-frantic darkness, blurred black shapes crowding a blank white void
+framing:
+  native: neutral
+  close: one dark shape close and grainy against the blank sky
+  wide: dark shapes scattered across a wide, empty, heavy sky
+habitual_subjects: >
+  black ravens scattered, massed or in flight, a lone bird on a wire, bare winter trees,
+  snow-bound shores, a solitary dark figure in a white emptiness
+presets:
+  ravens: dark birds scattered against a heavy sky, brooding solitude
+  snow: a desolate snowy expanse, one dark figure small within it
+  storm: a blurred storm of beating black wings, frantic and dark
+negative: clean, pretty, smooth digital, colour, bright cheerful sky, calm scenic landscape with birds, postcard winter scene

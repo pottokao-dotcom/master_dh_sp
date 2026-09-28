@@ -1,0 +1,27 @@
+code: durer_style
+label_zh: "杜勒銅版線刻 (durer_style)"
+medium: painting
+aspect: '4:5'
+palette: monochrome
+look_paragraph: >
+  A copper engraving in the style of Dürer, rendered entirely in fine, precise black lines on
+  white paper. Tone is built from hatching and cross-hatching, lines swelling and tapering to
+  model every curve, and textures — fur, stone, cloth, wood, hair — are described line by line
+  with astonishing detail. Deep shadows are dense networks of crossed lines; lights are bare
+  paper. Composition is packed with symbolic, meticulously observed objects. Every contour is
+  firm and deliberate, with nothing left vague. Rigorous, learned and solemn.
+signature_lead: "A copper engraving in the style of D\u00fcrer, fine black hatched and cross-hatched lines on white paper."
+signature_close: "Fine engraved lines, dense cross-hatching, meticulous textures, rigorous and solemn, black and white."
+mood:
+  default: medium
+  weak: "a quiet, meticulous clarity"
+  medium: "a learned, solemn precision"
+  strong: "a dense, symbolic intensity in every line"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  knights on horseback, saints in studies, hares and rhinoceroses, praying hands, allegorical
+  figures, landscapes with castles
+negative: "photograph, colour, painted, soft shading, smudged charcoal, digital art, anime"

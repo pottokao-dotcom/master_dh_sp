@@ -1,0 +1,27 @@
+code: sargent_watercolor_style
+label_zh: "沙金特爽利水彩 (sargent_watercolor_style)"
+medium: painting
+aspect: '3:2'
+palette: colour
+look_paragraph: >
+  A watercolour in the style of Sargent, painted fast and confident: broad, wet washes laid in
+  single strokes, crisp dry-brush accents, and bright untouched white paper standing in for
+  sunlight. Colour is fresh and transparent, blooming where wet meets wet, sharp where the brush
+  was lifted. Shadows are luminous and cool, highlights left as paper, detail suggested rather
+  than drawn. The composition is casual and close, often cropped like a glance, with reflections
+  and dappled light doing most of the work. Sunlit, spontaneous and brilliantly economical.
+signature_lead: "A watercolour in the style of Sargent, fast wet washes and crisp strokes, white paper as sunlight."
+signature_close: "Transparent wet washes, crisp dry-brush accents, white paper for sunlight, spontaneous brilliance."
+mood:
+  default: medium
+  weak: "a light, sunny freshness"
+  medium: "a brilliant, spontaneous sunlit moment"
+  strong: "a dazzling, virtuoso flash of light and water"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  Venetian canals and gondolas, sunlit Mediterranean courtyards, figures in white dresses in
+  gardens, boats and sails, marble fountains
+negative: "photograph, oil painting, thick paint, muddy colour, heavy outlines, digital art, anime"

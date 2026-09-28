@@ -1,0 +1,30 @@
+code: bw-geometric-street-candid
+label_zh: 黑白街頭幾何瞬間
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  An elegant, candid black-and-white street photograph at a natural eye-level view, as a normal
+  lens sees it, in balanced daylight with classic fine grain and a full, luminous range of tones.
+  The frame is uncropped and composed with quiet precision: lines of walls, stairs, railings and
+  shadows build a clear geometry, and a fleeting moment — a step, a turn, a glance, a shift of
+  light — lands at the exact instant it completes that geometry. The photographer is invisible and
+  quick; the moment is unposed, and the order in the frame looks found rather than made.
+signature_lead: A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance.
+signature_close: Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white.
+mood:
+  default: medium
+  weak: a quiet, balanced everyday moment
+  medium: a fleeting gesture caught in elegant alignment
+  strong: the perfect instant, form and life snapping into order
+framing:
+  native: neutral
+  close: a closer gesture aligned with an arch, a rail or a shadow
+  wide: a balanced scene where the subject completes the geometry
+habitual_subjects: >
+  European streets and squares, stairs and arches, puddles and walls, cyclists, markets, people
+  in motion
+presets:
+  instant: a gesture caught at its peak, aligned with the background geometry
+  geometry: a figure completing an order of arches, stairs and shadows
+  street: candid street life in balanced black and white
+negative: posed, cropped, wide-angle distortion, colour, harsh flash, cluttered snapshot

@@ -1,0 +1,26 @@
+code: jazz-typographic-album-cover
+label_zh: "爵士字體唱片封面 (jazz typographic cover)"
+medium: design
+aspect: '1:1'
+palette: colour
+look_paragraph: >
+  A mid-century jazz record cover built on bold typography and one strong, tightly cropped
+  picture: the artist's name and title set in huge, tightly spaced sans-serif or slab letters,
+  stacked, cropped at the edges or enlarged until they become shapes. The picture is cropped
+  tight — hands, a face, an instrument — and often tinted with a single flat colour such as
+  blue, orange or green. Layout is asymmetric, cool and rhythmic, with generous negative space.
+  Sharp, modern and swinging.
+picture_paragraph: "The picture is a high-contrast black-and-white photograph, tightly cropped, often tinted with one flat colour."
+page_paragraph: "The page is a mid-century jazz record cover built on bold typography: the artist's name and title in huge, tightly spaced sans-serif or slab letters, stacked, cropped at the edges or enlarged until they become shapes, on a flat field of one colour such as blue, orange or green. The picture is cropped tight to one strong detail and placed asymmetrically, reproduced as it is, with generous negative space around it."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "mid-century jazz-cover"   # v4.1 B 組:「接下來你成為 mid-century jazz-cover 平面設計師」
+signature_lead: "A mid-century jazz record cover, huge tightly spaced type and a high-contrast cropped photograph tinted one colour."
+signature_close: "Huge stacked type, a tinted high-contrast photograph, asymmetric rhythm, cool and modern."
+signature_lead_composite: "A mid-century jazz record cover, huge tightly spaced type and one bold cropped image tinted a single colour."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  jazz musicians with saxophones and trumpets, piano keys, studio sessions, smoke, hands on
+  instruments
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"

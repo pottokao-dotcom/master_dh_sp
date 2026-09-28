@@ -1,0 +1,24 @@
+code: large-format-mid
+label_zh: 巨幅冷調俯瞰系統
+aspect: '16:9'
+palette: colour
+look_paragraph: >
+  An enormous large-format colour photograph seen from a raised, distant vantage, the scene
+  flattened frontally from edge to edge into a near-abstract all-over pattern, the horizon high or
+  gone. Even, cool, neutral light lies across everything, and every part of the field is equally
+  sharp from front to back, grainless and clinical, digitally perfected to an almost unreal
+  smoothness. The palette is cool and restrained, broken by precise saturated accents that repeat
+  across the grid. Every item and every person carries the same weight and the same crisp detail,
+  each one part of the system, and repetition grows into pattern.
+signature_lead: A vast, ultra-sharp large-format colour photograph seen from an elevated distance, flattened into pattern.
+signature_close: An elevated distant view, an all-over repeating pattern, uniform sharpness from front to back.
+mood:
+  default: medium
+  medium: a cold, dazzling grandeur that feels quietly unsettling
+framing:
+  native: wide
+  wide: the whole field filling the frame edge to edge, repetition as pattern
+habitual_subjects: >
+  stock-exchange floors, endless supermarket shelves, crowds and dance floors, factory halls,
+  river landscapes, apartment façades
+negative: shallow depth of field, bokeh, grain, close-up, dramatic lighting, ordinary aerial photo

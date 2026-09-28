@@ -1,0 +1,31 @@
+code: bw-dramatic-chiaroscuro
+label_zh: 黑白光束剪影
+aspect: '1:1'
+palette: monochrome
+look_paragraph: >
+  A dramatic black-and-white photograph in extreme chiaroscuro: a single hard shaft of light cuts
+  through atmospheric haze, throwing long diagonal shadows and splitting the frame into bold
+  geometric blocks of light and deep black. Smooth medium-format grain and clean silver-gelatin
+  gradation keep every tone precise. The subject sits off-centre where the beam falls, rim-lit or
+  half turned to silhouette, with broad planes of shadow and haze left open around it so the space
+  feels vast and still. The light reads almost spiritual — an order found in an ordinary place,
+  loneliness turned into something beautiful.
+signature_lead: A dramatic black-and-white photograph, one hard shaft of light cutting through haze into deep shadow.
+signature_close: A single beam of light, bold diagonal shadows, a still poetic solitude, black and white.
+mood:
+  default: medium
+  weak: a calm, meditative quiet
+  medium: a poetic outsider's solitude, longing made luminous
+  strong: a transcendent stillness, monumental light towering through the scene
+framing:
+  native: neutral
+  wide: the subject off-centre, wide planes of light and shadow opening around it
+  close: closer on the subject where the beam falls
+habitual_subjects: >
+  narrow alleys and stone stairways, street markets, a harbour with junks, drifting steam and
+  smoke, laundry hung between buildings
+presets:
+  poetic: quiet poetic stillness, soft drifting haze
+  drama: an intense beam of light, bold geometric shadow, theatrical tension
+  solitude: vast dark architecture around the subject, one beam of light
+negative: flat lighting, colour, grainy noise, cluttered, low contrast, ordinary architecture photo

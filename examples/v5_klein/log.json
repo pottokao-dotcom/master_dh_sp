@@ -1,0 +1,626 @@
+[
+ {
+  "i": 0,
+  "code": "pe-default",
+  "seed": 42,
+  "prompt": "Dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco at Lunar New Year",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "00_pe-default_s42_00001_.png",
+  "final_prompt": "A cinematic still captures a procession of dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco during Lunar New Year. Two elderly men, their skin lined with deep creases and textured by years of sun, grip the heavy, weathered wooden poles. Their hands, calloused and steady, support the weight of the golden dragon, a massive and intricate structure of heavy, tarnished gold leaf and polished brass. The dragon's scales catch the light, appearing as a shimmering, liquid gold against the dark shadows. The men wear traditional dark charcoal-colored silk robes that pool around their feet, the fabric catching a faint sheen from the overhead light. Their faces are set in a mask-like, stoic expression, eyes focused forward with a sense of purpose. At the upper left, the narrow street walls are lined with dark, weathered wood and faded, deep red paint, receding into a soft blur. At the upper right, the street corners are bordered by the dark, vertical silhouettes of old brick buildings under a heavy, slate-grey sky. Behind the subject, the street stretches back into a dim, out-of-focus alleyway, where the faint, warm glow of distant lanterns flickers against the night. At the lower left, the pavement is a dark, damp concrete, reflecting the amber light of the lanterns. At the lower right, a discarded, crumpled piece of paper rests on the ground, its edges curling slightly from moisture. In the background, the dim outlines of other performers and spectators move through the darkness, their forms lost to the shadows. The lighting is provided by a series of hanging lanterns, casting a warm, amber glow that cuts through the darkness. This light creates long, soft-edged shadows and highlights the metallic, golden texture of the dragon's scales. The light source is overhead and diffused, creating a low-contrast environment where the colors bleed into one another. The camera is positioned at a medium distance, level with the procession, creating a sense of being part of the crowd. The focus is sharp on the hands and the dragon, while the surrounding street and architecture fall into a heavy, cinematic blur. The image evokes a sense of ancient tradition and the quiet, rhythmic movement of a city remembering its roots."
+ },
+ {
+  "i": 1,
+  "code": "pe-default",
+  "seed": 7,
+  "prompt": "Dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco at Lunar New Year",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "01_pe-default_s7_00001_.png",
+  "final_prompt": "A cinematic still of dancers carrying a golden dragon on poles through the lantern-lit streets of Chinatown in San Francisco during Lunar New Year. The golden dragon, a massive and intricate structure of heavy, malleable gold leaf, coils around the thick wooden poles held by several figures. The dancers, adult men and women in traditional silk and satin robes of deep crimson and midnight blue, move with rhythmic, practiced grace. Their hands, large and calloused, grip the rough-hewn timber of the poles, which are wrapped in layers of heavy, textured paper. The golden dragon's scales catch the light, appearing as a shimmering, liquid gold against the dark surroundings. At the upper left, the narrow, dark alleyway recedes into a soft, out-of-focus shadow. At the upper right, a row of old, weathered brick buildings stands behind a veil of misty, pale cream light. Behind the subject, the street stretches into a deep charcoal darkness, broken only by the dim, amber glow of hanging lanterns. At the bottom left, the cobblestone street is wet with rain, reflecting the dim, warm light in streaks of amber and silver. At the bottom right, the edge of a dark, wooden storefront shows signs of age and wear, its surface a deep mahogany. The lighting is dim and moody, provided by the warm, amber glow of hanging lanterns. These light sources cast long, soft shadows and create a high-contrast environment where the light catches the edges of the golden dragon. The reflections on the wet pavement are soft and diffused, catching a faint, warm glow. The camera is positioned at a medium distance, level with the street to create a sense of being a witness to the procession. The focus is sharp on the texture of the golden dragon and the hands of the dancers, while the background falls into a gentle, cinematic blur. The image captures a sense of ancient, rhythmic tradition amidst the modern, damp streets of a distant city."
+ },
+ {
+  "i": 2,
+  "code": "bw-geometric-street-candid",
+  "seed": 42,
+  "prompt": "A ballerina leaping across the zebra crossing in Shibuya",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "02_bw-geometric-street-candid_s42_00001_.png",
+  "final_prompt": "A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance. A ballerina leaping across the zebra crossing in Shibuya is captured in this black and white photograph. The ballerina, a figure in mid-air, has a lithe, athletic build and long, flowing silk tights that catch the light. Her face is turned upward, eyes fixed on a point beyond the frame, her expression one of intense, concentrated grace. Her hands reach upward, fingers splayed, as she pushes off from the ground. She wears a floor-length tutu made of a heavy, matte fabric that ripples with the movement of the jump. Her feet, clad in pointe shoes, are suspended in the air, creating a sharp, vertical line against the background. At the upper left, the sky is a vast, empty expanse of chalky white. At the upper right, the dark, silhouetted outlines of tall, vertical buildings rise into the grey sky. Behind the subject, the street below the zebra crossing recedes into a soft, out-of-focus blur of motion. To the left of the frame, a row of storefronts or perhaps a building's facade is visible, rendered in deep charcoal tones. At the bottom of the frame, the concrete surface of the zebra crossing appears as a series of rhythmic, repetitive lines. In the far background, the distant lights of the city appear as indistinct, silver orbs against the darkening atmosphere. The lighting is harsh and directional, coming from an overhead source that casts long, hard-edged shadows. The light catches the edges of the silk tights, creating a bright, silvery highlight along the folds. The surrounding darkness is absolute and dense, swallowing any detail not directly struck by the light. The camera is positioned at a low angle, looking up at the figure to emphasize her height and the scale of the jump. The composition uses the vertical lines of the zebra crossing to lead the eye toward the center of the action. The image captures a moment of sudden, violent grace amidst the stillness of a city. Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white."
+ },
+ {
+  "i": 3,
+  "code": "bw-geometric-street-candid",
+  "seed": 7,
+  "prompt": "A ballerina leaping across the zebra crossing in Shibuya",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "03_bw-geometric-street-candid_s7_00001_.png",
+  "final_prompt": "A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance. A ballerina leaping across a zebra crossing in Shibuya is captured in this black and white street photograph. The ballerina is caught mid-air, her limbs extended in a graceful, athletic arc that suggests a sudden, expressive leap. She wears a long, flowing tulle skirt that catches the light in a series of bright, chalky white folds against the charcoal shadows of the street. Her face, turned toward the camera, shows a moment of intense, concentrated focus, eyes wide and mouth open in a silent cry of motion. Her hands are outstretched, fingers splayed, creating a silhouette of delicate, sharp lines against the darker background. At the upper left, the vertical lines of a storefront window frame the scene, its glass reflecting a distorted, silvery streak of light. Behind the subject, the distant, blurred outlines of a Shibuya street stretch toward a dark, out-of-focus horizon. At the lower right, the concrete edge of the zebra crossing shows a fine, granular texture, catching a sliver of light. To the left, a row of parked cars appears as soft, mid-grey shapes, their glass surfaces reflecting the overhead streetlights. In the background, the cityscape is a mosaic of deep blacks and soft, hazy greys, suggesting a vast, busy urban environment. The lighting is hard and directional, coming from an unseen source above the street, casting a sharp, high-contrast shadow behind the figure. The light catches the edges of the tulle, turning them into bright, silvery highlights. The rest of the scene falls away into dense, impenetrable black. The camera is held at a natural eye-level, creating a sense of immediate, candid observation. The framing uses the horizontal line of the zebra crossing to create a strong, geometric tension with the vertical lines of the architecture. The image captures a fleeting, beautiful moment of movement against a cold, urban landscape. Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white."
+ },
+ {
+  "i": 4,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 42,
+  "prompt": "A girl in a yellow raincoat waiting under the neon signs of Mong Kok on a rainy night",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "04_rainy-window-abstract-portrait_s42_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. A girl in a yellow raincoat waiting under the neon signs of Mong Kok on a rainy night is captured through a veil of heavy condensation and rain-streaked glass. The girl, a young adult with a slim build and damp, dark hair, sits hunched in a quiet posture. She wears a long, oversized yellow raincoat made of thick, matte-finish nylon that absorbs the dim light. Her hands, pale and damp, rest heavily on the fabric of her coat. Her gaze is directed toward the street, lost in thought as she waits. At the upper left, the blurred, amber glow of a neon sign flickers through the condensation. At the upper right, the deep violet and magenta reflections of another sign smear across the glass. Behind the subject, the dark, charcoal-grey silhouettes of buildings rise into a void of midnight blue. At the bottom, the wet, dark pavement reflects the warm, orange light from the sign, appearing as a series of soft, smudged streaks. To the far left, the edge of a dark, vertical silhouette cuts across the frame, partially obscuring the view. The entire background is a soft, out-of-focus wash of deep shadows and muted, saturated colors. The lighting is dim and atmospheric, filtered through a heavy layer of moisture on the lens. The neon signs provide a weak, warm amber and deep red light that catches on the falling droplets. These reflections create a soft, diffused glow that bounces off the rain-streaked glass. The camera is positioned at a medium distance, using a long lens to compress the layers of the cityscape. The focus is soft, with the girl's face appearing slightly out of focus, while the reflections on the glass remain sharp. The image carries a sense of quiet, lonely contemplation, a moment held still in the cold, wet air. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 5,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 7,
+  "prompt": "A girl in a yellow raincoat waiting under the neon signs of Mong Kok on a rainy night",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "05_rainy-window-abstract-portrait_s7_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. A girl in a yellow raincoat stands waiting under the neon signs of Mong Kok on a rainy night, captured through a thick, misty veil of condensation and rain-streaked glass. The girl is a young adult with a slight build and damp, matted hair that clings to her forehead. She wears a long, oversized yellow raincoat made of heavy, water-resistant nylon, the color appearing a muted ochre in the dimness. Her hands are tucked into the deep pockets of the coat, and her expression is one of quiet, weary patience, eyes fixed on a point beyond the frame. Her silhouette is partially obscured by the heavy, dark silhouette of a window frame or awning that occupies the lower third of the frame. At the upper left, the blurred, glowing shapes of Mong Kok's neon signs bleed into the darkness, showing only smears of deep amber and electric violet through the water droplets. At the upper right, the reflections of the neon lights dance erratically on the wet, glassy surface of the window pane. Behind the subject, the background dissolves into a soft, out-of-focus void of charcoal and deep navy. At the bottom, the edge of the frame is consumed by a dark, indistinct shadow where the streetlights fail to penetrate the rain. To the side, the reflections of the neon tubes create a shimmering, broken pattern of light across the condensation. \"MONG KOK\" in large, bold, sans-serif white lettering, centered at the top, with a smaller \"NIGHT\" below it in a much smaller, thin typeface. The lighting is dim and atmospheric, relying on the harsh, saturated glares of the neon signs from the outside to illuminate the edges of the yellow raincoat. The light catches the beads of water on the glass, creating bright, distorted highlights against the dark surroundings. There are no direct light sources, only the indirect, diffused reflections bouncing off the wet surfaces. The camera is positioned close to the glass, using a long lens to compress the distance and flatten the layers of water and glass. The girl is placed off-center, partially hidden behind the dark silhouette of the window frame, creating a sense of being watched from a distance. The image carries a heavy, melancholic stillness, as if the world has slowed down for a single, lonely moment. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 6,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 42,
+  "prompt": "A young maiko in kimono and full white makeup glancing over her shoulder",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "06_refined-minimalist-studio-portrait_s42_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. A young maiko in a kimono and full white makeup, captured in a black and white studio portrait. The young maiko stands with a poised, graceful posture, her head tilted slightly as she glances over her shoulder. She wears a heavy silk kimono, the fabric rendered in deep charcoal tones where it folds, while the white makeup covering her face and neck creates a stark, chalky contrast against the darker shadows of her hair. Her eyes are wide, reflecting a quiet, internal tension, and her hands rest lightly against the side of her head. The white makeup on her face is smooth and even, catching a soft, directional light that emphasizes the fine lines around her mouth. At the upper left, the background consists of a seamless, neutral grey void that fades into a pale, misty grey. Behind the subject, a corner where two walls meet is visible, appearing as a soft, out-of-focus gradient of mid-grey. At the lower right, the floor recedes into a deep, dense black, suggesting a narrow, quiet corridor. To the left of the subject, the space is empty, a vast expanse of shadow that provides no detail. The lighting is a single, soft source coming from the side, creating a gentle gradation across the textures of the silk and skin. This light catches the edges of the white makeup, turning it into a bright, silvery highlight. The shadows fall away from the light, falling into a deep, charcoal darkness. The camera is positioned at eye-level, looking directly at the subject to create an intimate, confrontational sense of presence. The subject is centered, framed by the voids of the empty space to emphasize her isolation. The image carries a sense of profound, quiet dignity and a lonely, elegant grace. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 7,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 7,
+  "prompt": "A young maiko in kimono and full white makeup glancing over her shoulder",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "07_refined-minimalist-studio-portrait_s7_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. A young maiko in a silk kimono and full white makeup, captured in a quiet, minimalist studio portrait. The young maiko, a girl of perhaps sixteen, sits with a poised, composed grace. Her face is entirely covered in a thin, even layer of pale cream powder, emphasizing the sharp, symmetrical lines of her white makeup. She wears a heavy, matte-finish silk kimono in a muted charcoal, the fabric catching a soft, diffused light. Her eyes are partially hidden by a single, simple white hairpiece, yet her gaze is directed toward her own shoulder, a slight tilt of her head suggesting a moment of private reflection. At the upper left, the background consists of a seamless, neutral grey void that meets a wall at a sharp corner. At the lower right, the floor is a smooth, matte surface that reflects nothing but the ambient light. Behind the subject, the space opens into a deep, shadowed corner where the walls meet in a soft, dark gradient. To the left of the frame, a single, soft shadow falls across the neutral grey wall, created by the side light. The lighting is a single, soft source coming from the side, casting a gentle, directional shadow. This light catches the texture of the silk kimono and the fine, even application of the white makeup. The shadows are soft and lack any hard edges, creating a smooth transition from light to dark. The camera is positioned at eye-level, keeping the subject centered in the frame. The focus is sharp on the texture of the white makeup and the weave of the kimono, while the background remains a soft, indistinct grey. The image conveys a sense of quiet, elegant dignity and a profound, private stillness. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 8,
+  "code": "saturated-banal-monumental",
+  "seed": 42,
+  "prompt": "A giant inflatable rubber duck floating in Victoria Harbour, the Hong Kong skyline behind it",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "08_saturated-banal-monumental_s42_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. A giant inflatable rubber duck floats in the dark, oily water of Victoria Harbour, captured in a wide-angle, low-angle shot that makes the inflatable object loom over the city. The inflatable rubber duck is a massive, rounded shape, its surface a glossy, blood-red hue that catches the light with a heavy, liquid-like sheen. It has a thick, textured rim of white foam and a series of long, curved, pinkish fins that extend toward the sides. The rubber appears thick and heavy, almost like a solid block of saturated plastic, floating or bobbing slightly against the moving water. Its surface shows a fine, oily film that catches the ambient light in sharp, bright streaks. At the bottom of the frame, the surface of Victoria Harbour is a deep, ink-black void, broken only by the violent, white foam where the duck meets the dark, moving water. To the left, the dark, silhouetted outlines of several pier structures emerge from the shadows. In the upper half of the frame, the Hong Kong skyline rises as a jagged, monolithic silhouette against the dim, amber sky. The buildings are coated in a heavy, dark sheen that reflects the distant, unseen light. At the far right, the edge of a massive, red-tiled roofline or a high-rise building corner cuts into the frame. Behind the subject, the vast expanse of the harbor stretches toward a horizon that is not visible, lost in the deep, saturated darkness. The lighting is dim and atmospheric, coming from an unseen source behind the skyline to create a heavy, amber glow on the water's surface.The light hits the red rubber duck with a hard, specular reflection, making the red appear hot and intense.Shadows are deep and heavy, swallowing the edges of the harbor and the surrounding architecture. The camera is positioned at a very low angle, nearly touching the water, which turns the small inflatable duck into a monumental, overwhelming presence.The background elements, the Hong Kong skyline, are rendered with a soft, heavy focus, while the texture of the duck's rubber surface is sharp and clear. The image carries a sense of quiet, heavy isolation, turning a simple toy into a ghost-like, monumental thing. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 9,
+  "code": "saturated-banal-monumental",
+  "seed": 7,
+  "prompt": "A giant inflatable rubber duck floating in Victoria Harbour, the Hong Kong skyline behind it",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "09_saturated-banal-monumental_s7_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. A giant inflatable rubber duck floats upon the dark, choppy water of Victoria Harbour, its presence a monumental intrusion against the distant skyline. The giant inflatable rubber duck is a massive, rounded shape, textured with thick, heavy rubber that shows a slight, oily sheen. It is a saturated, candy-pink hue, appearing almost solid despite its soft, synthetic surface. The duck's nose is a blunt, rounded protrusion, and its flippers are large, heavy fins that catch the light. Its skin has a glossy, wet texture, looking like a heavy plastic coating. At the bottom of the frame, the water of Victoria Harbour churns with deep, ink-black shadows and bright, acid-yellow highlights from the spray. To the left, the dark, wet pavement of a nearby pier reflects a hot, amber light. At the upper left, the silhouette of a distant pier rises from the darkness. Behind the subject, the Hong Kong skyline stretches across the horizon, a dense cluster of acid-green and blood-red buildings. At the right edge, the silhouette of a bridge pierches into the dark, heavy water. In the far background, the lights of the city glint off the surface of the harbor, appearing as tiny, brilliant points of amber. The lighting is harsh and directional, coming from an unseen source off-camera to create long, sharp reflections on the water. The light catches the curves of the inflatable rubber duck, turning its pink surface into a bright, glowing mass. Deep, ink-black shadows hide the bottom of the harbor and any debris beneath the surface. The camera is positioned at a low, oblique angle, looking up at the duck to make it loom large and imposing. The horizon line is low, forcing the eye to look upward through the spray of the water. The image captures a sense of heavy, saturated isolation, turning a simple object into a strange, monumental presence. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 10,
+  "code": "bw-dramatic-chiaroscuro",
+  "seed": 42,
+  "prompt": "A lone samurai standing in a bamboo forest as light pierces the mist",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "10_bw-dramatic-chiaroscuro_s42_00001_.png",
+  "final_prompt": "A dramatic black-and-white photograph, one hard shaft of light cutting through haze into deep shadow. A lone samurai standing in a bamboo forest, captured in a dramatic black and white photograph. The samurai stands motionless, his body a sharp silhouette against a void of charcoal and silver. He wears a heavy, textured haori of dark fabric and a traditional kimono with deep, charcoal-toned patterns. His face is partially obscured by a heavy, dark helmet, leaving only a hint of a sharp jawline and a steady, unblinking gaze. His hands, gloved in thick, matte-textured cloth, hang loosely at his sides. His posture is rigid, a statue-like presence amidst the swaying stalks. At the upper left, thick bamboo stalks emerge from a dense, misty haze, appearing as silvery, vertical lines against a deep black background. Behind the subject, the forest recedes into a void of heavy, misty grey, where the air seems thick and heavy. To the right, more bamboo stalks lean into the frame, their tips catching a sliver of light that turns them into chalky, white streaks. At the bottom, the ground is a dark, indistinct texture of earth and shadows, lost in the surrounding gloom. The lighting is a single, harsh shaft of light cutting through the mist from an unseen source above. This beam creates a high-contrast chiaroscuro, leaving half the subject in deep, ink-black shadow. The light catches only the edges of the bamboo and the silhouette of the samurai's armor, creating a sharp, geometric rim-light effect. The camera is positioned at a medium distance, slightly low to emphasize the scale of the forest. The samurai is placed off-center, creating a sense of isolation within the vast, dark space. The image evokes a profound sense of quietude and a lonely, stoic grace. A single beam of light, bold diagonal shadows, a still poetic solitude, black and white."
+ },
+ {
+  "i": 11,
+  "code": "bw-dramatic-chiaroscuro",
+  "seed": 7,
+  "prompt": "A lone samurai standing in a bamboo forest as light pierces the mist",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "11_bw-dramatic-chiaroscuro_s7_00001_.png",
+  "final_prompt": "A dramatic black-and-white photograph, one hard shaft of light cutting through haze into deep shadow. A lone samurai standing in a bamboo forest as light pierces the mist is the subject of this black and white photograph. The samurai, a man in his prime with a weathered face and a stoic expression, stands perfectly still. He wears a heavy, textured silk robe over a simple undershirt, the fabric catching a sharp, silvery highlight along the edges of his silhouette. His hands, calloused and steady, rest at his sides, hidden by the deep charcoal shadows of his own body. His posture is rigid and upright, a silhouette against the shifting haze, a quiet presence amidst the movement. At the upper left, the dense canopy of the bamboo forest dissolves into a thick, chalky white mist that fills the frame. Behind the subject, the dark, vertical stalks of bamboo rise like pillars, their surfaces rendered in mid-grey tones where the light catches the edges. At the lower right, the ground is a void of dense black, suggesting a floor of fallen leaves and earth. To the left, more bamboo stalks lean into the frame, their tips lost in the heavy, atmospheric haze. At the bottom edge, the darkness is absolute, swallowing any sense of a ground or path. The lighting is a single, harsh shaft of light cutting through the heavy fog from an unseen source above and to the side. This beam creates a sharp contrast between the bright, silvery highlights on the bamboo and the surrounding void. Long, diagonal shadows stretch across the forest floor, splitting the scene into geometric blocks of light and deep black. The camera is positioned at a low angle, looking up slightly at the figure to emphasize his isolation. The composition uses a strong diagonal line created by the light beam to lead the eye toward the center. The image carries a sense of profound, poetic solitude and the heavy weight of a silent moment. A single beam of light, bold diagonal shadows, a still poetic solitude, black and white."
+ },
+ {
+  "i": 12,
+  "code": "surreal-staged-monochrome",
+  "seed": 42,
+  "prompt": "A woman in a ball gown holding a white umbrella on the salt flats of Uyuni",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "12_surreal-staged-monochrome_s42_00001_.png",
+  "final_prompt": "A surreal, staged black-and-white photograph, forms placed like objects in vast, bright, empty space. A woman in a ball gown holding a white umbrella stands amidst the salt flats of Uyuni in this black and white photograph. The woman, a young adult with a slender build, wears a voluminous ball gown made of heavy, textured silk that clings to her form. Her face is turned away toward the horizon, her expression one of quiet, impish curiosity. Her hands, slender and steady, grip the handle of a white umbrella, which casts a sharp, dark shadow against her midsection. The fabric of the gown catches the light in a way that makes the mid-grey tones appear as silvered highlights. At the upper left, the sky is a vast, chalky white expanse that meets a low, pale horizon line. At the upper right, the vastness of the flat sky continues without any clouds or disturbances. Behind the subject, the salt flats extend toward a distant, empty horizon, appearing as a smooth, silvered plane. At the lower left, the ground is a series of fine, crystalline ridges and deep, charcoal-toned fissures between the salt crystals. At the lower right, the salt flats continue into a soft, out-of-focus blur of mid-grey tones. The entire background is a void of pale, empty space, leaving the subject isolated in the center. The lighting is harsh and direct, coming from a high, unseen sun that creates high-contrast shadows. The light hits the edges of the salt crystals, turning them into bright, silvery highlights. Shadows cast by the umbrella and the woman's silhouette fall away into the darker, charcoal-toned recesses of the salt flats. The camera is positioned at a low angle, looking up slightly at the subject to emphasize the scale of the flat landscape. The subject is placed deadpan in the center, surrounded by a wide, empty void that emphasizes the isolation. The image carries a sense of dreamlike, surrealist whimsy, as if a small stage set has been dropped into an infinite, empty void. Vast pale emptiness, a low horizon, deadpan theatrical placement, playful and dreamlike, black and white."
+ },
+ {
+  "i": 13,
+  "code": "surreal-staged-monochrome",
+  "seed": 7,
+  "prompt": "A woman in a ball gown holding a white umbrella on the salt flats of Uyuni",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "13_surreal-staged-monochrome_s7_00001_.png",
+  "final_prompt": "A surreal, staged black-and-white photograph, forms placed like objects in vast, bright, empty space. A woman in a ball gown holding a white umbrella on the salt flats of Uyuni is captured in this black and white photograph. The woman, a mature adult with a calm, expressionless gaze, stands perfectly still. She wears a voluminous, floor-length ball gown made of heavy, flowing silk that catches the light in deep charcoal folds. Her hands, slender and steady, hold a white umbrella that stands upright, its fabric a bright, chalky white against the dark ground. Her posture is upright and formal, as if she has just arrived for a grand ceremony. Behind her, the salt flats of Uyuni stretch out in a vast, empty expanse, appearing as a series of rhythmic, mid-grey undulations. At the upper left, the horizon line is a sharp, thin sliver where the pale ground meets a void-like sky. To her right, the salt flats continue toward the edge of the frame, disappearing into a soft, out-of-focus blur. At the bottom, the salt flats rise in a series of hard, dark ridges that catch a silvery highlight. In the far background, there is nothing but the infinite, empty space of the salt flats under a bright, featureless sky. The lighting is harsh and direct, coming from an unseen source above the frame to create sharp, high-contrast shadows. The white umbrella acts as a bright, opaque object that casts a dense black shadow onto the salt flats. The salt grains on the ground catch the light, appearing as tiny, sharp points of silver against the dark soil. The camera is positioned at a low angle, looking up slightly to make the subject appear monumental and staged. The subject is placed deadpan in the center of a vast, empty space, separated from the edges by a wide, theatrical void. The image carries a sense of impish, affectionate deadpan whimsy, like a dream seen through a lens. Vast pale emptiness, a low horizon, deadpan theatrical placement, playful and dreamlike, black and white."
+ },
+ {
+  "i": 14,
+  "code": "bw-ink-wash-landscape",
+  "seed": 42,
+  "prompt": "Hot air balloons drifting over the misty temples of Bagan at sunrise",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "14_bw-ink-wash-landscape_s42_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. Hot air balloons drift over the misty temples of Bagan at sunrise, captured in a black and white photograph with heavy atmospheric depth. A single hot air balloon, a large and rounded shape of charcoal tones, drifts silently through the haze. The fabric of the basket appears as a dark, solid mass against the lighter sky. A thin, silvery line marks the rim of the basket where it meets the air. The entire structure dissolves into the surrounding mist, losing its sharp edges to a soft, painterly blur. At the upper left, the sky is a vast, empty expanse of pale, chalky grey, fading into a translucent white. At the upper right, the distant silhouette of a temple's spire emerges from the fog, appearing only as a faint, misty outline in mid-grey. Below the subject, the ground is a series of receding, indistinct shapes, a landscape of dark, textured shadows and soft, misty gradients. At the bottom center, the mist thickens, creating a dense, opaque layer of charcoal grey that obscures any solid ground. Behind the balloon, the misty temples of Bagan are nothing more than ghostly, floating shapes, lost in a haze of light and shadow. The lighting is soft and diffuse, coming from a low angle behind the clouds to create a rim of silvery light along the edges of the balloon. No direct light strikes the subjects, leaving them in a state of deep, ink-like shadow. The light is scattered and weak, making the entire scene feel like a dream seen through heavy rain. The camera is positioned at a low angle, looking up at the drifting balloon to emphasize its isolation. The focus is soft, allowing the distant temples to bleed into the foreground mist. The image evokes a sense of profound, reclusive stillness and the quietude of a world lost to time. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 15,
+  "code": "bw-ink-wash-landscape",
+  "seed": 7,
+  "prompt": "Hot air balloons drifting over the misty temples of Bagan at sunrise",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "15_bw-ink-wash-landscape_s7_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. Hot air balloons drift over the misty temples of Bagan in this black and white photograph. The hot air balloons appear as soft, charcoal-toned silhouettes against the pale, misty sky. Their fabric envelopes are rendered in shades of mid-grey, dissolving into the surrounding haze. The balloons move slowly, their shapes bleeding into the heavy fog. The structures of the temples are mere suggestions of dark, ink-like silhouettes, partially obscured by the thick, atmospheric mist. No details of stone or wood can be discerned through the grey wash. At the upper left, the sky is a vast, empty expanse of chalky white and pale grey. At the right, the mist thickens into a dense, opaque void. Behind the subject, the temple silhouettes fade into a deep, layered grey, losing all definition. At the bottom, the ground is a flat, featureless plane of mid-grey mist. To the far left, the horizon line is non-existent, lost entirely to the fog. In the center, the hot air balloons drift aimlessly, their forms soft and indistinct. The lighting is entirely diffuse and indirect, filtered through a heavy layer of mist. A low, pale light catches the edges of the balloons, creating a soft, silver-grey rim. No hard shadows fall upon the structures or the ground. The camera angle is low, looking upward into the heavy fog. The focus is soft, allowing the distant temples to dissolve into the background haze. The image evokes a sense of profound, reclusive stillness and isolation. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 16,
+  "code": "vintage-bw-elegant-candid",
+  "seed": 42,
+  "prompt": "A glamorous couple dancing in a 1930s Shanghai ballroom",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "16_vintage-bw-elegant-candid_s42_00001_.png",
+  "final_prompt": "An elegant vintage black-and-white candid photograph in soft natural daylight. A glamorous couple dancing in a 1930s Shanghai ballroom, captured in a black and white vintage photograph. The man, an older man with a weathered face and a sharp jawline, wears a silk shirt that catches the silver light, his hands reaching out toward the woman. The woman, a young woman with a poised posture, wears a flowing gown made of heavy fabric that drapes over her shoulders, her eyes looking off-camera with a soft, knowing smile. Their bodies move in a fluid, graceful arc, their limbs partially obscured by the soft, rhythmic motion of the dance. At the upper left, the high, ornate ceiling of the ballroom recedes into a charcoal darkness, showing only the suggestion of architectural moldings. At the right, a polished wooden floor stretches toward the background, its surface catching a dim, diffused reflection from above. Behind the subject, the vast ballroom space opens up into a deep, out-of-focus void, where the shadows of the room's architecture blend into the darkness. In the foreground, the edge of a heavy velvet curtain hangs in deep mid-grey tones, its texture soft and out of focus. At the bottom, the floorboards show a subtle, matte texture under the even, ambient light. The lighting is soft and diffused, coming from an unseen source above the ballroom's central area. It creates a luminous, silvery sheen on the silk and skin, while leaving the corners of the room in a gentle, hazy shadow. The light falls evenly across the subjects, highlighting the smooth, tactile quality of their garments. The camera is positioned at a medium distance, slightly low to capture the height of the dance. The focus is sharp on the couple's expressive faces and the texture of their clothing, while the surrounding ballroom elements fall into a soft, creamy blur. The image captures a moment of quiet, elegant grace, feeling like a stolen, fleeting memory of a bygone era. Soft classic grain, gentle daylight, a quiet everyday grace, black and white."
+ },
+ {
+  "i": 17,
+  "code": "vintage-bw-elegant-candid",
+  "seed": 7,
+  "prompt": "A glamorous couple dancing in a 1930s Shanghai ballroom",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "17_vintage-bw-elegant-candid_s7_00001_.png",
+  "final_prompt": "An elegant vintage black-and-white candid photograph in soft natural daylight. A glamorous couple dancing in a 1930s Shanghai ballroom is captured in this black and white photograph. The man, an adult with a lithe build and sharp jawline, wears a silk shirt that catches the light in soft, silvered highlights, his hands reaching out toward his partner. The woman, an adult with a poised posture and a delicate, expressive face, wears a long, flowing gown of heavy silk that ripples like liquid, her fingers brushing against his arm. Their gazes meet in a moment of quiet, intense connection, eyes wide with the grace of a shared secret. Their movements are fluid, caught mid-step as they move through the space. At the upper left, the ceiling or high arches of the ballroom fade into a deep, charcoal void. At the upper right, a heavy, dark curtain hangs in thick, vertical folds, absorbing the light into a dense black. Behind the subject, the ballroom floor stretches into a soft, out-of-focus mid-grey, suggesting a vast, open hall. At the lower left, a polished floor reflects the silvery light from above, showing only the subtle, rhythmic patterns of their feet. At the lower right, the edge of a heavy, dark velvet sofa or banister is visible, rendered in a dark, charcoal tone. The background behind them is a soft, hazy grey, suggesting the distant, unseen architecture of the ballroom. The lighting is soft and diffused, coming from an unseen source above, casting a gentle, even glow across the subjects' forms. This light creates a luminous, silvery sheen on the silk of their clothing. The shadows are soft and lack hard edges, fading into a smooth, dark gradient. The camera is positioned at a medium distance, eye-level with the subjects, creating a sense of being a witness to the dance. The focus is sharp on the couple, while the surrounding ballroom environment falls into a soft, dreamlike blur. The image carries a sense of timeless elegance and the quiet, romantic grace of a forgotten era. Soft classic grain, gentle daylight, a quiet everyday grace, black and white."
+ },
+ {
+  "i": 18,
+  "code": "hyper-saturated-cinematic-unease",
+  "seed": 42,
+  "prompt": "A beauty queen eating cake alone in a pink motel room in Palm Springs",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "18_hyper-saturated-cinematic-unease_s42_00001_.png",
+  "final_prompt": "A hyper-saturated cinematic colour photograph, lacquered Technicolor perfection with a quiet unease. A beauty queen eating cake alone in a pink motel room in Palm Springs is captured in a cinematic, hyper-saturated film still. The beauty queen, a young woman with a doll-like, vacant expression, sits perfectly still in the center of the frame. She wears a glossy, acid-pink slip dress that clings to her form, and her hands, manicured with thick, candy-pink nail polish, hold a single slice of cake. Her gaze drifts blankly toward the ceiling, her posture perfectly upright and unnervingly still. The cake she holds is a heavy, sculptural piece of cream-colored frosting and blood-red berries, appearing almost liquid under the studio-style lighting. At the upper left, a sheer, candy-pink curtain hangs in heavy, lacquered folds, obscuring the view of the window. Behind the subject, a white bedspread with a deep, blood-red pattern recedes into a soft, out-of-focus background. To the right, a polished, obsidian-colored nightstand holds a single, heavy glass vessel filled with liquid. At the bottom, the edge of a velvet, poison-green pillowcase rests against the floor. In the far background, a sliver of a palm tree and a bright, acid-green sky pass through a window, rendered with a dreamlike, saturated clarity. The lighting is harsh and staged, coming from a single, intense source to create high-contrast, glossy reflections on the pink surfaces. The light catches the edges of the cake, making the cream look like melting wax. Shadows fall away from the subject, casting a sharp, black void across the room. The camera is positioned at a medium height, looking directly at the subject to create a sense of clinical, staged perfection. The focus is sharp on the texture of the cake and the subject's face, while the rest of the room falls into a soft, cinematic blur. The image carries a sense of heavy, plastic perfection and quiet, psychological tension. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ },
+ {
+  "i": 19,
+  "code": "hyper-saturated-cinematic-unease",
+  "seed": 7,
+  "prompt": "A beauty queen eating cake alone in a pink motel room in Palm Springs",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "19_hyper-saturated-cinematic-unease_s7_00001_.png",
+  "final_prompt": "A hyper-saturated cinematic colour photograph, lacquered Technicolor perfection with a quiet unease. A beauty queen, alone, eating cake in a pink motel room in Palm Springs, is captured in a cinematic, hyper-saturated film still. The beauty queen sits with a doll-like stillness, her face a mask of porcelain perfection. She wears a glossy, acid-pink slip dress that clings to her curves, the fabric appearing as a lacquered surface. Her hands, manicured with long, blood-red nails, grip a single, heavy slice of cake. The cake itself is a saturated, candy-pink cream, decorated with swirls of white frosting and bright, electric-red berries. Her gaze drifts blankly toward a point beyond the frame, eyes wide and empty. At the upper left, a sheer, candy-pink curtain hangs, its folds catching the light like liquid silk. At the right, a polished, deep-red vanity mirror reflects a sliver of the room's pink walls. Behind the subject, a high-end, chrome-framed bed with a bright-pink duvet fills the space. At the bottom, the edge of a white, lacquered bedside table holds a single, empty glass. In the far background, a window shows a view of a sun-drenched, acid-green palm tree against a deep, saturated blue sky. The lighting is a controlled, studio-style arrangement that hits the pink surfaces with a harsh, clinical intensity. Deep, shadowless highlights glint off the chrome and the pink fabric. The light creates a high-contrast, saturated effect that makes the colors feel unnaturally vivid. The camera is positioned at a medium distance, slightly below eye level to emphasize the subject's isolation. The focus is sharp on the cake and the queen's hands, while the background remains a soft, colorful blur. The scene is a staged, unnerving tableau of glamour and quiet, psychological tension. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ },
+ {
+  "i": 20,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 42,
+  "prompt": "A boxer catching his breath after a fight in a Bangkok gym",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "20_raw-bw-cinematic-portraits_s42_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A boxer catching his breath after a fight in a Bangkok gym is captured in this black and white photograph. The boxer, an older man with a weathered face and a heavy, muscular build, leans heavily against a heavy rubber mat, his hands pressed against his thighs. His skin shows the deep creases and pores of exhaustion, and his eyes are squinted shut, heavy-lidded and exhausted. He wears a thick, damp cotton tank top that clings to his chest, and heavy canvas trousers that appear dark and heavy with sweat. His breathing is shallow, a visible tension in his neck and shoulders as he rests. At the upper left, a corner of the gym features a row of heavy wooden benches and a stack of empty punching bags. At the upper right, a chalk-dusted floor stretches toward a doorway, the light reflecting off the white dust. Behind the subject, a row of heavy metal punching bags hangs against a wall of rough concrete. At the lower left, a discarded towel lies crumpled on the mat, its fabric bunched and dark. At the lower right, a stack of heavy weights sits on the floor, their metal surfaces catching a dull, silvery highlight. The lighting is soft and diffused, coming from a large window out of frame that casts no hard shadows. A weak, overcast light catches the moisture on the boxer's skin and the sweat on his neck. The light falls evenly across the gym, creating a range of mid-greys and charcoal tones. The camera is positioned at a medium distance, looking slightly upward to emphasize the physical strain. The focus is sharp on the boxer's face and chest, while the background elements fall into a soft, cinematic blur. The image carries a heavy, quiet sense of exhaustion and the raw, unpolished reality of a life lived in motion. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ },
+ {
+  "i": 21,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 7,
+  "prompt": "A boxer catching his breath after a fight in a Bangkok gym",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "21_raw-bw-cinematic-portraits_s7_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A boxer catching his breath after a fight in a Bangkok gym is captured in this black and white photograph. The boxer, a man in his middle years with a heavy, weathered build, slumps against a heavy rubber mat, his face contorted in a visible, ragged gasp for air. His skin is a map of sweat and fatigue, showing deep lines around the eyes and a thick, salt-crusted beard. He wears a torn, heavy cotton tank top that hangs loosely over his shoulders, damp and saturated with moisture. His hands, large and knuckled, hang limp at his sides, fingers curled slightly as if still feeling the weight of a previous punch. His gaze is unfocused, directed toward a point beyond the frame, eyes heavy and tired. At the upper left, a section of a concrete wall shows the texture of aged plaster and a single, dark shadow cast by an overhead beam. Behind the subject, a row of heavy, dark wooden benches recedes into a soft, out-of-focus blur. To the right, a metal rack holds several empty, worn boxing gloves, their leather surfaces catching a dull, metallic sheen. At the bottom edge, the floor's texture of the rubber mat is visible, appearing as a series of dark, uneven ridges under the light. In the far background, the dim, industrial shadows of a corner where a ventilation shaft meets a ceiling create a void of dense black. The lighting is dim and diffused, coming from a single, high source off-camera that catches the moisture on the boxer's skin. The light falls softly across the textures of the sweat and the fabric, leaving the corners of the gym in deep, charcoal shadows. Harsh, hard-edged reflections catch only the smoothest parts of the equipment. The camera is positioned at a low angle, close to the floor, making the boxer appear vulnerable and exhausted. The focus is sharply fixed on the boxer's heavy, breathing chest, while the surrounding gym equipment falls into a soft, cinematic blur. The image carries a heavy, somber atmosphere of exhaustion and the raw, unflinching reality of physical struggle. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ },
+ {
+  "i": 22,
+  "code": "high-gloss-noir-glamour",
+  "seed": 42,
+  "prompt": "A femme fatale in a black velvet dress on a Hong Kong rooftop at night, the skyline behind her",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "22_high-gloss-noir-glamour_s42_00001_.png",
+  "final_prompt": "A glossy, hard-lit, high-contrast noir glamour photograph. A femme fatale in a black velvet dress stands on a Hong Kong rooftop at night, captured in a black and white cinematic noir still. The woman is an adult with a sharp, commanding presence, her face a mask of cold, piercingly direct stare. She wears a floor-length black velvet dress that clings to her form, the fabric showing a deep, ink-black sheen under the harsh light. Her hands are held at her sides, fingers long and poised, while her posture is one of absolute, statuesque power. The texture of the velvet is visible in its heavy, dark folds and the way the light catches the pile. Her gaze holds a heavy, dangerous weight that seems to pierce through the viewer. At the upper left, the silhouette of a distant skyscraper rises into a void of charcoal shadows. Behind the subject, the skyline of Hong Kong forms a jagged, geometric arrangement of silvered highlights against a pitch-black sky. At the lower right, the edge of the rooftop reveals a rough, dark stone texture where the ground meets the air. To the left, the edge of the frame shows a sliver of a dark, metallic railing that catches a sharp, silvery glint. At the bottom, the dark rooftop surface recedes into a deep, inky blackness. The lighting is hard and directional, coming from a source off-camera to create high-contrast, dramatic shadows. It strikes the velvet of the dress, turning the fabric into a surface of intense, glossy black. The light hits the edges of the skyline, turning the buildings into sharp, silvered outlines against the dark. The camera is positioned at a medium distance, looking slightly upward to emphasize the height of the subject. The composition uses a deep depth of field, keeping the subject and the distant skyline in sharp, clinical focus. The image carries an undertow of erotic power and a sense of noir tension, as if the city itself could crumble under her gaze. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 23,
+  "code": "high-gloss-noir-glamour",
+  "seed": 7,
+  "prompt": "A femme fatale in a black velvet dress on a Hong Kong rooftop at night, the skyline behind her",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "23_high-gloss-noir-glamour_s7_00001_.png",
+  "final_prompt": "A glossy, hard-lit, high-contrast noir glamour photograph. A femme fatale in a black velvet dress stands alone on a Hong Kong rooftop at night, captured in a high-contrast noir portrait. The woman is an adult with a sharp, commanding presence, her face a mask of cold, predatory poise. She wears a heavy, deep charcoal black velvet dress that clings to her form, its texture a smooth, liquid sheen under the harsh light. Her hands are poised at her sides, fingers long and steady, while her gaze is a direct, piercing stare that pierces through the darkness. Her skin, visible only where the dress parts, gleams with a cold, lacquered polish. At the upper left, the skyline of Hong Kong rises like jagged teeth against a void of inky blackness. Behind the subject, the neon-lit silhouettes of skyscrapers create a pattern of sharp, geometric reflections against the dark. At the bottom right, the edge of the rooftop shows a concrete surface, wet and reflective, catching a sliver of light. To the left, a heavy iron railing runs vertically, its metal surface catching a sharp, specular highlight. In the background, the distant lights of the city create a chaotic, saturated blur of electric blue and violet. The lighting is hard and directional, casting long, sharp shadows that carve the subject from the darkness. A cold, clinical light strikes the velvet, making the fabric appear as a solid, impenetrable black. The light catches the edges of the silhouette, creating a rim of intense, sharp-white glint. The camera is positioned at a low angle, looking up to grant the subject a sense of overwhelming height and power. The focus is sharply fixed on the woman's face, while the surrounding skyline dissolves into a soft, cinematic blur. The image carries a heavy, tension-filled atmosphere of urban isolation and dangerous grace. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 24,
+  "code": "minimalist-color-landscapes",
+  "seed": 42,
+  "prompt": "A single red umbrella on an empty turquoise beach in the Maldives",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "24_minimalist-color-landscapes_s42_00001_.png",
+  "final_prompt": "A painterly minimalist colour photograph, the scene reduced to bold simple fields of colour and form. A single red umbrella stands motionless on an empty turquoise beach in the Maldives, captured in a minimalist, painterly composition. The red umbrella is a singular, heavy shape of acid-red fabric, its surface smooth and taut, casting a sharp shadow onto the sand. It sits upright, a solid crimson monolith against the vastness. The handle is a dark, polished metal that catches a glint of light. No one else is present to break the silence of the scene. At the bottom of the frame, the turquoise beach stretches out in a flat, saturated plane of deep cyan and electric blue. To the left, the sand meets a horizon of clear, bright water that fades into a solid, saturated blue. At the right, the water remains a vast, unbroken expanse of acid-turquoise. Behind the umbrella, the oceanic void provides a sense of infinite, empty space. The sand is a fine, granular texture of warm sand-colored grains. The lighting is direct and harsh, coming from a high angle, casting a sharp, black shadow from the umbrella's apex. The sunlight hits the red fabric, creating a high-contrast, glossy sheen. A faint, shimmering reflection dances on the surface of the water nearby. The camera is positioned at a low, ground-level angle, looking directly at the umbrella. The subject is centered, creating a sense of isolation and stillness. The image evokes a profound, lyrical sense of solitude and heat. Bold simple colour fields, generous emptiness, clean luminous light, a lyrical stillness."
+ },
+ {
+  "i": 25,
+  "code": "minimalist-color-landscapes",
+  "seed": 7,
+  "prompt": "A single red umbrella on an empty turquoise beach in the Maldives",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "25_minimalist-color-landscapes_s7_00001_.png",
+  "final_prompt": "A painterly minimalist colour photograph, the scene reduced to bold simple fields of colour and form. A single red umbrella stands as a bold, crimson shape against the vast, acid-turquoise water of an empty beach in the Maldives. The umbrella is a heavy, glossy object, a deep and blood-red, its fabric taut and smooth. It has a single, thin bamboo handle that reaches upward into the frame. The surface of the fabric is a saturated, intense shade of red, catching the light with a liquid-like sheen. At the bottom of the frame, the turquoise beach stretches out, a solid plane of hot, acid-turquoise sand. To the left and right, the turquoise water meets the horizon in a sharp, clean line. Behind the umbrella, the ocean's surface is a flat, saturated expanse of electric blue. At the upper edge, the horizon line is a thin, sharp strip of turquoise. The lighting is direct and harsh, casting a sharp, dark shadow from the umbrella onto the sand. The sunlight hits the red fabric, making it appear almost liquid. A bright, white glare reflects off the wet surface of the sand. The camera is positioned at a low angle, looking slightly upward at the umbrella. The umbrella is placed centrally, acting as the sole focal point against the open sky and sea. The image conveys a sense of profound, lyrical stillness and isolation. Bold simple colour fields, generous emptiness, clean luminous light, a lyrical stillness."
+ },
+ {
+  "i": 26,
+  "code": "soft-warm-nostalgic",
+  "seed": 42,
+  "prompt": "Kids jumping into the sea from a harbour wall in Sicily on a summer afternoon",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "26_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. A group of children jumping into the sea from a harbor wall in Sicily during a summer afternoon is captured in a soft-focus, cinematic film photograph. Two small children, a boy and a girl, leap from the edge of the stone wall. The boy, a young boy with damp, sandy hair, is mid-air, his limbs splayed in a joyful arc. Beside him, a girl, a young girl with a messy, sun-bleached braid, catches a splash of water, her face a mask of pure, unbridled laughter. Their clothes are simple, light cotton shirts in shades of pale cream and mint green, both soaked and heavy with salt. Their small, bare feet kick upward, leaving a spray of white foam that vanishes into the air. At the upper left, the sky is a pale, washed-out azure, heavy with the heat of the sun. At the upper right, the silhouette of a distant, weathered building stands against the horizon, its stone surface a muted olive. Behind the subjects, the harbor wall recedes into a soft, out-of-focus distance, its texture a rough, warm terracotta. At the bottom left, the wet, dark charcoal stone of the wall shows a fine, silver sheen where the water meets the rock. At the bottom right, the surface of the sea is a vast, shimmering expanse of pale turquoise and soft blue-grey. The lighting is a warm, golden afternoon sun, catching the edges of the children's bodies to create a soft, glowing halo. The light is low and diffused, filtering through a thick, warm haze. Long, soft shadows stretch away from the wall, melting into the heat of the air. The camera is positioned at a low angle, looking up toward the jump, making the splash appear more dramatic. The focus is sharpest on the splash of water in the center, while the children's feet and the harbor wall fall into a gentle, creamy blur. The image carries a sense of fleeting, sun-drenched nostalgia, a memory of a perfect, hot day. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 27,
+  "code": "soft-warm-nostalgic",
+  "seed": 7,
+  "prompt": "Kids jumping into the sea from a harbour wall in Sicily on a summer afternoon",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "27_soft-warm-nostalgic_s7_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. A group of children jumping into the sea from a harbor wall in Sicily during a summer afternoon is captured in a soft, cinematic film photograph. Two small children, a boy and a girl, are caught mid-air, their bodies arching upward toward the surface of the water. The boy, a young boy with messy hair and a light linen shirt in a pale cream tone, has his hands reaching out, his face a mask of joy. Beside him, a girl, a small child with messy dark hair and a soft cotton sundress in a muted olive color, smiles as she leaps, her legs spread wide. Their limbs are suspended in a moment of kinetic grace, limbs extended and limbs relaxed. At the upper left, the sky is a vast, empty expanse of pale azure, the clouds appearing as soft, milky wisps. Behind the subjects, the harbor wall rises up, a textured stone structure in shades of warm terracotta and muted sand-colored stone. To the right, the ocean's surface breaks into white, frothy spray where the waves meet the air. At the bottom, the water is a deep, clear turquoise, reflecting the pale sun in a way that feels heavy and salty. In the background, the distant silhouette of a stone pier cuts a dark line against the bright horizon. The lighting is a warm, golden glow from a low sun, casting long, soft shadows across the stone. The light catches the edges of the children's hair and the spray of the water, creating a halo effect. The light is gentle, diffused through the heat of the summer afternoon. The camera is positioned at a low angle, near the level of the water, looking up at the jump. The focus is sharp on the mid-air figures, while the harbor wall and the distant horizon fall into a soft, creamy blur. The image evokes a sense of pure, unposed childhood joy and the transient, beautiful heat of a summer afternoon. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 28,
+  "code": "van_gogh_style",
+  "seed": 42,
+  "prompt": "The neon alleys of Golden Gai in Tokyo on a rainy night",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "28_van_gogh_style_s42_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting of the neon alleys of Golden Gai in Tokyo on a rainy night, rendered in thick, swirling impasto. The narrow, winding alleys are lined with dark, wet walls that pulse with a restless energy. Thick ridges of cobalt and emerald paint swirl across the wet surfaces, mimicking the movement of a heavy, rhythmic storm. A single figure, a man in a heavy, blood-red trench coat, moves through the shadows, his silhouette a dark, sharp contour against the acid-yellow reflections. His face is a mask of deep, smudged shadows, eyes catching a glint of chrome-yellow light. His hands are partially visible, gripping the damp, black fabric of his coat, the texture of the paint suggesting a heavy, tactile weight. At the upper left, the sky is a chaotic swirl of deep violet and midnight blue, the rain appearing as long, vertical streaks of white and silver. At the upper right, a row of storefronts glows with a violent, rhythmic burst of hot orange and acid-green, the reflections of the neon signs bleeding into the surrounding darkness. At the lower left, the ground is a dark, reflective surface of wet cobblestones, where the light from the alleys creates a rippling effect of hot pink and electric blue. At the lower right, a puddle catches a distorted, melting reflection of the streetlights, the liquid surface rippling with heavy, directional brushstrokes. Behind the subject, the alleyway stretches into a deep, cavernous void of shadow, where the light from the buildings fails to penetrate the heavy, swirling darkness. The lighting is provided by the intense, pulsing glow of neon signs, casting long, distorted reflections across the wet walls. The light catches the falling rain, turning the droplets into bright, electric sparks of white and silver. Harsh, complementary colors like hot orange and deep violet collide in the light beams. The composition uses a shallow depth of field, where the foreground puddles and wet walls are rendered with sharp, thick ridges of paint, while the distant alleyway recedes into a soft, swirling blur. The viewpoint is positioned low, looking up slightly into the narrow, claustrophobic passage. The overall effect is one of intense, restless vitality, capturing a moment of urban isolation through a feverish, emotional vibration. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 29,
+  "code": "van_gogh_style",
+  "seed": 7,
+  "prompt": "The neon alleys of Golden Gai in Tokyo on a rainy night",
+  "aspect": "4:5",
+  "size": [
+   912,
+   1136
+  ],
+  "image": "29_van_gogh_style_s7_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts the neon alleys of Golden Gai in Tokyo on a rainy night, where the wet surfaces of stone and metal dance with thick, rhythmic impasto. The narrow, winding street is a labyrinth of deep indigo and midnight-blue shadows, interrupted by the aggressive, swirling streaks of acid-yellow and hot-pink light. The wet cobblestones glisten with heavy, directional brushstrokes that mimic the heavy downpour. A single figure, a man in a dark, saturated robe, walks down the center of the lane, his silhouette a sharp, dark contour against the pulsing light. His face is partially obscured by a heavy, rhythmic smear of black paint, suggesting a weary, intense gaze. He wears a heavy, dark-toned garment that clings to his form, rendered in thick, textured ridges of paint. At the upper left, the dark, heavy sky is a chaotic swirl of cobalt and ultramarine, bleeding into the darkness of the alleyway. At the upper right, the vertical lines of buildings are rendered with thick, impasto strokes of emerald and violet, creating a sense of claustrophobic depth. Behind the subject, the side streets are a blur of acid-green and electric-blue, the rain appearing as long, vertical streaks of light against the dark. At the bottom left, the wet ground is a chaotic mess of reflective, blood-red and chrome-yellow highlights. At the bottom right, the shadows cast by the buildings are deep, swirling voids of black and Prussian blue. The entire scene vibrates with a restless, feverish energy, where every puddle and shadow feels alive. The lighting is provided by the violent, clashing colors of the neon signs, casting long, sickly yellow and hot-pink reflections across the wet pavement. The light pulses from the unseen signs, creating a sense of heat and tension through thick, ridged layers of paint. Every surface, from the stone to the skin, catches a glint of this artificial, electric glow. The composition uses a shallow depth, with the viewer positioned in the middle of the lane, looking down the narrow path. The perspective bends slightly, pulling the eye toward the dark, winding corners of the alley. The work radiates an intense, frantic vitality, capturing the heavy, humid pulse of a city lost in a storm. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 30,
+  "code": "monet_style",
+  "seed": 42,
+  "prompt": "A garden party under hanging wisteria in full bloom in Kyoto",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "30_monet_style_s42_00001_.png",
+  "final_prompt": "An Impressionist oil painting in the style of Monet, short broken strokes of pure colour catching fleeting light. An impressionist oil painting depicts a garden party under hanging wisteria in full bloom in Kyoto. A group of people, dressed in light linen and silk, move through the garden, their forms softened by the heavy brushwork. A man in a pale cream shirt and a woman in a deep navy sundress pass by, their movements captured in a blur of warm ochre and violet strokes. Their faces are mere suggestions of joy, eyes lost in the shimmering light. Their hands, rendered in quick, broken strokes of peach and tan, reach toward the overhead blossoms. Every piece of clothing, from the hem of a skirt to the sleeve of a shirt, dissolves into the surrounding atmosphere. At the upper left, thick, impasto strokes of pale violet and soft pink represent the heavy clusters of wisteria. Behind the subject, the background dissolves into a hazy, impressionistic wash of emerald and sage green. At the lower right, a stone path or ground is suggested by dabs of charcoal and burnt sienna. In the far distance, the silhouettes of traditional wooden structures appear as dark, indistinct shapes against a sky of pale lavender. To the left, a garden bench is a mere suggestion of warm terracotta and ochre. The lighting is a flickering, warm sunlight filtering through dense foliage. It catches on the edges of the wisteria, turning the petals into streaks of bright cadmium yellow. Long, violet-tinted shadows stretch across the garden floor. The viewpoint is low, looking slightly upward through the dense canopy of leaves. The focus is soft, letting the edges of the frame dissolve into a luminous, atmospheric haze. The entire scene vibrates with a sense of fleeting, shimmering light and air. Broken strokes of pure colour, coloured shadows, shimmering reflections, fresh fleeting light."
+ },
+ {
+  "i": 31,
+  "code": "monet_style",
+  "seed": 7,
+  "prompt": "A garden party under hanging wisteria in full bloom in Kyoto",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "31_monet_style_s7_00001_.png",
+  "final_prompt": "An Impressionist oil painting in the style of Monet, short broken strokes of pure colour catching fleeting light. An impressionist oil painting depicts a garden party under hanging wisteria in full bloom in Kyoto. A group of several adults, dressed in flowing silk robes and light linen tunics, move through the garden, their forms partially obscured by the heavy, vibrant purple and pale lavender blooms of the wisteria. Their hands reach upward toward the dark, twisting branches, and their faces are caught in a soft, blurred expression of joy. The silk of their garments catches the light in flickering strokes of cream and gold. At the upper left, the dense, hanging wisteria fills the frame with thick, impasto-like strokes of deep plum and violet. At the right, a stone pathway of mossy grey and charcoal recedes into a soft-focus background. Behind the subject, a distant garden wall of dark olive and slate-grey dissolves into a misty, blue-grey haze. At the bottom, a patch of grass rendered in broken strokes of emerald and lime-green vibrates against the darker earth tones. The lighting is a warm, golden afternoon sun filtering through the leaves and blossoms. Light hits the edges of the silk robes, creating bright, flickering highlights of pale yellow. Shadows are cast in cool, violet and blue tones, bleeding into the surrounding foliage. The viewpoint is low, looking up through the foliage, making the wisteria appear immense and overwhelming. The focus is soft, letting the colors of the flowers bleed into the air, while the figures remain a shimmering, impressionistic presence. The entire scene vibrates with the fleeting, shimmering essence of a summer afternoon in Kyoto. Broken strokes of pure colour, coloured shadows, shimmering reflections, fresh fleeting light."
+ },
+ {
+  "i": 32,
+  "code": "hokusai_style",
+  "seed": 42,
+  "prompt": "A giant wave crashing over the New York skyline",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "32_hokusai_style_s42_00001_.png",
+  "final_prompt": "A Japanese woodblock print in the style of Hokusai, bold outlines and flat layered colour, Prussian blue and indigo. A giant wave crashing over the New York skyline is depicted in a Japanese woodblock print. A massive, turbulent wave of deep indigo and Prussian blue surges forward, its surface rendered in thick, rhythmic curls of white and pale cream. The wave's crest is a series of sharp, overlapping strokes that suggest a violent, rhythmic motion. Below the crest, the water recedes into a series of stylized, swirling patterns representing the ocean's force. This wave is a vast, heavy shape that dominates the center of the frame. At the upper left, the silhouette of a skyscraper rises up, its edges defined by bold, black outlines against a pale cream sky. At the upper right, more buildings rise, their windows rendered as small, flat patches of ochre and warm terracotta. At the lower left, the base of a building is visible, constructed from flat planes of slate grey and charcoal. At the lower right, the ocean floor is suggested by a series of dark, overlapping indigo shapes. Behind the subject, the distant skyline recedes into a series of horizontal, flat strokes of muted olive and deep navy. The entire background is a dense, graphic arrangement of overlapping planes. The lighting is flat and even, characteristic of a woodblock print, with no soft gradients or highlights. The light source is implied by the contrast between the pale cream sky and the dark, solid blocks of color. No shadows are cast, only the hard, graphic transition between colors. The composition uses a daring, dynamic diagonal, with the skyline cutting across the frame at a steep angle. The wave acts as a massive, heavy element that frames the smaller details of the city. The image carries a sense of overwhelming, kinetic energy through its bold, graphic patterns. Bold flowing outlines, flat layered woodblock colour, stylised waves and clouds, wood and paper texture."
+ },
+ {
+  "i": 33,
+  "code": "hokusai_style",
+  "seed": 7,
+  "prompt": "A giant wave crashing over the New York skyline",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "33_hokusai_style_s7_00001_.png",
+  "final_prompt": "A Japanese woodblock print in the style of Hokusai, bold outlines and flat layered colour, Prussian blue and indigo. A giant wave crashing over the New York skyline is depicted in this Japanese woodblock print. A massive, stylized wave of deep indigo and Prussian blue surges forward, its surface rendered as a series of heavy, flowing curls and sharp, rhythmic lines. The wave's crest is a jagged, white foam, rendered with flat, graphic patterns of pale cream and soft white. The wave's underside is a dark, turbulent mass of charcoal and midnight blue. The wave's movement is captured through aggressive, sweeping strokes that define the foam's violent, kinetic energy. At the upper left, the silhouette of a tall building rises against a sky of pale ochre and soft pink. At the upper right, another skyscraper, rendered in muted charcoal and deep navy, stands as a solid, geometric block against the patterned clouds. At the lower left, the ocean floor is a flat plane of slate grey and dark indigo. At the lower right, the spray from the wave hits the edge of the frame in a series of sharp, white, stylized dabs. Behind the subject, the distant skyline is a collection of overlapping, dark shapes representing the city's towers. The lighting is flat and even, characteristic of a woodblock print, with no hard shadows or highlights. The light source appears to be an invisible, diffused glow from above, catching the edges of the white foam. There are no realistic shadows, only the absence of color where the light hits the paper's texture. The composition uses a daring diagonal, with the wave cutting across the skyline to create a sense of overwhelming scale. The viewpoint is low, looking up at the wave to make it feel even more immense and crushing. The work conveys a sense of overwhelming, graphic power through its bold, flowing outlines and high-contrast colors. Bold flowing outlines, flat layered woodblock colour, stylised waves and clouds, wood and paper texture."
+ },
+ {
+  "i": 34,
+  "code": "swiss-international-style",
+  "seed": 42,
+  "prompt": "A poster for a Tokyo techno festival",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "34_swiss-international-style_s42_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A poster for a Tokyo techno festival, structured with a rigid, modular layout. The poster features a large, bold headline in signal red, centered over a white background. The words \"Tokyo techno festival\" are rendered in a heavy, black neo-grotesque sans-serif, appearing as the primary title. Below this, a secondary line of text, \"The pulse of the city\", is set in a much smaller, precise font size, aligned to the left margin. A small, muted grey block containing 'DATE: 2024-04-15' and 'LOCATION: Shibuya' sits in the lower right corner, perfectly square and white. The entire composition adheres to a strict, asymmetric grid, leaving significant amounts of clean, empty white space on the right side of the frame. At the upper center, the main title \"Tokyo techno festival\" is displayed in a bright signal red. Below the title, the subtitle \"The pulse of the city\" is printed in a small, dark charcoal grey. In the lower left corner, a block of text containing 'DATE: 2024-04-15' and 'LOCATION: Shibuya' is placed in a white, clean box. At the bottom, a thin, black rule separates the main content from the final footer, which contains 'official event' in a tiny, light grey font. The entire design is contained within a single, sharp rectangle that bleeds off the right edge. The lighting is flat and even, characteristic of a printed poster, without any shadows or highlights. The colors remain consistent and lack any ambient or naturalistic light. No light source is visible, only the hard, direct application of ink. The composition uses a strict, geometric grid to balance the heavy weight of the signal red text against the vast white space. Every element is placed according to a precise, rational layout, ensuring a sense of controlled, dynamic order. The overall effect is one of cold, modern, and highly structured precision. Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+ },
+ {
+  "i": 35,
+  "code": "swiss-international-style",
+  "seed": 7,
+  "prompt": "A poster for a Tokyo techno festival",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "35_swiss-international-style_s7_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A poster for a Tokyo techno festival, a graphic layout with a strict modular grid. The main title, \"Tokyo techno festival\", is set in a large, bold, black sans-serif typeface, positioned off-center to the left. Below it, a subtitle, \"Electric night in Tokyo\", is rendered in a smaller, precise white sans-serif. A secondary line, \"The pulse of the city\", is placed even smaller in the lower right corner. The entire composition follows a rigid, geometric structure, bleeding off the right edge into a vast, solid white space. At the top, the words \"Tokyo techno festival\" appear in a heavy black font. At the bottom, the words \"Electric night in Tokyo\" appear in a smaller white font. In the lower right corner, the words \"The pulse of the city\" appear in a tiny white font. The background is a flat, stark white, interrupted only by the black text blocks and the white margins. The lighting is non-existent, as the design relies on high-contrast black text against a white field. No shadows are cast, and no light source is visible. The focus is entirely on the typography and the absence of color. The composition uses a rigid, asymmetrical grid where the black text blocks act as structural pillars. The viewpoint is a flat, eye-level view, treating the text as a series of geometric rectangles. The piece conveys a sense of cold, objective, and rhythmic order. Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+ },
+ {
+  "i": 36,
+  "code": "art-deco-travel-poster",
+  "seed": 42,
+  "prompt": "A travel poster of a zeppelin flying to Shanghai, titled \"Shanghai\"",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "36_art-deco-travel-poster_s42_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster depicts a heavy zeppelin flying toward a city, rendered in a bold, streamlined Art Deco style. A massive, silver-toned airship with sharp, geometric silhouettes cuts through the air, its hull a smooth curve of polished chrome. The vessel carries a crew of several figures in dark, tailored uniforms, their silhouettes reduced to simple, elegant shapes against the sky. The airship's engines appear as stylized, rhythmic lines of deep navy and gold, suggesting a sense of immense, silent power. A single, large window on the side of the ship reflects a dim, golden light from below. At the upper left, the sky is a vast, empty expanse of midnight blue, transitioning into a deep charcoal gradient at the horizon. At the upper right, the silhouette of a distant mountain range is rendered in muted olive tones, sharp and crisp against the dark. At the lower left, the ocean below is a flat, luminous turquoise, catching a faint, shimmering reflection of the ship's metallic surface. At the lower right, the city skyline of Shanghai is a series of sharp, geometric towers in warm terracotta and pale cream, arranged in a perfect, symmetrical pattern. Behind the subject, the atmosphere is a void of deep navy, providing a dramatic background for the movement of the airship. \"Shanghai\" in a tall, elegant, geometric sans-serif, widely spaced, set in a band across the top in a cream color. \"JOURNEY TO THE FUTURE\" in a smaller, matching font, placed directly underneath the title. \"EST. 1928\" in a tiny, subtle font at the very bottom edge. The lighting is a dramatic, directional glow coming from the city below, casting long, geometric shadows across the ship's metallic surfaces. The light catches the edges of the chrome, creating a sharp, metallic sheen that glints against the dark navy surroundings. A faint, golden radiance emanates from the upper corners of the frame, suggesting a low sun or distant light source. The viewpoint is a high, dramatic angle looking down upon the city, making the airship appear as a monumental, forward-leaning force of speed. The composition uses strong vertical lines from the city structures and the ship's own geometry to create a sense of structured, modern movement. The overall effect is one of grand, optimistic, and highly stylized travel, evoking a sense of distant, advanced, and beautiful exploration. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ },
+ {
+  "i": 37,
+  "code": "art-deco-travel-poster",
+  "seed": 7,
+  "prompt": "A travel poster of a zeppelin flying to Shanghai, titled \"Shanghai\"",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "37_art-deco-travel-poster_s7_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster depicts a zeppelin flying toward Shanghai, rendered in a dramatic, streamlined Art Deco style. A massive, geometric airship, its hull a smooth curve of polished gold and deep navy, glides through a sky of luminous midnight blue. The structure is a collection of sharp, angular ridges and sleek, vertical lines that catch the light. A single, large window on the side of the craft reflects the distant, geometric skyline of a metropolis. The airship moves with a sense of heavy, controlled motion, its silhouette a sharp, rhythmic silhouette against the darkening horizon. At the upper left, a vast expanse of deep navy sky transitions into a soft, creamy gradient. At the upper right, the distant silhouette of a city skyline rises, composed of sharp, golden rectangles and silvered curves. Below the subject, the ocean surface is a flat, shimmering plane of midnight blue. At the lower left, the edge of the frame shows a section of the airship's hull, textured with a matte, dark metallic sheen. At the lower right, the horizon line is a sharp, clean break between the dark sea and the dark sky. \"Shanghai\" in a tall, elegant, geometric sans-serif, set in a band across the top, colored in a bright, warm cream. \"JOURNEY TO CHINA\" in a smaller, secondary font, placed at the bottom center in a muted gold tone. \"DIRECTLY ARRIVED\" in a tiny, thin font, placed at the bottom right corner in a pale gold tone. The lighting is a hard, directional source from the upper right, casting long, dramatic shadows across the ship's metallic surfaces. The light catches the edges of the golden curves, creating a brilliant, high-contrast glint. The overall scene is bathed in a cold, cinematic glow that emphasizes the vastness of the space. The composition uses a low, sweeping angle, looking up at the zeppelin to grant it a monumental, forward-leaning presence. The perspective is dramatic and slightly tilted, emphasizing the speed and scale of the journey. The entire piece radiates a sense of glamorous, optimistic grandeur and modernity. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ },
+ {
+  "i": 38,
+  "code": "japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A poster for a koi festival in Kyoto",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "38_japanese-modernist-geometric_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a koi festival in Kyoto, rendered in a Japanese modernist graphic design. A large, simplified circle of deep indigo represents a pond, its center a single, stylized koi with a bright vermilion tail. The fish's body is a smooth, rounded arc in pale cream, moving through the water's surface as a series of sharp, white lines. A smaller, secondary circle of muted ochre sits beside the main shape, representing a traditional wooden gate. The entire composition is centered, surrounded by vast, empty white space that emphasizes the stillness of the scene. At the top, a large, bold block of text in black sans-serif reads \"KOI FESTIVAL\". Below that, a smaller tagline in a clean, light grey font reads \"Kyoto, Japan\". In the bottom right corner, a small, precise block of text lists the dates in a white, minimalist font. At the upper left, a thin, vertical strip of jade-green forms a leaf pattern against the white background. Behind the main subject, a few abstract, geometric shapes in charcoal grey suggest distant hills. At the lower left, a thin, horizontal line of pale pink separates the main content from the bottom margin. \"KOI FESTIVAL\" in large, black, sans-serif, centered top; \"Kyoto, Japan\" in small, light grey, sans-serif, centered below the title; \"2024\" in small, white, sans-serif, bottom right; \"Annual Celebration\" in small, white, sans-serif, bottom left. The lighting is even and flat, as if printed on a smooth, matte paper. There are no shadows, only the absence of color where the shapes meet the white void. The light catches the edges of the inked lines, making them appear crisp and hard. The composition uses extreme negative space to create a sense of calm. The single subject is placed dead-center, surrounded by the void. The layout follows a strict, symmetrical balance typical of traditional calligraphy. The work evokes a sense of quiet, traditional grace through its stark, minimalist abstraction. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ },
+ {
+  "i": 39,
+  "code": "japanese-modernist-geometric",
+  "seed": 7,
+  "prompt": "A poster for a koi festival in Kyoto",
+  "aspect": "3:4",
+  "size": [
+   880,
+   1184
+  ],
+  "image": "39_japanese-modernist-geometric_s7_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a koi festival in Kyoto, rendered in a Japanese modernist graphic design of flat geometric shapes. The poster features a large, simplified silhouette of a koi fish, rendered in a vibrant vermilion hue. This shape is a stylized, flowing arc that dominates the center of the composition. A secondary, smaller version of the same fish appears in a muted indigo, positioned slightly lower and offset to the right. The entire layout uses heavy, solid blocks of color to represent the essence of the festival. At the upper left, a series of concentric, pale cream circles overlap, suggesting the movement of water. At the upper right, a sharp, clean white rectangular block represents a traditional wooden screen. Behind the central koi, a series of charcoal-grey geometric arcs create the illusion of a bridge or architecture. At the bottom, a wide expanse of deep navy serves as a base for the text. In the lower right corner, a small, pale pink square acts as a decorative element. At the bottom, \"KYOTO KOI FESTIVAL\" in a bold, black sans-serif typeface, followed by \"2024\" in a much smaller, precise font. The lighting is even and flat, characteristic of printed paper. There are no shadows, only the hard, crisp edges of the printed blocks. The composition uses extreme balance between large, solid shapes and wide, empty negative space. The viewpoint is a direct, frontal, eye-level perspective. The work maintains a sense of quiet, poised elegance through its minimalist abstraction. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ },
+ {
+  "i": 40,
+  "code": "pe-default",
+  "seed": 42,
+  "prompt": "A beautiful young woman with a shaved head, thick eyebrows and a small silver nose ring, laughing on a scooter through the streets of Taipei at dusk",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "40_pe-default_s42_00001_.png",
+  "final_prompt": "A cinematic still captures a beautiful young woman laughing while riding a scooter through the streets of Taipei at dusk. The woman is a young adult with a joyful, open expression, her face caught in a mid-laugh that reveals a small silver nose ring catching the light. She has a shaved head, showing smooth skin and fine hair texture, and thick eyebrows that frame her eyes. She wears a short, sleeveless dress of pale cream silk, the fabric rippling slightly with her movement. Her hands, pale and relaxed, grip the handlebars of the vintage scooter, which is a deep charcoal metal with a worn, matte finish. At the upper left, the sky transitions from a bruised violet to a deep indigo as dusk settles over the city. Behind the subject, the silhouettes of narrow alleys and traditional buildings rise up, their surfaces textured with aged stone and weathered wood. To the right, the street stretches into a soft blur, showing the dark, wet cobblestones reflecting the fading light. Below the scooter, the ground is a mosaic of damp, dark grey pavement and scattered, damp leaves. In the background, the distant outlines of city structures disappear into a heavy, dark atmosphere. The lighting is dim and directional, coming from the setting sun behind the buildings, casting long, soft shadows across the street. A warm, amber glow catches the edges of the woman's silhouette and the metallic surface of the scooter. The light creates a sharp rim-light effect on her hair and the edges of her clothing. The camera is positioned at a medium distance, level with the scooter, creating a sense of being a passenger in the same vehicle. The focus is sharp on the woman's face and the scooter, while the surrounding street and buildings fall into a heavy, cinematic blur. The image carries a sense of fleeting, urban joy amidst a fading day."
+ },
+ {
+  "i": 41,
+  "code": "pe-default",
+  "seed": 7,
+  "prompt": "A beautiful young woman with a shaved head, thick eyebrows and a small silver nose ring, laughing on a scooter through the streets of Taipei at dusk",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "41_pe-default_s7_00001_.png",
+  "final_prompt": "A cinematic still captures a beautiful young woman laughing while riding a scooter through the streets of Taipei at dusk. The woman, a young adult with a shaved head, wears a light teal linen shirt that bunches around her waist. Her thick eyebrows arch upward in a moment of genuine laughter, and a small silver nose ring catches the fading light. Her eyes are crinkled with joy, and her mouth is open in a wide, expressive smile. She sits upright on the metal seat of a vintage scooter, her hands gripping the handlebars. Her skin has a natural, warm tone, and her expression is one of pure, unposed happiness. At the upper left, the cityscape of Taipei recedes into a soft, dark blur of deep navy and charcoal. Behind the subject, the street stretches toward a distant, out-of-focus intersection where the streetlights begin to glow. At the right edge, a row of traditional wooden shopfronts, painted in muted ochre and dark umber, disappears into the shadows. Below the subject, the pavement is a textured mix of wet asphalt and scattered debris, reflecting the dimming light. To the far left, the silhouette of a building's corner rises against the darkening sky. In the background, the distant lights of the city appear as tiny, amber orbs through a heavy, atmospheric haze. The lighting is dim and directional, coming from the low sun behind the buildings to create a rim-light effect on the edges of her hair. The fading light of dusk casts long, soft shadows across the street. A faint, amber glow catches the edges of her silver nose ring and the metallic frame of the scooter. The camera is positioned at a medium distance, level with the woman's eye line to capture the full sweep of her movement. The foreground elements, like the scooter's tires, are sharp, while the background streets fall into a heavy, cinematic blur. The photograph evokes a sense of fleeting, joyful freedom amidst the quietude of the city at dusk."
+ },
+ {
+  "i": 42,
+  "code": "soft-warm-nostalgic",
+  "seed": 42,
+  "prompt": "A beautiful young woman with a shaved head, thick eyebrows and a small silver nose ring, laughing on a scooter through the streets of Taipei at dusk",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "42_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. A beautiful young woman with a shaved head, thick eyebrows, and a small silver nose ring, laughing on a scooter through the streets of Taipei at dusk, captured in a soft, nostalgic film photograph. The woman is a young adult with a lithe build and expressive features. Her hair is a short, smooth cut, showing no texture, and her skin has a pale, warm undertone. She wears a light, sleeveless linen shirt in a muted cream color and loose-fitting linen trousers in a faded sand tone. Her thick eyebrows lift upward as she laughs, and a small, simple silver nose ring catches a glint of light. Her hands are relaxed, one reaching toward the handlebars, while the other rests near her hip. At the upper left, the city skyline of Taipei fades into a soft, out-of-focus haze of deep navy and charcoal. At the upper right, the silhouettes of traditional buildings and modern facades blend into a muted olive and warm grey. Behind the subject, the street surface consists of wet, dark asphalt that reflects the dimming light in long, soft streaks of amber. At the bottom left, the front wheel of the scooter is visible, its chrome rim catching a dull, diffused reflection. At the bottom right, the ground stretches away into a soft-focus blur of dark shadows and muted shadows. The background behind the scooter shows the movement of a passing crowd, rendered as soft, indistinct shapes of amber and charcoal. The lighting is a soft, golden glow from the setting sun, filtering through the urban haze. It creates a gentle rim-light along the edges of the woman's hair and silhouette. The shadows are soft, long, and low-contrast, melting into the dimming dusk. The camera is positioned at a low angle, close to the scooter, looking up slightly to emphasize the movement. The subject is framed with a generous amount of negative space, allowing the city streets to breathe around her. The image carries a sense of fleeting, tender nostalgia, a moment of joy caught in the fading light. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 43,
+  "code": "soft-warm-nostalgic",
+  "seed": 7,
+  "prompt": "A beautiful young woman with a shaved head, thick eyebrows and a small silver nose ring, laughing on a scooter through the streets of Taipei at dusk",
+  "aspect": "4:3",
+  "size": [
+   1184,
+   880
+  ],
+  "image": "43_soft-warm-nostalgic_s7_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. A beautiful young woman with a shaved head, thick eyebrows, and a small silver nose ring, laughing on a scooter, moves through the streets of Taipei at dusk. The woman is a young adult with a soft, expressive face and a light, joyful expression. She has a short, smooth shaved head that catches the fading light. Her thick eyebrows are slightly arched, and a small silver nose ring catches a glint of light. She wears a thin, pale cream silk slip dress that ripples around her legs as she moves. Her hands are relaxed, one near the handlebar of the scooter. Her eyes are crinkled in a genuine, spontaneous laugh. At the upper left, the sky of dusk over Taipei is a soft, muted lavender and deep navy. At the upper right, the silhouettes of traditional buildings and narrow alleyways recede into the dark. Behind the subject, the street surface is a textured mix of worn concrete and damp stone. At the lower left, the edge of the scooter's frame is visible, covered in a matte, charcoal-grey paint. At the lower right, the ground stretches toward a distant, out-of-focus corner of the street. In the background, the dim light reflects off the wet pavement and the edges of passing pedestrians. The lighting is a low, warm amber glow from the setting sun, casting long, soft shadows. The light catches the edges of her hair and the silver ring, making them appear to glow. Shadows are soft and lack harsh edges, creating a gentle, hazy atmosphere. The camera is positioned at a low angle, close to the ground, following the movement of the scooter. The subject is placed slightly off-center, allowing the street and the cityscape to fill the rest of the frame. The focus is sharp on the woman's face, while the surrounding streets and architecture fall into a soft, dreamlike blur. The image captures a fleeting, tender moment of joy amidst the quiet, melancholic beauty of a city at night. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 44,
+  "code": "pe-default",
+  "seed": 42,
+  "prompt": "A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "44_pe-default_s42_00001_.png",
+  "final_prompt": "A cinematic still captures a woman in her fifties leaning out of a tram window in Lisbon. The woman, a mature adult with a weathered face, is caught in a moment of quiet joy. Her skin is a pale cream, dotted with fine, scattered freckles that catch the light. She wears a thin, soft linen blouse in a muted sage-green, the fabric bunching slightly where her hands grip the metal rim. Her expression is one of genuine, unscripted laughter, revealing a gap-toothed smile as she looks toward the city. Her hair, a thick mass of wild grey curls, spills over the side of the window frame. At the upper left, the view shows the dark, textured stone of a Lisbon building under a soft, greyish sky. Behind the subject, the interior of the tram is a dim, charcoal-grey void, suggesting a journey through the streets. To the right, the glass of the window reflects the dim, amber light of distant street lamps. Below the window, the metal frame of the tram window shows a light, brushed silver texture. In the background, the silhouette of a distant street corner is visible through the haze of the city. At the bottom edge, the hand of the woman reaches toward the glass, fingers slightly curled in a relaxed posture. The lighting is dim and diffused, as if from a cloudy afternoon. A soft, cool light catches the edges of her grey curls and the texture of her skin. Long, soft shadows fall across the window's surface from the interior of the tram. The camera is positioned at a medium distance, level with the window frame to create a sense of being a passenger. The subject is framed centrally, while the tram's interior and the cityscape fall into a soft, cinematic blur. The photograph evokes a sense of nostalgic, lonely freedom amidst a busy city."
+ },
+ {
+  "i": 45,
+  "code": "pe-default",
+  "seed": 7,
+  "prompt": "A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "45_pe-default_s7_00001_.png",
+  "final_prompt": "A realistic photograph captures a beautiful woman in her fifties leaning out of a tram window in Lisbon, her face a study of lived experience. The woman has a weathered face with visible freckles scattered across her nose and cheeks, a gap-toothed smile that reveals a hint of tooth, and wild grey curls that spill over her shoulders. She wears a heavy, textured knit sweater in a muted charcoal tone, the fibers catching the light in a way that suggests years of wear. Her expression is one of sudden, joyful surprise, eyes wide and mouth partially open in a grin. Her hands, large and steady, grip the metal rim of the window frame, knuckles slightly white. At the upper left, the cityscape of Lisbon recedes into a soft, out-of-focus blur of cobalt blue and warm ochre. Behind the subject, the interior of the tram is a dim, dark navy, with a worn leather seat and a single, unlit cigarette resting on a dark mahogany surface. At the lower right, the edge of the tram window frame shows a layer of fine, grey dust and a thin film of condensation. At the upper right, the view through the window shows a distant street of warm terracotta tiles and a sliver of a sun-drenched sky. At the bottom, the woman's waist and the hem of her charcoal sweater disappear into the shadows of the tram's cabin. The lighting is dim and diffused, as if from an overcast sky, casting soft, even shadows across her skin. A weak, amber light catches the texture of her grey curls and the fine lines around her eyes. The light is cold and clinical, filtering through the glass and highlighting the grit on the window's surface. The camera is positioned at a low angle, looking slightly upward at the woman's face to emphasize her presence. The focus is sharp on her eyes and the texture of her skin, while the background of the city and the tram interior fall into a soft, cinematic blur. The image carries a sense of quiet, fleeting joy amidst the urban chaos of a city."
+ },
+ {
+  "i": 46,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 42,
+  "prompt": "A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "46_raw-bw-cinematic-portraits_s42_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon, captured in a black and white cinematic photograph. The woman is an adult in her fifties, her face a map of lived experience with visible freckles across her nose and forehead. She wears a light, thin linen blouse that catches the silver light, and her hands, aged and textured, rest against the glass. Her smile is gap-toothed, revealing teeth that catch a sharp highlight, while her wild grey curls spill over her shoulders and down her back. Her expression is one of quiet, unguarded joy, eyes crinkled in a genuine laugh. At the upper left, the window frame of the tram shows a worn, scratched texture against a mid-grey background. Behind the subject, the cityscape of Lisbon appears as a series of soft, charcoal-toned shapes and silvery highlights against a dark sky. At the lower right, the edge of the tram window reflects a sliver of a street, rendered in deep, dense black. To the left of the frame, the interior of the tram bus, visible through the glass, shows a dim, mid-grey interior with a hint of metallic texture. At the bottom, the window sill is a plain, matte surface catching a faint, diffuse light. The lighting is soft and diffused, characteristic of an overcast day, creating a low-contrast, cinematic atmosphere. Light falls from above and slightly to the side, catching the fine lines around her eyes and the texture of her skin. There are no hard shadows, only a gentle gradation of grey tones. The camera is positioned at a medium distance, looking through the window at the subject from an eye-level perspective. The focus is sharp on the woman's face, while the distant city and the tram interior fall into a soft, cinematic blur. The image carries a sense of honest, emotional naturalism and a quiet, tender intimacy. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ },
+ {
+  "i": 47,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 7,
+  "prompt": "A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "47_raw-bw-cinematic-portraits_s7_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A beautiful woman in her fifties with freckles, a gap-toothed smile and wild grey curls, leaning out of a tram window in Lisbon, captured in a black and white cinematic photograph. The woman's face is a study in texture, showing fine lines around the eyes and a map of small, pale freckles across her nose. Her mouth is open in a gap-toothed smile, revealing a row of teeth that catch the light. Her hair, a mass of wild grey curls, spills over her shoulders and down her back, partially obscuring her neck. She wears a simple, light-colored linen blouse that bunches at her waist as she leans. Her expression is one of quiet, unguarded joy, captured mid-breath. At the upper left, the side of a tram window frame, made of dark, matte metal, recedes into a soft blur. Behind the subject, the cityscape of Lisbon appears as a series of charcoal-toned silhouettes against a pale, overcast sky. At the lower right, the interior of the tram car shows a dim, mid-grey interior, with the texture of worn upholstery and a dark, heavy seat. To the left, a hint of a street or alleyway is visible through the glass, rendered in soft, out-of-focus greys. In the background, the distant architecture of the city is a collection of dark, indistinct shapes. At the bottom edge, the rim of the window frame creates a heavy, solid border of deep black. The lighting is soft and diffused, coming from an overcast sky outside the window. It casts no harsh shadows, only gentle, silvery highlights on the edges of her face and hair. The light catches the fine texture of her skin and the stray hairs in her curls. The camera is positioned at eye-level, close enough to capture the intimate detail of her smile. The focus is sharp on her eyes and the texture of her skin, while the tram interior and the city background fall into a soft, cinematic blur. The image carries a sense of sudden, fleeting intimacy amidst the quiet movement of a city. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ }
+]

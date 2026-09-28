@@ -1,0 +1,30 @@
+code: soft-warm-nostalgic
+label_zh: 暖調柔光底片日常
+aspect: '4:3'
+palette: colour
+look_paragraph: >
+  A soft natural-light photograph on medium-format film, warm, gentle and airy. Light is
+  generous and soft, often a low afternoon sun from behind that glows along edges and lifts the
+  shadows; contrast stays low and the highlights mild. Colours are muted pastels — creams, soft
+  greens, faded blues — with fine, gentle grain. The framing is calm and unposed, the subject
+  given room to breathe in open space. The light holds a quiet ache, as if this ordinary moment
+  is already becoming a memory while it is still happening.
+signature_lead: A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle.
+signature_close: Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory.
+mood:
+  default: medium
+  weak: a calm, tender everyday quiet
+  medium: a tender nostalgia, love for a passing moment
+  strong: an aching tenderness for days already slipping away
+framing:
+  native: neutral
+  close: a closer tender fragment, a gesture or small detail
+  wide: the subject in wide, airy space, calm light all around
+habitual_subjects: >
+  young children at play, seaside and parks, summer days, home interiors, travel, blue skies and
+  clouds
+presets:
+  sun: warm afternoon sunlight, tender glowing calm
+  nostalgia: a faded nostalgic film mood
+  fleeting: the fleeting preciousness of an ordinary day
+negative: harsh flash, high contrast, saturated colour, digital sharpness, posed, dramatic, cold light, ordinary family snapshot

@@ -1,0 +1,30 @@
+code: raw-bw-street-documentary
+label_zh: 黑白市井貼身紀實
+aspect: '3:2'
+palette: monochrome
+look_paragraph: >
+  A raw, vivid black-and-white documentary photograph with the look of a mid-century street print:
+  heavy film grain, strong natural contrast and plain daylight. The camera is close and immersive,
+  in the thick of the scene, candid and unannounced, catching its subject in its element, faces
+  turned toward what they are doing rather than toward the lens. The tones run from inky shadow to
+  bright, gritty highlight, and every surface — cloth, skin, stone, wood — shows its wear. The
+  print is affectionate but unsentimental, earthy rather than genteel, ordinary life unvarnished
+  and alive.
+signature_lead: A raw, grainy black-and-white documentary photograph taken up close, in strong natural daylight.
+signature_close: Heavy grain, strong contrast, candid closeness, black and white.
+mood:
+  default: medium
+  weak: a lively everyday warmth
+  medium: the teeming, vivid grit of ordinary life
+  strong: a raw immersive vitality, heat and press and earthy life-force
+framing:
+  native: close
+  close: close in among the people, a face, hands and bodies pressed together
+  wide: a wider view, close and crowded with detail
+habitual_subjects: >
+  1940s–50s Taiwanese markets, temple fairs and back alleys, vendors, labourers, children
+presets:
+  fair: a crowded, teeming festival scene, earthy vivid life
+  market: a vendor and crowd up close, raw vitality and grit
+  labour: a worker's weathered face and hands, unvarnished
+negative: clean digital, smooth, polished, posed, studio light, colour, nostalgic postcard, genteel, calm detached distance

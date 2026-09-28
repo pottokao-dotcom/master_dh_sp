@@ -1,0 +1,33 @@
+code: direct-flash-indoor-portrait-early
+label_zh: 貼身歪斜直閃快照
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+exceptions: [tilt]
+look_paragraph: >
+  A raw, intimate snapshot on saturated 1970s consumer colour film, lit by a direct flash: the
+  nearest surfaces blown flat and bright, a hard shadow thrown straight behind, the background
+  dropping away. The camera pushes in to an intrusive, too-close distance, tilted and
+  off-centre, a body or object sliced by the frame edge. It catches people slack and unready,
+  between gestures rather than presenting themselves. Grain, blown highlights and hot, deep
+  colour give it a restless, urgent charge. When someone in the picture sleeps, the closeness
+  turns rare and tender.
+signature_lead: A raw, too-close direct-flash snapshot on saturated 1970s colour film, tilted and off-centre.
+signature_close: Flat hard flash, a hard shadow behind, a tilted intrusive closeness, hot saturated colour.
+mood:
+  default: medium
+  weak: a restless closeness
+  medium: an urgent, intrusive intimacy, raw and unposed
+  strong: a feverish, possessive charge, the camera pressed right up against life
+framing:
+  native: close
+  close: point-blank and tilted, a body or object cut by the frame
+  wide: a little more of the cramped room or street around the moment
+habitual_subjects: >
+  a young lover, trains and boats on a journey, cramped rooms, sleeping bodies on tatami, city
+  streets at night
+presets:
+  intrusive: an intrusive too-close snapshot, tilted and raw
+  unready: someone caught slack and unposed between gestures
+  asleep: a sleeping figure seen with rare tenderness
+negative: soft light, studio lighting, posed, glamour, smiling at camera, centred balanced composition, tidy room, cosy family snapshot

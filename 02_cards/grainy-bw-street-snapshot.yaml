@@ -1,0 +1,32 @@
+code: grainy-bw-street-snapshot
+label_zh: 雨夜粗粒晃拍黑白
+aspect: '3:2'
+palette: monochrome
+exceptions: [blur, tilt]
+look_paragraph: >
+  A raw, high-contrast black-and-white street snapshot buried under thick, coarse, clumping
+  high-ISO grain that looks like a rough photocopy. Whatever light the scene has is pushed hard:
+  blacks crushed to ink, highlights blown to chalk. A wide lens is held very close, handheld and
+  on the move, often from the hip, so the frame tilts, shakes and slices its subject at the edge;
+  parts are blurred with motion or slip out of focus. Anyone in the frame is snatched mid-stride
+  or glancing back warily. The unease stays unspoken, living in the grain, the tilt and the lurch
+  of the camera.
+signature_lead: A heavily grainy, coarse, high-contrast black-and-white snapshot that looks like a rough photocopy.
+signature_close: Thick coarse grain everywhere, crushed blacks and blown highlights, a restless tilted frame.
+mood:
+  default: medium
+  weak: a faint undercurrent of unease
+  medium: a clear confrontational edge, hostile closeness
+  strong: raw aggression, the frame charged with anger
+framing:
+  native: close
+  close: a radical off-centre crop, the subject sliced by the frame edge or shoved to the margin, a hard tilt
+  wide: pulled back and more level, the subject given room
+habitual_subjects: >
+  stray dogs, neon-lit back alleys, torn posters, fishnet stockings, fragmented signage,
+  rain-slick night streets
+presets:
+  detached: cold detached distance, an anonymous passer-by, alienation
+  restless: restless aggressive motion blur, a chaotic fragmented frame
+  bleak: a desolate bleak mood, decaying surfaces
+negative: clean, polished, smooth, denoised, clean digital look, sharp, low noise, level horizon, colour

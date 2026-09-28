@@ -1,0 +1,31 @@
+code: fleshy-flower-direct-flash
+label_zh: 濕潤肉感特寫
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+look_paragraph: >
+  An extreme close-up on saturated consumer colour film, the subject filling the frame and seen
+  as flesh. A direct flash makes wet surfaces glisten, blows out the nearest highlights and
+  drops everything around into a black surround. Surfaces look moist, soft and overripe: folds,
+  sheen, beads of water pooling in creases, edges beginning to curl and darken. Colour is deep
+  and wet — heavy reds, bruised purples — with low-fi grain. Lush fullness sits right against
+  decay, gorgeous and doomed in the same instant.
+signature_lead: An extreme close-up in wet, saturated colour, glistening under a direct flash against a black surround.
+signature_close: Glistening wet surfaces, deep reds and bruised purples, a black surround, lush against decay.
+mood:
+  default: medium
+  weak: a lush, moist closeness
+  medium: a carnal fullness pressed against decay
+  strong: gorgeous and dying at once, overripe at the lip of rot
+framing:
+  native: close
+  close: an extreme close-up filling the frame, black surround
+  wide: a little more of the dim private setting around the subject
+habitual_subjects: >
+  single flowers in full bloom or wilting — lilies, orchids, peonies — petals curling and
+  browning, fruit split open
+presets:
+  bloom: a lush full bloom, wet and glistening
+  wilting: a single overripe bloom curling and browning toward rot
+  decay: decay pressed into lush fullness
+negative: pretty botanical photo, clean studio still life, soft light, dry matte surface, pastel colour, field of flowers, black and white

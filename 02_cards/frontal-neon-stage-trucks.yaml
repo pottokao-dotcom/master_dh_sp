@@ -1,0 +1,30 @@
+code: frontal-neon-stage-trucks
+label_zh: 霓虹孤光暮色正面
+aspect: '16:9'
+palette: saturated
+look_paragraph: >
+  A deadpan, frontal large-format colour photograph, square to its subject and dead centre, with
+  the calm order of a typology. Wherever the subject carries lights, signs or decoration, they
+  blaze in gaudy saturated neon, electric pinks, greens and golds sharp in every detail.
+  Outdoors, it stands isolated and monumental in a wide, empty dusk, the land falling dark
+  beneath a deep blue magic-hour sky. The gap between the garish glow and the quiet surroundings
+  is the point: surreal, festive and lonely at once.
+signature_lead: A deadpan frontal large-format colour photograph, the subject centred and blazing against a deep blue dusk.
+signature_close: Frontal and centred, gaudy neon glow, deep blue dusk, surreal and lonely.
+mood:
+  default: medium
+  weak: a quiet, deadpan wonder
+  medium: a lonely surreal festivity
+  strong: a melancholy magic, electric spectacle against dark empty land
+framing:
+  native: neutral
+  close: closer on the glowing facade, ornament and lights
+  wide: the subject frontal and isolated in a wide empty dusk, sky above
+habitual_subjects: >
+  mobile neon stage trucks, gaudy electric stages, rural fields and roadsides at twilight,
+  folk-festival nights
+presets:
+  spectacle: a gaudy lit spectacle isolated at dusk
+  dusk: a deep blue dusk over empty land
+  vernacular: the lonely surreal poetry of folk spectacle
+negative: daylight, oblique angle, cluttered crowd, shallow depth of field, documentary snapshot, ordinary night photo

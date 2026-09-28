@@ -1,0 +1,31 @@
+code: god-eye-systems-early
+label_zh: 等距冷靜重複全景
+aspect: '16:9'
+palette: colour
+look_paragraph: >
+  A calm, deadpan large-format colour photograph taken from a distance, frontal and level, as
+  cool and even as a survey. The scene is read as a system: repeated units, rows and grids,
+  structures and open ground laid out with equal care, the space itself carrying the picture.
+  Flat, even, cool light lies over everything without drama, and the whole field is sharp from
+  front to back, clean and precise. Anyone in the frame appears anonymous and evenly weighted,
+  spread through the space like everything else. The composure is documentary and still, an
+  order found in what people have built.
+signature_lead: A calm, frontal large-format colour photograph from a distance, cool even light, the scene read as a system.
+signature_close: Cool even light, frontal distance, repetition and order, sharp from front to back.
+mood:
+  default: medium
+  weak: a quiet, neutral composure
+  medium: a cool, orderly detachment, the space itself as subject
+  strong: a vast, impersonal stillness, order stretching past the edges
+framing:
+  native: wide
+  close: closer, the repeated units filling the frame edge to edge
+  wide: the whole field seen from a distance, repetition running to the edges, the task's subject legible within it
+habitual_subjects: >
+  water towers, tanks and factory halls, bland valleys and resorts, early industrial landscapes,
+  crowds scattered across open ground
+presets:
+  typology: rows and grids of repeated units, typological calm
+  survey: a frontal, level survey of a built landscape
+  order: order found in the everyday built world
+negative: dramatic lighting, close-up, shallow depth of field, bokeh, tilted angle, warm golden light, ordinary wide-angle snapshot

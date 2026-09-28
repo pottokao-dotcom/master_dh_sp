@@ -1,0 +1,26 @@
+code: flash-lit-intimate-portraits-mid
+label_zh: 直閃濃豔私房人像
+aspect: '1:1'
+palette: saturated
+adult_mood: true
+exceptions: [tilt]
+look_paragraph: >
+  An intimate diary snapshot on warm, saturated 1970s–80s consumer colour film, lit by direct
+  on-camera flash: the subject lit flat and dead even, the nearest surfaces slightly blown out,
+  a hard shadow thrown straight behind, the cluttered surroundings dropping fast to black. Deep
+  reds, a warm cast, faded vintage tones and consumer grain. The camera is uncomfortably close
+  and casual, off-centre, with bodies and things cut by the frame edge. It catches the
+  in-between moment of whatever is happening — mid-gesture, off-guard — with faces listless and
+  absent, their attention somewhere far from the lens: a probing, possessive closeness.
+signature_lead: An intimate direct-flash snapshot on warm, saturated 1970s consumer colour film, flat and blown out, deep reds.
+signature_close: Flat hard flash, a hard shadow straight behind, deep reds, a caught unposed moment.
+mood:
+  default: medium
+  medium: a restless, lecherous intimacy over a hollow, tired stillness
+framing:
+  native: close
+  close: point-blank snapshot framing, a body or object cut off by the frame edge
+habitual_subjects: >
+  a cramped private apartment, tatami, a rumpled futon; flowers shot as flesh — wet,
+  wrinkled petals opening like skin
+negative: soft light, studio lighting, posed, glamour, smiling at camera, clean tidy room, cosy family snapshot, gravure pose

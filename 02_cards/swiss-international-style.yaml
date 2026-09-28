@@ -1,0 +1,35 @@
+code: swiss-international-style
+label_zh: "瑞士國際主義平面設計"
+medium: design
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A Swiss International Style design laid out on a strict modular grid with objective, rational
+  clarity. Type is a neo-grotesque sans-serif set flush left and ragged right, in a few sizes
+  only, with large bold headlines and small precise text blocks aligned to the grid columns. The
+  picture sits inside a clean rectangle or bleeds off one edge, placed asymmetrically, balanced
+  by generous white space. Colour is limited and flat — black, white and one strong accent such
+  as signal red — with geometric bars, circles or rules structuring the page. Printed crisply,
+  every element in exact alignment, calm and dynamic at once.
+picture_paragraph: "The picture is a clean black-and-white or single-colour duotone photograph cropped hard into a rectangle of the grid, sharp and objective."
+page_paragraph: "The page is a Swiss International Style layout on a strict modular grid: neo-grotesque sans-serif set flush left and ragged right, a few sizes only, large bold headlines and small precise text blocks aligned to the columns. The picture sits in a clean rectangle or bleeds off one edge, placed asymmetrically, reproduced as it is, balanced by generous white space. Page colour is limited and flat — black, white and one strong accent such as signal red — with geometric bars, circles or rules structuring the page."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "Swiss International Style"   # v4.1 B 組:「接下來你成為 Swiss International Style 平面設計師」
+signature_lead: "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order."
+signature_close: "Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+mood:
+  default: medium
+  weak: "a calm, rational clarity"
+  medium: "an objective, dynamic order"
+  strong: "a rigorous, monumental geometry of type and space"
+framing:
+  native: neutral
+  close: "a tighter crop of the layout, headline and picture filling the grid"
+  wide: "the whole piece with wide white margins around the grid"
+habitual_subjects: >
+  concert and festival posters, exhibition posters, transport and public-service posters, book
+  covers
+presets:
+  grid: "a strict modular grid with asymmetric balance"
+  type: "large bold sans-serif headlines, small precise text blocks"
+  geometry: "flat geometric bars and circles in black, white and red"
+negative: "decorative script, ornate serif, centered symmetrical layout, drop shadows, gradients, clutter, grunge texture, 3D lettering"

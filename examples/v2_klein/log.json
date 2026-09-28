@@ -1,0 +1,522 @@
+[
+ {
+  "i": 0,
+  "code": "pe-default",
+  "seed": 42,
+  "prompt": "A night market stall grilling squid in Tainan",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "00_pe-default_s42_00001_.png",
+  "final_prompt": "A realistic photograph captures a night market stall in Tainan where a vendor grills squid on a hot iron pan. The person operating the grill is an elderly man with deep-set wrinkles and salt-and-pepper hair, wearing a heavy linen shirt in a muted charcoal tone. His hands, weathered and large, grip a tongs with a worn, matte-finished metal handle. He looks down at the heat, his expression focused and intense as he moves the skewers. The squid, a bright translucent purple, is being turned over the flame, its skin curling and bubbling with liquid. At the upper left, the background shows the blurred, warm amber glow of distant streetlights through a haze of smoke. At the upper right, the edge of a wooden crate, stained a deep mahogany, sits against the stall's side. Behind the subject, a row of small, colorful ceramic bowls sits on a low shelf, their surfaces glazed in shades of pale cream and deep terracotta. At the lower left, a pile of discarded, charred grey charcoal rests on a dark wooden platter. At the lower right, a portion of a heavy iron griddle, blackened by use, catches a glint of light. The lighting is provided by a single, intense heat source from below the griddle, casting long, harsh shadows upward. This light causes the edges of the grilling squid to appear as bright, electric purple highlights against the dark surroundings. A soft, ambient light from the surrounding market stalls creates a dim, saturated atmosphere. The camera is positioned at a medium height, looking slightly down at the stall to capture the movement. The focus is sharp on the texture of the squid and the man's hands, while the background elements fall into a soft, cinematic blur. The image evokes a sense of raw, nocturnal heat and the rhythmic, repetitive motion of a late-night city."
+ },
+ {
+  "i": 1,
+  "code": "pe-default",
+  "seed": 7,
+  "prompt": "A night market stall grilling squid in Tainan",
+  "aspect": "",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "01_pe-default_s7_00001_.png",
+  "final_prompt": "A realistic photograph captures a night market stall grilling squid in Tainan, a scene of intense, dark-night activity. A large, heavy iron griddle sits at the center, its surface blackened with soot and oil. Thick, tender pieces of squid, translucent and glistening with moisture, lie spread out upon the hot metal. The skin of the squid is a deep, iridescent purple, curling slightly as it heats. A thick, dark charcoal grease pools around the food, catching a faint, oily reflection. The steam rising from the heat forms a thin, white veil that obscures the background. At the upper left, the dark silhouette of a wooden stall frame recedes into the deep shadows of the alleyway. At the upper right, a stack of ceramic bowls in shades of muted ochre and dusty grey stands waiting. Behind the subject, the blurred, dark shapes of other stalls create a sense of crowded, nocturnal movement. At the lower left, a stack of heavy, woven wicker baskets in a muted olive hue sits empty. At the lower right, a stack of heavy, woven wicker baskets in a muted olive hue sits empty. The ground beneath the stall is a rough, dark grey stone, slick with moisture. The lighting is harsh and directional, coming from a single, unseen source above the grill.The light catches the edges of the squid, making the skin appear bright and wet against the dark surroundings.Long, sharp shadows stretch away from the heat source across the stone floor. The camera is positioned at a low, level angle, looking directly at the grill.The foreground elements, like the squid and the griddle, are sharply in focus, while the background is a soft, dark blur. The image evokes a sense of heavy, humid, and simmering heat."
+ },
+ {
+  "i": 2,
+  "code": "bw-geometric-street-candid",
+  "seed": 42,
+  "prompt": "Commuters crossing the Shibuya scramble at noon",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "02_bw-geometric-street-candid_s42_00001_.png",
+  "final_prompt": "A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance. Commuters crossing the Shibuya scramble at noon are captured in this black and white street photograph. A group of commuters, appearing as a blurred mass of movement, cross the intersection, their forms rendered in mid-grey tones against the starkness of the pavement. The figures move with a hurried, rhythmic stride, their limbs caught in a dynamic, overlapping motion that suggests a rush toward a destination. Some wear heavy coats and long-sleeved shirts, while others are seen in lighter, more utilitarian garments that catch the overhead light. Their faces are mere suggestions of features, eyes directed toward the street ahead in a collective, anxious focus. The textures of fabric and skin are lost to the heavy motion, leaving only the suggestion of a human presence. At the upper left, the vertical lines of the glass buildings create a sharp, geometric shadow against a pale, chalky sky. Behind the subject, the distant outlines of structures recede into a deep, charcoal darkness. At the bottom right, the asphalt of the sidewalk shows a coarse, granular texture under the direct, harsh sun. To the left of the frame, the edge of a concrete curb creates a hard, diagonal line cutting through the mid-ground. In the background, the distant traffic lights appear as small, dark orbs against the bright, blown-out white of the overhead sun. At the upper right, the corner of a building casts a long, hard-edged shadow across the ground. The lighting is harsh and direct, coming from directly overhead to simulate the high sun of noon. It creates high-contrast, deep black shadows that fall sharply downward onto the ground. The light catches the edges of moving objects, turning them into bright, silvery highlights. The camera is positioned at a natural eye-level, looking directly across the path of the commuters. The composition relies on the intersecting lines of the street and the architecture to lead the eye through the movement. The image captures a sense of urban isolation and the fleeting, chaotic grace of a busy morning commute. Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white."
+ },
+ {
+  "i": 3,
+  "code": "bw-geometric-street-candid",
+  "seed": 7,
+  "prompt": "Commuters crossing the Shibuya scramble at noon",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "03_bw-geometric-street-candid_s7_00001_.png",
+  "final_prompt": "A candid black-and-white street photograph, a fleeting gesture caught in precise geometric balance. Commuters crossing the Shibuya scramble at noon appear in this black and white photograph. A group of commuters, captured mid-stride, move through the intersection. Their heavy, dark-toned coats and light-colored shirts catch the harsh, overhead glare. One man's head is turned sharply toward the right, his expression caught in a moment of sudden movement. His hands are tucked into the pockets of his thick, textured wool coat. Another commuter, seen from the side, wears a structured, dark suit jacket that shows the grain of the fabric under the direct sun. At the upper left, the vertical lines of glass buildings create a complex, overlapping geometry of reflections. At the upper right, the blurred, motion-blurred streaks of passing vehicles suggest the speed of the traffic. Behind the subject, the ground is a mosaic of concrete textures and the hard, dark lines of the crosswalk. At the bottom left, the edge of a sidewalk is visible, its surface a mid-grey tone. At the bottom right, the shadow of a pedestrian's footfall falls across the pavement in a sharp, dark shape. The lighting is harsh and direct, coming from directly overhead like a midday sun. It creates high-contrast, deep black shadows beneath the heads of the people. The light catches the edges of the fabric, turning the sleeves into silvery highlights against the charcoal tones of the cloth. The camera is positioned at a natural eye-level, looking directly into the intersection. The composition uses the leading lines of the street to draw the eye toward the center of the movement. The image captures a fleeting, kinetic moment of urban life, frozen in a state of intense, geometric motion. Balanced daylight, classic fine grain, a gesture landing exactly on the geometry, black and white."
+ },
+ {
+  "i": 4,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 42,
+  "prompt": "An evening tram stop in Lisbon, seen from a café across the street",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "04_rainy-window-abstract-portrait_s42_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. An evening tram stop in Lisbon, seen through a heavy veil of condensation and rain-streaked glass, forms the subject of this soft-focus photograph. A single figure, a middle-aged man in a charcoal wool coat and a deep navy scarf, stands waiting by the tram stop. His hands are tucked into his pockets, and his gaze is fixed toward the distant street, lost in thought. He wears a pair of dark trousers and leather boots that appear damp under the dim light. His face is partially obscured by the moisture on the glass, showing only the soft, pale outline of a profile. At the upper left, the blurred silhouette of a stone building facade recedes into a deep navy shadow. At the upper right, the warm amber glow of a nearby streetlamp spills into the grey atmosphere. Behind the subject, the street behind the café is a series of indistinct shapes and muted olive shadows. At the bottom left, the dark, out-of-focus edge of a café window frame cuts across the view. At the bottom right, the wet, reflective surface of a stone wall catches a faint, dim reflection of the man's coat. The lighting is dim and diffused, filtered through a thick layer of rainwater and fog. A warm, amber light from an unseen source on the street creates a soft, glowing effect against the cool, blue-grey tones of the night. The light catches the beads of water on the glass, creating tiny, blurred glints of gold. The camera is positioned at a medium distance, looking through the glass, making the subject appear as a fragment of a larger, misty scene. The focus is soft and shallow, with the tram stop and the café window frame acting as a heavy, dark foreground element that obscures much of the background. The image carries a sense of quiet, lonely contemplation, a moment of stillness captured behind a veil of rain. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 5,
+  "code": "rainy-window-abstract-portrait",
+  "seed": 7,
+  "prompt": "An evening tram stop in Lisbon, seen from a café across the street",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "05_rainy-window-abstract-portrait_s7_00001_.png",
+  "final_prompt": "A painterly muted-colour photograph seen through rain-streaked glass, the subject half-glimpsed beyond. An evening tram stop in Lisbon, seen from a café across the street, appears through a window of heavy condensation and rain-streaked glass. A small, dimly lit tram stop stands partially obscured by a dark, blurred silhouette of a café window frame at the bottom of the frame. The tram itself is a long, silver-grey shape, its metal surface catching a soft, amber glow from a distant streetlamp. A passenger, an elderly man in a heavy charcoal wool coat, sits motionless, his silhouette slightly softened by the moisture on the pane. His hands, aged and steady, rest heavily on his knees, hidden behind the thick condensation. At the upper left, the greyish-blue sky of dusk hangs low over the rooftops of the city, rendered as a soft, out-of-focus smear. At the upper right, the warm, amber light of a nearby streetlamp spills onto the wet, dark pavement, reflecting off the puddles in a series of soft, blurred streaks. Behind the subject, the street recedes into a deep, charcoal shadow, where the outlines of distant buildings fade into a hazy, warm-toned bokeh. At the lower left, the edge of a wooden table, stained a muted mahogany, enters the frame, its surface catching a faint, golden reflection. At the lower right, the dark, out-of-focus edge of a glass tabletop creates a heavy, black void that frames the entire scene. The lighting is dim and indirect, relying on a single, warm amber light source from an unseen streetlamp. This light catches the edges of the raindrops and the beads of condensation on the glass, creating a gentle, soft-focus rim of light. The surrounding environment remains in deep, low-contrast shadows, making the street appear cold and empty. The camera is positioned at a medium distance, looking through the glass, with a heavy foreground element that compresses the view. The focus is intentionally soft, leaving the tram and the street in a state of gentle, painterly blur. The image carries a sense of quiet, urban contemplation, a lonely moment caught between the warmth of the street and the coldness of the night. Rain on glass, soft reflections, warm muted colour, a quiet half-veiled glimpse."
+ },
+ {
+  "i": 6,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 42,
+  "prompt": "Portrait of an elderly potter from Kyoto holding a tea bowl",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "06_refined-minimalist-studio-portrait_s42_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. An elderly potter from Kyoto, holding a tea bowl, is the subject of this black and white portrait. The elderly potter's hands, deeply lined and weathered with a matte texture, wrap around the smooth, heavy ceramic of the tea bowl. His face, a map of deep wrinkles and a calm, steady gaze, rests partially in shadow. He wears a simple, loose-fitting robe of heavy linen, the fabric rendered in a soft mid-grey tone. His posture is upright and composed, suggesting a lifetime of practiced stillness. At the upper left, the background consists of a seamless, neutral grey void that provides no distraction. Behind the subject, a corner where two walls meet is visible, rendered in a subtle, charcoal gradation. To the right, the empty space remains a vast, unbroken expanse of light grey. At the lower edge, the surface upon which he sits is a matte, dark grey, providing a solid base for his presence. The lighting is a single, soft source from the side, casting a gentle, directional light across the texture of his skin and the glaze of the tea bowl. This light creates a subtle, silvery highlight on the rim of the ceramic. Shadows fall away from the light, creating a smooth transition from mid-grey to dense black. The camera is positioned at eye level, capturing a medium close-up that emphasizes the tactile quality of the hands and the bowl. The focus is sharp on the texture of the ceramic and the skin, while the edges of the frame fall into a soft, smooth blur. The image conveys a sense of quiet, enduring dignity through its minimalist restraint. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 7,
+  "code": "refined-minimalist-studio-portrait",
+  "seed": 7,
+  "prompt": "Portrait of an elderly potter from Kyoto holding a tea bowl",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "07_refined-minimalist-studio-portrait_s7_00001_.png",
+  "final_prompt": "A refined minimalist studio photograph against a plain grey seamless backdrop, in soft controlled side light. An elderly potter from Kyoto, seated with a tea bowl in hand, is captured in a refined, minimalist portrait. The elderly potter, a man in his advanced years with deeply lined skin and a calm, steady gaze, sits with a posture of quiet dignity. He wears a heavy, coarse-weave linen shirt in a muted charcoal tone, the fabric showing the texture of aged wool. His hands, thick and weathered, grip a small, hand-made tea bowl made of translucent, pale cream clay. The bowl's surface has a slight, deliberate glaze that catches a soft, diffused reflection. At the upper left, the background consists of a seamless, neutral grey void that provides no distraction. At the right, a sliver of a wooden workbench, stained a deep ochre, occupies the corner of the frame. Behind the subject, the space is empty, a vast, silent void that emphasizes the isolation of the figure. At the bottom, the edge of a low, dark mahogany table, polished to a matte finish, meets the floor in a soft, indistinct blur. The lighting is a single, soft, controlled source from the side, casting long, gentle shadows that define the ridges of the pottery and the lines in the skin. The light creates a smooth gradation across the face and the ceramic surface. A faint, warm amber glow catches the rim of the tea bowl. The camera is positioned at eye-level, creating a direct and intimate connection with the subject. The focus is sharply fixed on the texture of the clay and the hands, while the background remains a soft, underexposed grey. The image conveys a sense of profound, quiet reverence for the craft. A plain grey seamless ground, soft north-light, exquisite tonal gradation, a composed dignity."
+ },
+ {
+  "i": 8,
+  "code": "saturated-banal-monumental",
+  "seed": 42,
+  "prompt": "An ice cream truck parked outside a motel in Arizona",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "08_saturated-banal-monumental_s42_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. An ice cream truck parked outside a motel in Arizona is captured in a saturated, monumental close-up. The ice cream truck, a heavy metal and glass monolith, sits with its hood open, revealing a chaos of melting, glossy red and white ice cream. The chrome bumper gleams with a thick, oily sheen, reflecting the harsh midday sun. A single, oversized scoop of bright pink ice cream rests precariously near the door, looking like a mountain of candy. The metal body of the truck is a deep, blood-red, textured with fine, worn scratches and a heavy dusting of salt and grit. At the lower left, the asphalt ground is a dark, wet charcoal, reflecting the acid-yellow of the truck's side panels. At the upper left, the motel's white facade rises, a wall of cracked, sun-bleached plaster that shows the heavy, rhythmic patterns of heat-damage. Behind the subject, the desert landscape stretches into a hazy, amber void, where jagged rock formations appear as sharp, blood-red silhouettes against a hot, sun-bleached sky. At the right edge, a thin, winding strip of dirt and gravel runs toward the horizon, catching a sharp, stinging glare. In the background, a distant, skeletal tree line stands as a series of dark, jagged silhouettes against the intense, hot light. The lighting is harsh and direct, coming from a high, oblique angle typical of a midday heatwave. It creates deep, ink-black shadows under the truck's chassis and casts long, distorted streaks across the pavement. The light hits the metallic surfaces with an aggressive, blinding intensity, turning the red paint into a saturated, liquid-like glow. The camera is positioned at a low, oblique angle, looking up at the truck to make it loom over the scene. The focus is sharp on the texture of the ice cream and the metal, while the distant desert horizon blurs into a soft, colorful smear. The image carries a heavy, suffocating stillness, turning a mundane roadside moment into something monumental and strangely charged. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 9,
+  "code": "saturated-banal-monumental",
+  "seed": 7,
+  "prompt": "An ice cream truck parked outside a motel in Arizona",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "09_saturated-banal-monumental_s7_00001_.png",
+  "final_prompt": "A richly saturated dye-transfer colour photograph from an unexpected low angle, the everyday made monumental. An ice cream truck parked outside a motel in Arizona, captured in a saturated, monumental-style photograph. The ice cream truck, a heavy metal vehicle with a glossy, blood-red lacquer, sits motionless on the cracked asphalt. Its side panels are adorned with white, candy-pink lettering that reads \"ICE CREAM\" and \"TRUCK\" in a bold, blocky typeface. The glass windows of the truck reflect a distorted, acid-green glare from the desert sun. A single, large scoop of vanilla ice cream, frozen into a thick, heavy mound, rests upon the hood, its surface smooth and glassy. The metal bodywork shows a fine, granular texture of dust and heat. At the lower left, the ground is a vast expanse of parched, orange-colored dirt and jagged, sun-bleached pebbles. At the upper left, the desert sky is a deep, bruised purple, heavy with the heat of the afternoon. Behind the subject, the motel's architecture looms, a series of weathered, cream-colored concrete pillars and a flat, dark roofline. To the right, a row of empty, sun-drenched parking spaces recedes into a soft, out-of-focus distance. At the upper right, a cluster of low, skeletal desert shrubs stands against a sky of intense, hot yellow. Below the truck, the asphalt surface is a textured, uneven plane of deep ochre and burnt sienna. The lighting is harsh and direct, coming from a high, overhead angle typical of a midday heatwave. Long, dark shadows cast by the truck's chassis stretch away across the ground. The light catches the edges of the ice cream scoop, making the white cream appear as a bright, liquid silver. The camera is positioned at a low, oblique angle, nearly touching the ground to make the truck loom like a monolith. The focus is sharp on the front grill and the ice cream, while the motel and the desert background fall into a soft, heavy blur. The image presents a scene of intense, sun-drenched stillness, turning a mundane afternoon into something heavy and strangely permanent. Deep luminous colour, ordinary daylight, an ordinary thing looming strangely large."
+ },
+ {
+  "i": 10,
+  "code": "bw-dramatic-chiaroscuro",
+  "seed": 42,
+  "prompt": "Morning in an old tea house in Sheung Wan, Hong Kong",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "10_bw-dramatic-chiaroscuro_s42_00001_.png",
+  "final_prompt": "A dramatic black-and-white photograph, one hard shaft of light cutting through haze into deep shadow. A morning in an old tea house in Sheung Wan, Hong Kong, captured in a dramatic black and white photograph. A solitary figure sits in a low, dark wooden chair, hands resting heavily upon a heavy ceramic teapot. The person's face is partially obscured by a deep, charcoal shadow, leaving only the line of a jaw and a sharp, silvered profile visible. They wear a heavy, dark-toned silk robe that catches a sliver of light on its collar. Their gaze is directed toward nothing, lost in a quiet, heavy stillness. The tea pot, or perhaps just the presence of the steam, creates a soft, chalky white haze around the lower edge of the frame. At the upper left, the interior walls of the tea house recede into a dense, impenetrable black. At the right, a window or opening reveals a sliver of light through a thick, misty atmosphere. Behind the subject, the room's corners dissolve into a vast, empty void of mid-grey and shadow. At the bottom, the floor is a worn, dark timber planking that disappears into the darkness. In the background, the architectural details of the old tea house are lost to a heavy, atmospheric haze. The lighting is a single, harsh shaft of light cutting diagonally across the frame from the upper right. It strikes the side of the subject, creating a sharp, high-contrast rim-light effect. Long, geometric shadows stretch across the floor and the walls, separating the light from the dark. The camera is positioned at a low angle, looking slightly up at the seated figure. The composition relies on extreme contrast, using the darkness to push the subject toward the center of the frame. The image evokes a sense of profound, poetic solitude amidst the quietude of a forgotten place. A single beam of light, bold diagonal shadows, a still poetic solitude, black and white."
+ },
+ {
+  "i": 11,
+  "code": "bw-dramatic-chiaroscuro",
+  "seed": 7,
+  "prompt": "Morning in an old tea house in Sheung Wan, Hong Kong",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "11_bw-dramatic-chiaroscuro_s7_00001_.png",
+  "final_prompt": "A dramatic black-and-white photograph, one hard shaft of light cutting through haze into deep shadow. An old tea house in Sheung Wan, Hong Kong, is captured in a black and white photograph. A solitary figure, an elderly man in a heavy charcoal-toned silk robe, sits behind a low wooden counter, his hands resting idly on the dark timber. His face, lined with deep creases, is partially obscured by the heavy shadow cast by his head, leaving only the sharp profile of his jaw visible. He gazes toward the empty space beyond the window, his expression one of quiet, heavy contemplation. The silk of his robe catches a sliver of light, appearing as a smooth, chalky white against the dark wood. At the upper left, a thick, atmospheric haze swirls through the air, catching a single, hard beam of light that cuts through the misty morning. At the right, a tall, narrow window frame, weathered and worn, marks the boundary of the room. Behind the subject, the interior walls are lined with dark, heavy wooden beams, their textures rendered in deep, dense black. At the bottom, the floorboards show a coarse, grainy texture, disappearing into a pool of charcoal shadow. In the far background, the faint, silvery outlines of distant rooftops and narrow alleyways suggest a vast, silent cityscape. The lighting is a single, harsh shaft of light cutting diagonally across the frame from the upper right. It strikes the side of the man's face, creating a high-contrast rim-light effect. The rest of the room is swallowed by a deep, impenetrable blackness. The camera is positioned at a medium distance, looking slightly upward to emphasize the height of the room's architecture. The subject is placed off-center, leaving a large area of the frame to the left in total darkness. The image evokes a sense of profound, solitary stillness within a fading urban landscape. A single beam of light, bold diagonal shadows, a still poetic solitude, black and white."
+ },
+ {
+  "i": 12,
+  "code": "surreal-staged-monochrome",
+  "seed": 42,
+  "prompt": "A family picnic on the salt flats of Uyuni",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "12_surreal-staged-monochrome_s42_00001_.png",
+  "final_prompt": "A surreal, staged black-and-white photograph, forms placed like objects in vast, bright, empty space. A family picnic on the salt flats of Uyuni, captured in a stark black and white photograph. A small group of adults and children sit around a small, weathered wooden picnic table. The adults wear heavy, coarse linen shirts and loose trousers, their hands resting idly on their laps. A young child, perhaps a toddler, sits beside them, wearing a simple cotton shirt and heavy canvas trousers. Their expressions are blank, eyes fixed upward toward the vast, empty sky. The table itself is a dark, charcoal-toned piece of wood, showing deep grain and splintered edges. At the lower left, the salt flats extend toward the horizon, a vast expanse of chalky white and mid-grey textures. At the upper right, the sky meets the horizon in a sharp, clean line, a pale, featureless void. At the upper left, the salt flats continue, a repetitive pattern of cracks and shadows. Behind the subjects, the horizon line is a sharp, hard edge cutting through the white sky. At the bottom right, the salt flats fade into a soft, hazy blur. In the far background, the salt flats stretch out, an infinite, empty space. The lighting is harsh and direct, coming from a high, unseen sun that casts deep, ink-black shadows. The light hits the salt crystals, turning them into bright, silvery highlights. The light creates a sharp, high-contrast effect between the dark forms and the bright ground. The camera is positioned at a low angle, looking slightly up at the subjects to make them appear more prominent against the vastness. The composition is deadpan, placing the subjects off-center to emphasize the emptiness of the surrounding salt flats. The image carries a sense of quiet, absurd isolation, a private moment frozen in a vast, silent void. Vast pale emptiness, a low horizon, deadpan theatrical placement, playful and dreamlike, black and white."
+ },
+ {
+  "i": 13,
+  "code": "surreal-staged-monochrome",
+  "seed": 7,
+  "prompt": "A family picnic on the salt flats of Uyuni",
+  "aspect": "1:1",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "13_surreal-staged-monochrome_s7_00001_.png",
+  "final_prompt": "A surreal, staged black-and-white photograph, forms placed like objects in vast, bright, empty space. A family picnic on the salt flats of Uyuni is captured in a stark, black and white photograph. A small group of adults and children sit or stand around a central, low wooden picnic table. The adults wear loose-fitting linen shirts and heavy cotton trousers, their forms rendered in mid-grey tones. A young child sits cross-legged, wearing a simple, short-sleeved shirt that catches the silver light. Their hands, some holding a heavy ceramic jar, others resting on a smooth stone, appear as dark, charcoal shapes against the pale ground. At the upper left, a vast, empty sky meets a low, chalky horizon line. At the upper right, a single, weathered wooden spool rests upon a patch of salt, its texture rough and matte. Behind the subject, the salt flats extend toward a distant, empty horizon, the surface appearing as a flat, featureless expanse of silver. At the lower left, a discarded, folded cloth lies crumpled on the ground, its folds creating deep, dense black shadows. At the lower right, a small, smooth stone sits near a discarded, empty tin can, both lost in the wide, empty void. The lighting is harsh and direct, coming from a high angle that casts sharp, dark shadows away from the subject. The sun's glare turns the salt crystals into bright, glinting points of light. The sky remains a flat, featureless expanse of light grey. The camera is positioned at a low angle, looking slightly upward at the table and the people. The composition uses a wide, empty space to emphasize the isolation of the subjects. The image carries an air of quiet, absurd stillness, a private moment caught in a dreamlike, vast silence. Vast pale emptiness, a low horizon, deadpan theatrical placement, playful and dreamlike, black and white."
+ },
+ {
+  "i": 14,
+  "code": "bw-ink-wash-landscape",
+  "seed": 42,
+  "prompt": "A ferry crossing Lake Como in the early morning",
+  "aspect": "4:3",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "14_bw-ink-wash-landscape_s42_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. A ferry crossing Lake Como in the early morning is captured in this black and white photograph. The ferry, a heavy timber-hulled vessel, moves through the water, its hull rendered in charcoal tones against the lighter grey of the lake. Its metalwork, including the iron railing, catches a dim, silvery highlight that fades into a deep black as it recedes into the mist. The deck is empty, a vast expanse of mid-grey texture, suggesting a quiet, solitary passage. The water itself is a series of soft, overlapping gradients, where the surface breaks into fine, chalky white streaks representing the chop. At the upper left, the sky is a vast, empty void of pale, misty grey, blending into the horizon. At the right, the distant shore of Lake Como appears as a mere suggestion of a dark, charcoal silhouette, lost in the heavy fog. Below the ferry, the lake's surface is a chaotic web of soft, silvered highlights and deep, ink-like shadows. In the far background, the hills are nothing more than faint, wispy lines of mid-grey, dissolving into a thick, atmospheric haze. The entire frame is filled with a sense of vast, empty space and quietude. The lighting is diffuse and extremely low-contrast, coming from an unseen source above the fog. It creates no hard edges, only a gentle, softening of tones as things move away from the viewer. The light catches only the very edges of the hull and the ripples on the water, leaving the rest to fade into a heavy, painterly shadow. The camera is positioned at a low angle, looking up at the ferry to emphasize its scale against the mist. The focus is sharpest on the immediate surface of the water near the hull, while the rest of the scene falls into a soft, dreamlike blur. The image evokes a profound sense of isolation and the overwhelming stillness of a world waking in silence. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 15,
+  "code": "bw-ink-wash-landscape",
+  "seed": 7,
+  "prompt": "A ferry crossing Lake Como in the early morning",
+  "aspect": "4:3",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "15_bw-ink-wash-landscape_s7_00001_.png",
+  "final_prompt": "A soft, misty black-and-white photograph composed like an ink-wash scroll, with wide empty space. A ferry crossing Lake Como in the early morning is captured in this black and white photograph. The ferry, a heavy wooden structure with a dark, charcoal-toned hull, cuts a silhouette against the pale, misty sky. Its surface shows the texture of aged timber and salt-crusted iron, rendered in shades of mid-grey. The metalwork of the bow and stern is slightly lighter, catching a faint, silvery highlight from the approaching sun. A single, empty crate rests on the deck, appearing as a dense black shape amidst the lighter grey of the boat's frame. At the upper left, the sky dissolves into a soft, chalky white haze where the mist meets the horizon. At the upper right, the distant hills of Lake Como appear as indistinct, charcoal-colored smudges, lost in the heavy fog. Behind the subject, the water of the lake is a vast, empty expanse of pale, translucent grey, blending into the mist. At the lower left, the water's surface is a deep, ink-like shadow, suggesting a heavy, cold current. At the lower right, the shoreline is a mere suggestion of a dark, silhouetted outline, barely visible through the thick fog. The lighting is diffuse and extremely soft, coming from an invisible source behind the mist. It creates no hard shadows, only a gentle gradation of tone across the water's surface. The light catches nothing but the very edges of the ferry's hull, turning them into a subtle, silvery rim. The camera is positioned at a low angle, looking slightly upward at the ferry, making the vessel feel heavy and grounded. The focus is sharpest on the texture of the wood, while the surrounding landscape fades into a soft, painterly blur. The image evokes a sense of profound, reclusive stillness and isolation. Wide empty mist, soft ink-grey gradation, a pale paper tone, black and white."
+ },
+ {
+  "i": 16,
+  "code": "vintage-bw-elegant-candid",
+  "seed": 42,
+  "prompt": "A family buying fruit at a morning market in Hanoi",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "16_vintage-bw-elegant-candid_s42_00001_.png",
+  "final_prompt": "An elegant vintage black-and-white candid photograph in soft natural daylight. A family buying fruit at a morning market in Hanoi is captured in this black and white photograph. A middle-aged man, his hands weathered and thick with age, reaches for a cluster of large, heavy mangoes. Beside him, a young girl with a soft, rounded face and a gentle expression holds a small, smooth apple. Her small hands are tucked into a sleeve of a simple, short-sleeved cotton shirt. A woman's hands, pale and steady, reach toward a pile of ripe, dark bananas. Their expressions are caught in a moment of quiet, shared movement, unaware of the lens. At the upper left, the corner of a wooden stall frame, worn smooth by years of use, recedes into a soft, out-of-focus blur. At the right, a row of hanging sacks made of coarse jute weave hangs over the edge of the frame, casting long, soft shadows. Behind the subjects, the background is a dense, charcoal-toned depth of a market stall, where the textures of various containers and fabrics blend into a dark, indistinct mass. At the bottom, the ground consists of uneven, damp stone and a scattering of fallen, bruised fruit skins. To the far left, a portion of a vendor's apron, heavy with moisture, hangs partially visible. In the background, the distant, out-of-focus silhouette of a market stall's roofline creates a sense of vast, open space. The lighting is soft and diffused, coming from an overhead source that suggests the early morning sun filtering through a canopy above. It catches the slight sheen on the fruit's skin and the fine, dusting of grit on the man's hands. The light falls evenly across the scene, creating a range of silvery highlights and mid-grey tones. The camera is positioned at a low angle, level with the subjects' waist to create a sense of intimate, candid proximity. The focus is sharp on the textures of the fruit and the skin of the hands, while the surrounding market environment falls into a gentle, creamy bokeh. The image carries a quiet, affectionate sense of a peaceful morning in a busy city. Soft classic grain, gentle daylight, a quiet everyday grace, black and white."
+ },
+ {
+  "i": 17,
+  "code": "vintage-bw-elegant-candid",
+  "seed": 7,
+  "prompt": "A family buying fruit at a morning market in Hanoi",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "17_vintage-bw-elegant-candid_s7_00001_.png",
+  "final_prompt": "An elegant vintage black-and-white candid photograph in soft natural daylight. A family buying fruit at a morning market in Hanoi is captured in this black and white photograph. A middle-aged man with a weathered face and short, dark hair holds a basket of heavy, bruised fruit, his hands calloused and steady. Beside him, a young woman with a soft, calm expression reaches for a cluster of bright, citrus-colored orbs, her fingers brushing against the smooth, waxy skin. A small child, perhaps a toddler, stands nearby, looking up with wide, curious eyes at the arrangement, dressed in a simple, light-colored cotton shirt. The man wears a worn, linen shirt that shows the texture of fine weave, while the woman's garment is a light, flowing silk that catches the light. At the upper left, the background dissolves into the soft, out-of-focus shapes of hanging fabrics and hanging lanterns typical of a Hanoi market. At the upper right, a wooden stall or shelf recedes into a mid-grey blur, suggesting the depth of the market space. Behind the subject, the blurred movement of other shoppers creates a sense of a bustling, life-filled environment. At the bottom edge, a pile of discarded, fallen fruit lies in a soft, charcoal-toned heap, partially visible under the edge of a tray. To the left, the shadows cast by the stalls fall away into deep, dense blacks, separating the subjects from the surrounding alleyway. The lighting is soft and diffused, coming from an overhead source that mimics the early morning sun filtering through a canopy. It creates a gentle, even wash over the subjects' faces, leaving only subtle, silvery highlights on the edges of the fruit. The shadows are not harsh, but rather a natural gradient of mid-greys that define the texture of the textiles and the skin. The camera is held at a medium distance, slightly low to the subjects' eye level, creating a sense of intimate, candid observation. The focus is sharpest on the hands and the fruit, while the rest of the scene falls into a soft, creamy bokeh. The image carries a quiet, nostalgic sense of a peaceful, ordinary morning in a city. Soft classic grain, gentle daylight, a quiet everyday grace, black and white."
+ },
+ {
+  "i": 18,
+  "code": "hyper-saturated-cinematic-unease",
+  "seed": 42,
+  "prompt": "A bride fixing her makeup in a Las Vegas hotel bathroom",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "18_hyper-saturated-cinematic-unease_s42_00001_.png",
+  "final_prompt": "A hyper-saturated cinematic colour photograph, lacquered Technicolor perfection with a quiet unease. A bride fixing her makeup in a Las Vegas hotel bathroom is captured in a cinematic, hyper-saturated film still. The bride, a woman in her late twenties with a doll-like, blank expression, sits perfectly still on a lacquered vanity. She wears a sheer, candy-pink slip dress that clings to her shoulders, and her hands, pale and manicured, move with a mechanical precision toward a mirror. A heavy, blood-red lipstick is applied with a steady hand, and a single, thick eyeliner stroke marks her eye. Her gaze drifts aimlessly toward a point just beyond the lens, her posture perfectly upright and unnervingly still. At the upper left, a wall of acid-green marble tiles recedes into a deep, dark shadow. At the right, a high-gloss, glossy chrome drain or faucet reflects a distorted, hyper-saturated version of the room's walls. Behind the subject, a row of polished, obsidian-colored towels hangs in perfect, rigid folds. At the bottom, the floor is a slick, candy-pink linoleum that catches a sharp, specular reflection of the overhead light. The lighting is harsh and directional, coming from a single, intense source above the mirror. It creates deep, ink-black shadows and causes the surfaces to glow with an unnatural, saturated sheen. Every reflective surface, from the chrome to the glass, catches a sharp, blindingly bright glint. The camera is positioned at a medium distance, eye-level with the bride, creating a sense of intimate, staged voyeurism. The focus is sharply fixed on the bride's hands and face, while the edges of the frame dissolve into a soft, cinematic blur. The scene possesses a manic, hyper-real perfection that feels staged and deeply unsettling. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ },
+ {
+  "i": 19,
+  "code": "hyper-saturated-cinematic-unease",
+  "seed": 7,
+  "prompt": "A bride fixing her makeup in a Las Vegas hotel bathroom",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "19_hyper-saturated-cinematic-unease_s7_00001_.png",
+  "final_prompt": "A hyper-saturated cinematic colour photograph, lacquered Technicolor perfection with a quiet unease. A bride fixing her makeup in a Las Vegas hotel bathroom is captured in a hyper-saturated, cinematic studio-style photograph. The bride, a young woman with a doll-like stillness, sits on a lacquered vanity. She wears a heavy, blood-red silk slip that clings to her form, and a structured, acid-pink satin gown that spills over the edge of the counter. Her hands, pale and smooth, hold a small, silver-toned mirror. Her gaze is blank, drifting toward a point beyond the lens, while a professional makeup artist with a face like polished porcelain stands behind her, hands steady and unmoving. At the upper left, a wall of deep emerald green marble runs vertically, reflecting the overhead light with a wet, glossy sheen. At the upper right, a row of chrome-handled glassware sits on a shelf, their surfaces reflecting a hot, candy-pink light. Behind the subject, a tall, sleek mirror with a heavy, black frame reflects the entire room, its surface perfectly smooth and unblemated. At the bottom left, a tray of expensive, lacquered cosmetics in shades of poison green and hot pink sits on the polished wood. At the bottom right, the edge of the vanity shows a reflection of the bride's hair, a glossy, honey-blonde mass catching a sharp, clinical light. The lighting is harsh and directional, coming from a single source above the vanity to create deep, ink-black shadows. The light catches the glossy surfaces of the makeup, turning the powder into a bright, saturated white. Every highlight is sharp and clinical, making the skin and the silk appear unnaturally smooth. The camera is positioned at a low angle, looking slightly upward at the bride to emphasize the staged, theatrical atmosphere. The foreground and background are sharply focused, creating a sense of a perfectly ordered, staged scene. The image carries a sense of staged perfection, heavy with an underlying, quiet unease. Technicolor saturation, flawless lacquered surfaces, doll-like stillness, unease behind the perfection."
+ },
+ {
+  "i": 20,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 42,
+  "prompt": "A young man on a smoke break outside a steel mill in Kaohsiung",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "20_raw-bw-cinematic-portraits_s42_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A young man on a smoke break outside a steel mill in Kaohsiung is captured in this black and white photograph. The young man, appearing in his early twenties with a lean build, sits on a concrete ledge, his face partially obscured by a cloud of drifting smoke. He wears a heavy, dark woollen sweater over a simple cotton shirt, the fabric showing a coarse, tactile weave. His hands, calloused and large, grip the sides of a ceramic mug, the liquid inside appearing as a mid-grey slurry. His expression is one of quiet, heavy thought, eyes looking toward the distant horizon, skin showing fine lines and pores under the overcast sky. At the upper left, the sky is a vast, chalky white void, devoid of clouds, pressing against the dark metal silhouettes of the mill. At the right, a rusted steel beam or pipe runs horizontally, its surface a complex map of charcoal tones and deep black shadows. Behind the subject, the industrial landscape of the steel mill stretches into a soft, out-of-focus blur of mid-greys and silvery highlights. At the bottom, the ground is a textured expanse of cracked asphalt and scattered debris, rendered in shades of dark grey. To the left, a heavy iron railing, pitted and worn, cuts a hard line across the frame. The lighting is flat and diffused, characteristic of a heavy, overcast sky that eliminates harsh shadows. Light catches the edges of the smoke, turning it into a soft, silvery haze. No direct light source is visible, leaving the entire scene in a range of subtle, atmospheric greys. The camera is positioned at a medium distance, level with the man's chest, creating a sense of intimate proximity. The foreground is sharp, while the industrial structures in the background fall into a soft, cinematic blur. The image carries a heavy, melancholic stillness, capturing a moment of quiet reflection amidst a vast, indifferent industrial environment. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ },
+ {
+  "i": 21,
+  "code": "raw-bw-cinematic-portraits",
+  "seed": 7,
+  "prompt": "A young man on a smoke break outside a steel mill in Kaohsiung",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "21_raw-bw-cinematic-portraits_s7_00001_.png",
+  "final_prompt": "A raw, cinematic black-and-white photograph in soft overcast light, grainy and unretouched. A young man on a smoke break outside a steel mill in Kaohsiung is captured in this black and white photograph. The man, a young adult with a lean build, sits slumped on a concrete ledge, his face partially obscured by a heavy, chalky white cloud of smoke. His hands, weathered and large, grip the handle of a cylindrical object, sending a thin, drifting plume into the air. He wears a thick, textured woollen sweater over a simple cotton shirt, the fabric showing deep folds and a matte, charcoal texture. His eyes are cast downward, focused on the empty space between his legs, his expression one of quiet, heavy exhaustion. A stray lock of dark hair brushes against his cheek, catching a sliver of silvery highlight. At the upper left, the skeletal framework of the steel mill rises into a mid-grey sky, its iron beams appearing as dark, jagged silhouettes against the overcast light. At the upper right, a rusted metal railing runs horizontally, its surface a series of deep, charcoal-toned scratches and pits. Behind the subject, the industrial landscape of the mill yard stretches away, a series of repetitive, dark shapes that blend into a soft, out-of-focus grey. At the bottom left, the ground consists of cracked, light-toned concrete and scattered, damp debris. At the bottom right, the shadows cast by the man's posture stretch long and soft across the uneven pavement. The lighting is dim and diffuse, filtered through a thick layer of clouds that washes out all hard edges. A soft, ambient light catches the edges of the smoke, making the particles appear as bright, dancing specks of silver. The rest of the scene falls into a deep, even shade of charcoal. The camera is positioned at a low angle, level with the man's waist, creating a sense of intimate proximity. The foreground elements are slightly soft, while the structural elements of the mill in the background remain partially visible but out of focus. The image carries a heavy, somber mood, a quiet moment of isolation amidst the vast, industrial weight of the city. Visible grain, soft natural light, real skin texture, honest and cinematic."
+ },
+ {
+  "i": 22,
+  "code": "high-gloss-noir-glamour",
+  "seed": 42,
+  "prompt": "A woman in an evening gown on the terrace of the Monte Carlo casino",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "22_high-gloss-noir-glamour_s42_00001_.png",
+  "final_prompt": "A glossy, hard-lit, high-contrast noir glamour photograph. A woman in an evening gown stands on the terrace of the Monte Carlo casino, captured in a high-contrast black and white glamour photograph. The woman is a mature adult with a sharp, commanding presence, her face a mask of cold, unyielding stare. She wears a floor-length evening gown made of heavy, liquid-like silk that clings to her form, the fabric catching a harsh, silvery highlight along its folds. Her hands, pale and steady, rest against the dark stone railing. Her expression is one of detached, dangerous poise, eyes fixed directly upon the lens with a gaze that feels like a blade. At the upper left, the sky above the terrace is a void of dense, inky black. Behind the subject, the distant silhouette of the Monte Carlo casino rises like a monolithic, dark structure against the night. At the right edge, the dark, polished marble of the terrace floor reflects a sliver of hard light. In the lower foreground, the texture of the stone terrace is rendered in deep charcoal tones, showing only the faint, sharp glint of a reflection. At the bottom edge, the shadows are absolute and heavy, swallowing the ground in a total blackness. The lighting is a single, hard directional source from the side, casting a long, sharp shadow across the terrace. This light hits the silk of the gown, turning the fabric into a field of brilliant, chalky white. The rest of the scene falls into deep, cinematic shadows. The camera is positioned at a low angle, looking slightly up at the subject to grant her a statuesque, commanding height. The framing is tight, focusing on her entire figure to create a sense of isolation and power. The image carries a heavy, noir-inspired tension, a scene of cold, polished luxury and quiet menace. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 23,
+  "code": "high-gloss-noir-glamour",
+  "seed": 7,
+  "prompt": "A woman in an evening gown on the terrace of the Monte Carlo casino",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "23_high-gloss-noir-glamour_s7_00001_.png",
+  "final_prompt": "A glossy, hard-lit, high-contrast noir glamour photograph. A woman in an evening gown stands on the terrace of the Monte Carlo casino in a high-gloss, cinematic noir still. The woman is a mature adult with a commanding presence, her head held high and her gaze directed straight into the lens with a cold, unyielding stare. She wears a floor-length evening gown of deep crimson silk that catches the light with a heavy, lacquered sheen. The fabric bunches and folds under her weight, showing the smooth, polished texture of the silk. Her hands are poised by her sides, fingers long and steady, while her posture projects an air of absolute authority. Her skin has a pale, porcelain-like quality, catching a sharp, glinting reflection from the overhead light. At the upper left, the vast, dark expanse of the Mediterranean sea meets the horizon, visible through a haze of salt spray and deep charcoal shadows. At the upper right, the distant silhouette of the casino's architectural spires rises against a night sky of midnight blue. Behind the subject, the terrace floor is composed of polished, dark grey marble that reflects the surrounding lights in sharp, distorted streaks. To the lower left, a heavy, dark velvet curtain hangs in deep, inky folds, obscuring any view of the interior. To the lower right, the edge of a marble pillar rises up, its surface slick with a thin, wet sheen. At the bottom edge, the ground recedes into a void of absolute blackness. The lighting is a hard, directional flash that creates high-contrast, sharp-edged shadows. A cold, white light hits the subject from the front, making the crimson silk glint with a piercing, liquid-like quality. The surrounding environment is swallowed by deep, inky blacks, where the only reflections are sharp, metallic glints. The camera is positioned at a medium height, looking slightly upward to grant the subject a statuesque, monumental quality. The focus is razor-sharp on the woman's face and the texture of her gown, while the background elements fall into a soft, cinematic blur. The image radiates a sense of dangerous, noir-inspired power and a chilling, cinematic tension. Hard light, deep noir blacks, a cold commanding gaze."
+ },
+ {
+  "i": 24,
+  "code": "minimalist-color-landscapes",
+  "seed": 42,
+  "prompt": "A lone bus stop on the coast road in Iceland",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "24_minimalist-color-landscapes_s42_00001_.png",
+  "final_prompt": "A painterly minimalist colour photograph, the scene reduced to bold simple fields of colour and form. A lone bus stop on a coast road in Iceland is captured in a minimalist, painterly composition. The bus stop stands as a singular, geometric block of acid-yellow, its metal surface smooth and reflective. A single, heavy metal pole rises from the base, a thick silhouette against the sky. The metal of the structure shows a matte, weathered texture, catching a sharp glint of light. It sits perfectly still, a bold shape amidst the vastness. At the upper left, a deep, blood-red sky stretches toward a horizon line. At the upper right, the ocean waves appear as a solid, saturated cobalt blue. Behind the subject, the coast road curves away into a void of intense, solid violet. At the lower left, the ground is a flat, dark charcoal plane. At the lower right, the road surface is a flat, hard black stripe. The entire background is a void of saturated, non-naturalistic color. The lighting is harsh and direct, coming from an unseen high sun. It creates a sharp, clinical reflection on the yellow metal surfaces. Shadows are short, black, and fall directly behind the bus stop onto the road. The camera is positioned at a low angle, looking up at the bus stop to emphasize its isolation. The horizon line is placed low in the frame to create a sense of immense, open space. The image evokes a sense of profound, lyrical isolation. Bold simple colour fields, generous emptiness, clean luminous light, a lyrical stillness."
+ },
+ {
+  "i": 25,
+  "code": "minimalist-color-landscapes",
+  "seed": 7,
+  "prompt": "A lone bus stop on the coast road in Iceland",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "25_minimalist-color-landscapes_s7_00001_.png",
+  "final_prompt": "A painterly minimalist colour photograph, the scene reduced to bold simple fields of colour and form. A lone bus stop stands as a heavy, dark silhouette against a vast, acid-blue sky in this minimalist landscape photograph. The bus stop is a small, rectangular structure of weathered stone and metal, its surface a matte charcoal-grey. It sits directly on the coast road, a strip of smooth, dark slate-grey asphalt that stretches toward the horizon. The metal handrail of the bus stop is a deep, blood-red, reflecting nothing but the surrounding void. There are no people present, only the heavy, unmoving weight of the station and the road. At the bottom of the frame, the coast road runs horizontally, a solid block of dark, wet-looking slate-grey. To the left, the road tapers into a soft, out-of-focus blur of dark grey. At the upper left, the sea meets the sky in a sharp, clean line of acid-blue. Behind the subject, the ocean is a flat, saturated cobalt-blue plane. At the upper right, the sky is a solid, empty field of acid-blue. At the lower right, the road continues its dark, straight path. The lighting is a flat, clinical glare from an overhead, overcast sky. There are no direct shadows, only a uniform, diffused light that hits the stone with a dull, matte finish. The light creates no highlights on the road, leaving it entirely in shadow. The camera is positioned at a low, eye-level angle relative to the road. The bus stop is placed centrally, acting as a single, bold form against the open fields of color. The image carries a sense of profound, lyrical isolation and stillness. Bold simple colour fields, generous emptiness, clean luminous light, a lyrical stillness."
+ },
+ {
+  "i": 26,
+  "code": "soft-warm-nostalgic",
+  "seed": 42,
+  "prompt": "Two sisters eating shaved ice on a porch in Okinawa",
+  "aspect": "4:3",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "26_soft-warm-nostalgic_s42_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. Two sisters eating shaved ice on a porch in Okinawa, captured in a soft, nostalgic film photograph. A young woman and a younger child sit close together, their hands active as they eat. The older sister, a teenager with a soft face and long, sun-bleached hair, wears a loose, pale cream linen shirt. She holds a small bowl of shaved ice, her fingers moving toward her mouth with a quiet, rhythmic grace. Beside her, a younger child, perhaps a toddler, sits with a wide, joyful expression, wearing a simple, faded lilac cotton dress. Their hands, small and steady, reach for the white, crushed sugar ice, which they hold up to their lips. At the upper left, the view opens onto a garden of muted sage and pale sage grass under a soft, hazy sky. Behind the subjects, a wooden porch floor made of weathered, light oak planks recedes into a soft blur. At the right, a wrought-iron railing, brushed with a fine, dusty patina, frames the view. In the background, a distant, out-of-focus house wall shows a hint of warm terracotta and pale grey stone. At the bottom, the edge of a woven wicker chair, colored in a faded olive, sits partially out of frame. The lighting is a warm, golden afternoon sun coming from behind the subjects, creating a soft rim of light along their hair and shoulders. The light is low and gentle, catching the tiny, crystalline fragments of ice and making them glint with a milky, pearlescent sheen. Long, soft shadows stretch away from the porch, keeping the corners of the frame in a gentle, muted dimness. The camera is positioned at a low angle, level with the children's eyes, creating a sense of intimate, shared presence. The focus is sharp on the textures of the ice and the hands, while the background and foreground elements melt into a soft, dreamlike bokeh. The image carries a heavy, quiet ache, a tender moment of childhood warmth caught in a fading, sun-drenched memory. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 27,
+  "code": "soft-warm-nostalgic",
+  "seed": 7,
+  "prompt": "Two sisters eating shaved ice on a porch in Okinawa",
+  "aspect": "4:3",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "27_soft-warm-nostalgic_s7_00001_.png",
+  "final_prompt": "A soft natural-light medium-format film photograph in warm muted pastels, airy and gentle. Two sisters eating shaved ice on a porch in Okinawa, captured in a soft, nostalgic film photograph. A young woman with a calm, smiling expression sits beside her younger sister, both focused on the frozen treat. The older sister wears a loose, pale cream sundress with a thin hem, her hands gently holding a small, heavy container of shaved ice. The younger sister, perhaps a child, wears a simple, muted blue cotton shirt, her small hands reaching toward the container. Their eyes are bright with a quiet, joyful anticipation, caught in a moment of shared intimacy. The shaved ice itself is a swirl of white and pale blue, appearing as a soft, melting texture against the dark, opaque liquid. At the upper left, a section of a weathered wooden floor, stained a warm terracotta, recedes into a soft blur. Behind the subject, the porch extends toward a view of a sun-drenched garden, where the deep green leaves of a hibiscus plant catch a warm, golden light. At the right edge, a heavy, dark timber pillar, finished in a dusty charcoal, supports the porch structure. Below the subjects, the floorboards show a fine, natural grain, catching a soft, amber reflection. In the far background, a distant, sun-bleached wall of a traditional house shows a muted ochre hue, fading into a hazy, warm haze. The lighting is a warm, low afternoon sun coming from behind the subjects, creating a soft rim-light effect along their hair and shoulders. This light lifts the shadows and turns the edges of the shaved ice into a bright, glowing white. The overall light is generous and soft, imbuing the scene with a sense of gentle warmth. The camera is positioned at a medium distance, level with the subjects, using a shallow depth of field that keeps the sisters sharp while the porch and background fall into a soft, dreamy blur. The framing leaves a generous amount of empty space around the subjects, allowing them room to breathe within the open space of the porch. The photograph captures a quiet, tender moment of siblinghood, a fleeting memory held in a soft, golden light. Soft afternoon light, muted pastel warmth, fine gentle grain, a moment already turning into memory."
+ },
+ {
+  "i": 28,
+  "code": "van_gogh_style",
+  "seed": 42,
+  "prompt": "A noodle stall at Raohe night market in Taipei",
+  "aspect": "4:5",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "28_van_gogh_style_s42_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts a noodle stall at the Raohe night market in Taipei, rendered with thick, swirling impasto. A vendor, an elderly man with deep-set eyes and a heavy build, leans over his workbench. He wears a coarse, sleeveless tunic of acid-yellow silk and heavy trousers of dark indigo. His hands, gnarled and stained with ink, move with rhythmic energy as he prepares a bowl of noodles. The noodles themselves are thick, glossy ribbons of white and cream-colored paint, swirling like liquid light. A heavy ceramic bowl sits on the wooden board, its surface rippled with thick, directional strokes of cobalt blue. At the upper left, the dark, textured background shows the movement of a crowded street, where the silhouettes of passersby swirl in shades of violet and emerald. At the upper right, the neon signs of the market flicker with acid-pink and electric-blue strokes that pulse against the blackness. At the bottom left, the ground is a chaotic arrangement of discarded wrappers and spilled sauce, all rendered in thick, impasto ridges of burnt orange and cadmium red. At the bottom right, the corner of the stall's wooden frame is visible, its grain rendered in sharp, dark strokes of charcoal and sienna. Behind the subject, the distant street lights of the market create a sense of depth through swirling rings of hot yellow and orange. The lighting is provided by the internal glow of the stall, casting long, distorted shadows that dance across the textures. A warm, amber light pulses from a hidden source, catching the edges of the thick paint ridges. The light itself seems to vibrate, creating a sense of intense, heartfelt vitality. The viewpoint is low, close to the wooden board, making the viewer feel part of the rush. The composition uses a tight, claustrophobic focus on the vendor's hands and the noodles, while the background remains a chaotic, beautiful blur of motion. The entire scene vibrates with a restless, emotional energy that captures the pulse of a city at night. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 29,
+  "code": "van_gogh_style",
+  "seed": 7,
+  "prompt": "A noodle stall at Raohe night market in Taipei",
+  "aspect": "4:5",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "29_van_gogh_style_s7_00001_.png",
+  "final_prompt": "An oil painting in the style of Van Gogh, thick impasto in swirling directional brushstrokes and vivid complementary colour. An oil painting depicts a noodle stall at the Raohe night market in Taipei, where thick, swirling ridges of paint suggest a restless, vibrant energy. A vendor, an older man with a weathered face and deep-set eyes, leans over his workbench. He wears a heavy, coarse linen shirt in a shade of acid-yellow, the fabric rendered in thick, impasto strokes that ripple like waves. His hands, large and calloused, move with rhythmic, expressive strokes as he prepares a bowl of noodles. Beside him, a ceramic bowl, heavy with liquid broth, catches a ring of light, its surface a series of thick, swirling glazes in cobalt and emerald. The noodles themselves are thick, heavy ropes of white paint, coiling and twisting around a wooden spatula. At the upper left, the night sky over Taipei is a chaotic swirl of ultramarine and deep violet, the stars appearing as bright, pulsing orbs of chrome-yellow. At the upper right, the market stalls fade into a blur of hot orange and blood-red, suggesting the movement of passing crowds. Behind the subject, the street of the night market is a dense, textured thicket of indigo and black, where shadows dance in rhythmic, heavy impasto. At the lower left, the pavement of the market is a smear of dark brown and burnt sienna, the cracks catching a glint of reflected light. At the lower right, a stack of steaming bowls sits on a wooden table, the steam rendered as thick, curling ribbons of white paint. The lighting is a series of intense, directional glints that pulse from unseen overhead sources. Light hits the edges of the ceramic bowls, creating sharp, bright highlights against the dark shadows. The colors themselves seem to glow, casting long, restless shadows across the scene. The viewpoint is a close-up, slightly low, looking up at the vendor to emphasize the physical presence of the market. The focus is sharp on the texture of the noodles and the hands, while the background dissolves into a soft, impressionistic haze of heavy brushstrokes. The entire composition vibrates with an intense, heartfelt vitality, capturing the soul of a city at night. Thick swirling impasto, cobalt against chrome yellow, pulsing light, visible canvas and paint ridges."
+ },
+ {
+  "i": 30,
+  "code": "monet_style",
+  "seed": 42,
+  "prompt": "A rowing boat on West Lake in Hangzhou at dawn",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "30_monet_style_s42_00001_.png",
+  "final_prompt": "An Impressionist oil painting in the style of Monet, short broken strokes of pure colour catching fleeting light. An Impressionist oil painting depicts a rowing boat on West Lake in Hangzhou at dawn. A small wooden rowing boat, its hull a textured ochre and burnt sienna, glides through the water. Two rowers, a man and a woman, lean forward in a rhythmic motion, their forms rendered in quick, broken strokes of pale cream and soft peach. Their hands grip oars made of dark walnut wood, the blades slicing through the surface with a sense of quiet purpose. The man wears a loose linen shirt in a shade of muted sage, while the woman wears a flowing silk robe in a deep navy that catches the light. Their expressions are mere suggestions of focused intent, lost in the mist. At the upper left, the horizon line dissolves into a heavy, misty wash of pale lavender and soft blue. At the upper right, the distant hills of Hangzhou appear as blurred strokes of warm terracotta and muted olive against a pale sky. Below the water, the surface of the lake is a series of horizontal, shimmering strokes in cerulean and silver-grey. At the lower left, a cluster of reeds and willows is suggested by vertical, broken lines of deep forest green. At the lower right, the water recedes into a dark, opaque shadow of charcoal and indigo. The entire background is a soft, vibrating haze of dawn light. The lighting is a diffused, cool morning light, filtering through a thick layer of mist. It catches the edges of the wooden hull in flickering, pale gold highlights. Long, violet-toned shadows stretch across the rippling water. The viewpoint is low, close to the water's surface, making the boat appear larger and more immediate. The focus is soft, with the edges of the frame dissolving into the atmospheric haze of the lake. The scene captures a fleeting, luminous moment of quietude and natural movement. Broken strokes of pure colour, coloured shadows, shimmering reflections, fresh fleeting light."
+ },
+ {
+  "i": 31,
+  "code": "monet_style",
+  "seed": 7,
+  "prompt": "A rowing boat on West Lake in Hangzhou at dawn",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "31_monet_style_s7_00001_.png",
+  "final_prompt": "An Impressionist oil painting in the style of Monet, short broken strokes of pure colour catching fleeting light. An impressionist oil painting depicts a rowing boat on West Lake in Hangzhou at dawn, where the light catches the surface of the water. The rowing boat is a small, weathered wooden vessel, its hull rendered in strokes of burnt sienna and pale ochre. Two rowers, a man and a woman, sit within the boat, their forms suggested by short, broken strokes of warm tan and deep navy. The man wears a heavy, dark charcoal tunic, while the woman wears a flowing linen slip in a shade of muted cream. Their hands, partially visible through the translucent oil, move in rhythmic, expressive strokes of cobalt and violet. Their gazes are directed toward the distant shore, lost in the shimmering mist. At the upper left, the sky transitions from a bruised purple to a soft, pale lavender, blending into the mist. At the upper right, the silhouettes of distant hills appear as soft, smudged strokes of deep indigo. At the bottom left, the water's surface breaks into horizontal, flickering strokes of gold and pale turquoise. At the bottom right, the reflection of the lake's edge shimmers with broken, shimmering strokes of pale amber and muted olive. Behind the boat, the misty horizon dissolves into a void of soft, out-of-focus blues and silvers. The lighting is a diffuse, cool dawn light that catches the edges of the water in flickering, golden-white highlights. Shadows are cast in deep, violet and blue-grey tones, melting into the mist. The sunlight filters through a heavy, damp atmosphere, creating a shimmering, broken effect on the water's surface. The composition uses a low, tilted angle to make the boat feel small and transient against the vastness. The focus is soft, with the edges of the frame dissolving into a dreamlike, impressionistic haze. The entire scene vibrates with the fleeting, luminous energy of a moment before the sun rises. Broken strokes of pure colour, coloured shadows, shimmering reflections, fresh fleeting light."
+ },
+ {
+  "i": 32,
+  "code": "hokusai_style",
+  "seed": 42,
+  "prompt": "The Golden Gate Bridge in the fog",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "32_hokusai_style_s42_00001_.png",
+  "final_prompt": "A Japanese woodblock print in the style of Hokusai, bold outlines and flat layered colour, Prussian blue and indigo. A woodblock print depicts the Golden Gate Bridge through a heavy, swirling fog. The massive steel girders of the Golden Gate Bridge are rendered in flat, overlapping planes of charcoal and slate grey. The towers, thick and heavy, rise upward with sharp, bold outlines against the mist. The bridge's suspension cables are represented by rhythmic, flowing lines of deep indigo. The entire structure is a series of geometric shapes that cut through a void of pale, milky white. At the upper left, the fog manifests as a dense, swirling pattern of pale cream and soft grey clouds. At the upper right, the fog is even more opaque, appearing as a solid, textured wash of off-white paper grain. Behind the subject, the bay is a flat expanse of muted navy and slate blue. At the bottom left, the water meets the fog in a series of stylized, curling waves in shades of Prussian blue. At the bottom right, the fog thickens into a heavy, opaque texture of warm charcoal. The lighting is non-existent, replaced by the absence of any direct light source, resulting in a flat, even wash of grey tones. The fog catches no light, appearing instead as a vast, empty space of muted tones. There are no shadows, only the heavy, graphic weight of the paper. The composition uses a daring, low-angle perspective where the bridge forms a strong diagonal across the frame. The fog is used to create a sense of depth through the use of overlapping, layered planes of color. The image evokes a sense of isolation and the overwhelming presence of the natural elements. Bold flowing outlines, flat layered woodblock colour, stylised waves and clouds, wood and paper texture."
+ },
+ {
+  "i": 33,
+  "code": "hokusai_style",
+  "seed": 7,
+  "prompt": "The Golden Gate Bridge in the fog",
+  "aspect": "3:2",
+  "size": [
+   1248,
+   832
+  ],
+  "image": "33_hokusai_style_s7_00001_.png",
+  "final_prompt": "A Japanese woodblock print in the style of Hokusai, bold outlines and flat layered colour, Prussian blue and indigo. A woodblock print of the Golden Gate Bridge in the fog. The massive steel cables of the Golden Gate Bridge stretch across the frame, rendered in flat planes of charcoal and slate-grey. The suspension cables are represented by thick, flowing lines of deep indigo that cut through the heavy, swirling patterns of mist. The towers, though appearing as solid blocks of dark ochre, are partially obscured by the dense, stylized patterns of white and pale cream fog. A single, small figure, a silhouette of a person wearing a dark navy coat, stands near a railing, captured only as a sharp black outline against the lighter background. The person's face is a mere suggestion of a head, rendered in a flat, dark grey. At the upper left, the sky is a vast expanse of pale cream and soft pink, where the clouds are drawn as rhythmic, overlapping curls of white. At the upper right, the fog becomes a dense, opaque wall of muted silver and grey, obscuring any sense of horizon. At the bottom left, the bay water is a series of horizontal, repetitive waves in shades of Prussian blue and deep navy. At the bottom right, the shore is a collection of jagged, dark lines representing cliffs, lost in a thick, heavy mist. Behind the subject, the entire scene is a study in overlapping geometric shapes of indigo and slate-blue, where the bridge's architecture meets the void of the fog. The lighting is flat and diffused, as if filtered through a thick, heavy layer of mist. No direct light source is visible, only the way the fog catches the grey tones of the sky. Shadows are non-existent, replaced by solid blocks of darker indigo and charcoal. The composition uses a daring, diagonal line created by the bridge's cables to lead the eye toward the central figure. The viewpoint is low, looking up at the bridge, making the structure appear immense and imposing against the soft, graphic patterns of the fog. The work carries a sense of isolation and a heavy, quiet tension within the mist. Bold flowing outlines, flat layered woodblock colour, stylised waves and clouds, wood and paper texture."
+ },
+ {
+  "i": 34,
+  "code": "swiss-international-style",
+  "seed": 42,
+  "prompt": "A poster for the Busan film festival",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "34_swiss-international-style_s42_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A poster for the Busan film festival is presented here in a clean, modular layout. The poster features a large, bold headline reading \"Busan Film Festival\" in a stark white, neo-grotesque sans-serif typeface. Below the title, a secondary line reads \"International Film Festival\" in a much smaller, precise font. The entire design is structured around a strict grid, using black and white as its base colors. A single, sharp red geometric bar runs vertically down the left side of the frame, acting as a structural element. The background is a flat, solid charcoal-grey that bleeds off the right edge of the composition. At the upper left, the words \"Busan Film Festival\" appear in a large, bold white font. To the right of the title, a secondary line of text \"International Film Festival\" is set in a smaller, white font. At the bottom center, a small block of text reads \"Presented by the Busan International Film Festival\" in a tiny, precise white font. The entire layout is asymmetrical, leaving a vast amount of white space to the right of the central text block. \"Busan Film Festival\" in large, bold, white, sans-serif type at the top; \"International Film Festival\" in small, white, sans-serif type below the main title; \"Presented by the Busan International Film Festival\" in tiny, white, sans-serif type at the bottom. The lighting is non-existent, as the scene relies entirely on high-contrast, flat color blocking. There are no shadows, only the sharp transition between black, white, and signal red. The light is even and clinical, reflecting nothing but the hard edges of the geometric shapes. The composition is strictly aligned to a grid, with all text blocks placed according to a rigid, rational system. The viewpoint is a direct, head-on perspective, devoid of any camera movement or depth. The work conveys a sense of cold, international, and highly organized order through its extreme simplicity. Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+ },
+ {
+  "i": 35,
+  "code": "swiss-international-style",
+  "seed": 7,
+  "prompt": "A poster for the Busan film festival",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "35_swiss-international-style_s7_00001_.png",
+  "final_prompt": "A Swiss International Style poster with a strict grid, flush-left sans-serif type, generous white space and bold geometric order. A poster for the Busan film festival, designed with a strict modular grid and a sense of rational clarity. The poster features a central, large, bold headline reading \"BUSAN FILM FESTIVAL\" in a clean, heavy sans-serif typeface. Below the title, a smaller tagline reads \"OPENING NIGHT\" in a precise, thin sans-serif font. The layout follows a rigid, asymmetrical balance, leaving vast amounts of white space to the left and right. A single, sharp geometric red bar cuts through the center, acting as a structural element against the void. At the top, the words \"BUSAN FILM FESTIVAL\" appear in a large, bold, black neo-grotesque sans-serif. Below this, a smaller line of text reads \"OPENING NIGHT\" in a smaller, precise, black font. At the bottom, a secondary line of text reads \"THE INTERNATIONAL FILM FESTIVAL\" in a tiny, precise, black font. To the left, a thin, signal red vertical rule divides the page. To the right, a clean white margin provides a sense of empty, structured space. The entire composition is framed within a single, clean rectangle that sits off-center. The lighting is even and flat, characteristic of a high-contrast graphic layout. There are no shadows, only a stark, clinical arrangement of black and white tones. The colors are limited to black, white, and a single, saturated signal red accent. The composition uses a strict modular grid, where all text blocks and graphic elements are aligned to specific columns. The viewpoint is a direct, frontal, eye-level perspective that emphasizes the geometric order of the design. The overall effect is one of objective, dynamic order and high-fashion minimalism. Strict grid, flush-left sans-serif type, flat limited colour, asymmetric balance."
+ },
+ {
+  "i": 36,
+  "code": "art-deco-travel-poster",
+  "seed": 42,
+  "prompt": "A travel poster for the Orient Express to Istanbul",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "36_art-deco-travel-poster_s42_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster for the Orient Express to Istanbul, rendered in a bold, streamlined Art Deco style. A sleek, silver-toned steam train, shaped like a streamlined cylinder, glides through a shimmering, golden haze. The metal surface of the train's head and bow reflects a deep amber light, its edges sharp and geometric. Inside the carriages, a single figure in a dark charcoal suit stands with a poised, forward-leaning posture, hands resting lightly on the armrest. The suit is made of a heavy, matte black wool that catches the light with a subtle sheen. A single hand, with manicured pale pink nails, reaches toward the window, fingers curled in a gesture of anticipation. At the upper left, the sky is a gradient of deep navy and midnight blue, suggesting a vast, empty horizon. At the right edge, a series of stylized, sharp curves representing a mountain range appear in muted ochre. Behind the subject, the background dissolves into a soft, cream-colored mist, suggesting a distant, misty cityscape. At the bottom, a series of repeating, geometric patterns in gold and deep navy fill the frame. At the center, the title \"Orient Express\" is set in a tall, elegant, geometric sans-serif, widely spaced in a band of luminous gold. Below it, the sub-title \"to Istanbul\" is printed in a much smaller, matching font. The entire layout is framed by thick, black borders that give a sense of monumental scale. The lighting is a dramatic, directional source from the upper right, casting long, hard-edged shadows across the silver metal. A soft, warm glow catches the edges of the train's silhouette, creating a rim-light effect. The light is flat and airbrushed, emphasizing the smooth, geometric forms of the design. The viewpoint is low and slightly angled, looking up at the train to create a sense of speed and grandeur. The focus is sharply fixed on the train's silhouette, while the surrounding mist is rendered with a soft, painterly blur. The work projects an atmosphere of glamorous, optimistic, and modern travel. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ },
+ {
+  "i": 37,
+  "code": "art-deco-travel-poster",
+  "seed": 7,
+  "prompt": "A travel poster for the Orient Express to Istanbul",
+  "aspect": "2:3",
+  "size": [
+   832,
+   1248
+  ],
+  "image": "37_art-deco-travel-poster_s7_00001_.png",
+  "final_prompt": "An Art Deco travel poster, sleek simplified geometry in smooth airbrushed gradients, tall elegant lettering. A travel poster for the Orient Express to Istanbul, rendered in a sleek, geometric Art Deco style. The poster features the silhouette of a luxurious Orient Express train, its polished mahogany wood and gold filigree rendered in sharp, crisp-edged lines. The train's headrests and windows are stylized as streamlined curves of deep amber and charcoal. A single figure, a man in a dark charcoal suit, sits upright, his hands resting lightly upon the smooth, cream-colored lacquer of a side table. His expression is one of calm, anticipatory expectation, eyes looking toward the horizon beyond the glass. The train's chassis is a collection of bold, vertical lines in midnight blue and gold, suggesting a sense of speed and motion. At the upper left, a vast expanse of deep navy sky meets a thin, cream-colored horizon line. At the upper right, a stylized, geometric sun in warm terracotta glares against a midnight blue background. At the bottom, a series of repeating, elegant, gold-leafed patterns in a streamlined style repeat across the lower edge. Behind the subject, the landscape is a series of simplified, sweeping curves in muted olive and pale cream. At the bottom center, the words \"Orient Express\" are set in a tall, elegant, geometric sans-serif, widely spaced in a band of gold. Below that, in a much smaller, equally elegant sans-serif, \"Istanbul\" is placed. In the lower right corner, a small, secondary line of text reads \"The ultimate journey of luxury\" in a tiny, clean font. The lighting is dramatic and high-contrast, casting long, sharp shadows across the gold-leafed edges. A warm, amber-toned light hits the side of the train, creating a luminous, flat gradient against the deep navy shadows. The reflections on the polished wood are hard-edged and perfectly symmetrical. The composition uses a strong, dramatic perspective that emphasizes the upward tilt of the train. The viewpoint is low, looking up at the silhouette to grant it a monumental, forward-leaning presence. The overall effect is one of glamorous, optimistic, and grand modernity. Streamlined geometry, smooth airbrushed gradients, gold and midnight blue, tall spaced lettering, glamorous and grand."
+ },
+ {
+  "i": 38,
+  "code": "japanese-modernist-geometric",
+  "seed": 42,
+  "prompt": "A poster for a jazz night in Berlin",
+  "aspect": "3:4",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "38_japanese-modernist-geometric_s42_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a jazz night in Berlin, presented as a graphic design of flat geometric shapes and bold, minimalist typography. The poster features a large, overlapping circle of deep indigo representing a shadow over a city, partially obscured by a sharp, pale cream arc. A small, stylized silhouette of a human face, rendered in warm terracotta, sits behind a series of clean, straight lines. The background consists of a vast, empty space of charcoal grey, providing a heavy, silent foundation. At the upper left, a series of thin, vertical lines in muted olive create a sense of rhythmic movement. At the lower right, a single, perfect circle in vermilion rests against the charcoal grey edge. Behind the central subject, a collection of abstract, simplified buildings in pale pink and jade green are arranged in a way that mimics a skyline without detail. At the bottom, a row of small, white squares represents a collection of empty seats in a hall. \"JAZZ NIGHT IN BERLIN\" in a large, bold, black sans-serif typeface, centered at the top. \"SUNDAY, OCTOBER 15\" in a much smaller, white sans-serif typeface, placed directly underneath the main title. \"THE VENUE IS OPEN\" in a tiny, light grey sans-serif typeface, placed at the very bottom edge. \"STAY IN THE VOID\" in a small, white sans-serif typeface, placed near the bottom corner. The lighting is non-existent, replaced by the stark contrast between the deep indigo and the pale cream. The colors do not cast light, but rather exist as solid, unmoving planes. No shadows are visible, only the sharp, clean edges where one color meets another. The composition is strictly centered, using a formal, symmetrical layout typical of modernist design. The viewer's eye is drawn directly to the void created by the overlapping geometric forms. The overall effect is one of quiet, poised anticipation for a midnight performance. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ },
+ {
+  "i": 39,
+  "code": "japanese-modernist-geometric",
+  "seed": 7,
+  "prompt": "A poster for a jazz night in Berlin",
+  "aspect": "3:4",
+  "size": [
+   1024,
+   1024
+  ],
+  "image": "39_japanese-modernist-geometric_s7_00001_.png",
+  "final_prompt": "A Japanese modernist graphic design of flat geometric shapes in harmonious colours with wide empty space. A poster for a jazz night in Berlin, rendered as a modernist graphic design. The poster features a large, bold title reading \"JAZZ NIGHT\" in a clean, black sans-serif typeface. Below the title, the words \"IN BERLIN\" appear in a smaller, white font. A subtle, stylized silhouette of a saxophone, rendered in a deep charcoal, sits behind the text. The entire layout is composed of a series of overlapping, geometric arcs in shades of warm ochre and pale cream. At the upper left, a series of vertical charcoal lines create a rhythmic pattern. At the right, a series of circular arcs in muted indigo overlap to form a background pattern. In the lower third, a small block of text reads \"SUNDAY EVENING\" in a tiny, pale pink font. Behind the central text, a large, simplified abstract face, composed of smooth, flat shapes in vermilion and jade, is visible. At the bottom edge, a thin, horizontal line of pale cream separates the text from the bottom margin. \"JAZZ NIGHT\" in a large, black, sans-serif font at the center; \"IN BERLIN\" in a small, white, sans-serif font directly below it; \"SUNDAY EVENING\" in a tiny, pale pink, sans-serif font at the bottom center. The lighting is non-existent, as the piece is flat-printed onto a smooth paper surface. No shadows or highlights are present, only the hard edges of the printed ink. The composition uses a strict, centered layout with wide, empty spaces to maintain balance. The viewpoint is a direct, eye-level perspective looking at the flat graphic. The work carries a sense of quiet, poised elegance through its minimalist abstraction. Flat geometric shapes, vermilion and indigo, calm balance, precise mixed lettering, refined and quiet."
+ }
+]

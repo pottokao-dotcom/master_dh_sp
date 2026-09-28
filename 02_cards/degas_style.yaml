@@ -1,0 +1,27 @@
+code: degas_style
+label_zh: "竇加粉彩舞台 (degas_style)"
+medium: painting
+aspect: '4:3'
+palette: colour
+look_paragraph: >
+  A pastel drawing in the style of Degas, the chalky pigment laid in visible hatched strokes
+  over toned paper. Colour is soft yet vivid — powdery pinks, turquoise, peach, lime — lit by
+  artificial stage or interior light from below or the side. The viewpoint is unusual and
+  off-centre: seen from above, from the wings, cropped abruptly at the edge as in a snapshot.
+  Figures are caught between poses, stretching, adjusting, resting. Edges stay soft and smudged
+  in places, crisp in others. Intimate, observed and quietly modern.
+signature_lead: "A pastel drawing in the style of Degas, powdery hatched colour on toned paper, an off-centre snapshot view."
+signature_close: "Powdery hatched pastel, stage light from below, an abrupt off-centre crop, a quietly observed moment."
+mood:
+  default: medium
+  weak: "a soft, observed quiet"
+  medium: "an intimate, off-guard moment in powdery light"
+  strong: "a restless, modern snapshot of bodies at work"
+framing:
+  native: neutral
+  close: "a closer painted study, the marks large and visible"
+  wide: "a wider scene with room around the subject"
+habitual_subjects: >
+  ballet dancers in rehearsal and backstage, women bathing, milliners, laundresses, racehorses
+  and jockeys, café interiors
+negative: "photograph, oil painting, smooth blending, centred symmetrical composition, glossy, digital painting, anime"

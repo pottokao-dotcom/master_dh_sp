@@ -1,0 +1,26 @@
+code: psychedelic-60s-poster
+label_zh: "六零年代迷幻海報 (Psychedelic)"
+medium: design
+aspect: '2:3'
+palette: colour
+look_paragraph: >
+  A 1960s psychedelic concert poster: swirling, melting hand-drawn lettering fills much of the
+  page, the letters stretched and warped until they flow like liquid into the picture. Colours
+  vibrate against each other — electric orange against violet, acid green against magenta — in
+  flat printed areas with dense ornamental patterns. The picture is surrounded and invaded by
+  the swirling ornament, its edges dissolving into curls and waves. Borders are thick and
+  decorative, and the whole sheet feels hand-inked and printed in a few flat passes. Hypnotic,
+  intense and ornate.
+picture_paragraph: "The picture is a stylised hand-drawn illustration whose figures and forms dissolve into curls, waves and vibrating flat colour."
+page_paragraph: "The page is a 1960s psychedelic concert poster: swirling, melting hand-drawn lettering fills much of the page, its letters stretched and warped like liquid, in vibrating flat colours — electric orange against violet, acid green against magenta. Thick decorative borders of dense ornament, curls and waves surround the picture and press up to its edge. The picture sits in the middle of the ornament, reproduced as it is. The sheet feels hand-inked and printed in a few flat passes."   # v4.1 複合專用:設計師第二棒,只管頁面,不重畫圖
+school_en: "1960s psychedelic"   # v4.1 B 組:「接下來你成為 1960s psychedelic 平面設計師」
+signature_lead: "A 1960s psychedelic concert poster, swirling melting lettering and vibrating complementary colours."
+signature_close: "Liquid warped lettering, vibrating orange and violet, dense ornament, hypnotic and intense."
+mood:
+  default: medium
+framing:
+  native: neutral
+habitual_subjects: >
+  rock concert posters, ballroom dances, flower-crowned figures, peacock feathers, eyes and
+  spirals
+negative: "photorealistic snapshot, cluttered layout, generic stock design, 3D render, drop shadows, misspelled text"
