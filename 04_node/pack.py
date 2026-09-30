@@ -60,6 +60,6 @@ readme += ["## Showcase", "",
            "(aha2023/JoyAI-Image-Edit-ComfyUI-NVfp4). Rows with a `+` pair a photography style with a layout style. All showcase images are AI-generated; each DiT has its own model license (Ideogram 4 and FLUX.2 klein 9B are non-commercial) and the images are used under their Outputs terms.", "",
            make_showcase.build(str(D / "showcase"), "showcase/"), ""]
 (D / "README.md").write_text("\n".join(readme), encoding="utf-8")
-if (R / "release" / "essentials-v1.json").exists():  # 版本對照(卡/SP sha、配對的 LoRA 與草稿頭、節點版本)跟著出貨
-    shutil.copy(R / "release" / "essentials-v1.json", D / "MANIFEST.json")
+if (R / "release" / "essentials-v1.1.json").exists():  # 版本對照(卡/SP sha、配對的 LoRA 與草稿頭、節點版本)跟著出貨
+    shutil.copy(R / "release" / "essentials-v1.1.json", D / "MANIFEST.json")
 print(D, sum(1 for _ in D.rglob("*") if _.is_file()), "files,", len(SHIP), "cards shipped")

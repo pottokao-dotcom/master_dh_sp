@@ -1,0 +1,69 @@
+{
+ "edition": "Master Style Essentials",
+ "edition_zh": "大師精選",
+ "release": "essentials-v1.1",
+ "date": "2026-09-30",
+ "master_dh_sp_commit": "(see git tag essentials-v1.1)",
+ "cards": {
+  "pe-default": "311aa2a51941ea9d70982b01ab11d34189462b65a239687fb36a2616553357bc",
+  "bw-geometric-street-candid": "3209856d6d78571e8b5d769159580fd15f52d655b04a181f2e6151df4d885f2f",
+  "rainy-window-abstract-portrait": "504dc8f1e407400d552dc470f963e97cab16736c0c613ec54cb790c38b4dafc9",
+  "refined-minimalist-studio-portrait": "df1ec6e645675ab458ed6eb4fc212dd85b196438a5799919ef9774a0048fa486",
+  "saturated-banal-monumental": "6ad6044d2d50522927c03ceb9f596c70a0ff97ad80ca73489a316fb78b4ba6cf",
+  "bw-dramatic-chiaroscuro": "cc6dfe7b4a1a9ff4c245b711c0fc0d2eee03de60a5f9a78799a2b96a11384365",
+  "surreal-staged-monochrome": "1f986209768549aeb0adf69691cc4c1e3e5f6ad2e021b40896fa086fa29811e6",
+  "bw-ink-wash-landscape": "3bf0bf8df2a964969966c546ba9cbf0eea809ff6d96c1f72930b60e38b9988a4",
+  "vintage-bw-elegant-candid": "b5f9c7e84d5dfb78ad5fe8af06e28f14b7dab82233cb2c5d3244228580aeac41",
+  "hyper-saturated-cinematic-unease": "2991653c869262a4fe1ab9eb603537c44e3c763ef590aec58d0de3c5c34ee1fa",
+  "raw-bw-cinematic-portraits": "d1cba983bc5de2fd8b1b71926a918556801f0c7c6da537512006bef0d657c35c",
+  "high-gloss-noir-glamour": "cd5eaf782ce38707719b09b20a71bff72a027cb8e6308799d5f6f418bb784932",
+  "minimalist-color-landscapes": "4e6f1b6ab6b7e910e3339d023110bd292ac1b8276c5abfec7f7b62d5ed65a18a",
+  "soft-warm-nostalgic": "ba6802883992c04c00d5c846388e9cb59adb05c827c763d5f868749db124b10c",
+  "van_gogh_style": "23dac59b1947b050f4df9372b6b79426ca2bc75f7944549c572c43f5c98500a9",
+  "monet_style": "93822b9ff36c7ababb75c1cd6c6ee3865cc68bc3112325ca3ec7f2b4ea3ac4fe",
+  "hokusai_style": "0fdd3788c4f7f64271305e6977a34138750394df2875240ce412ae7770fc0ae7",
+  "swiss-international-style": "f8b26fbf3cdb3b7382ba62625905b9b85b098a146f96b8994c4e2d2c3703ed41",
+  "art-deco-travel-poster": "b8fb15de1189401e47e4a42cfe0174dbb55baf108c6e2d227b6c3fb12a2a829f",
+  "japanese-modernist-geometric": "401626cad8a6e7674ff5a8f82c3d1fe3d5aa71844f8fe4946f6b433c961740dc"
+ },
+ "system_prompts_and_code": {
+  "01_system/pe_master_roleplay_short.txt": "cd8b8a9cc7991a3b4e340cfc681a895d551dbebae0e847aac8441f6e777d2510",
+  "01_system/pe_master_roleplay_long.txt": "9d1546b22c45a6c6fea54da78b9f83aa917601dd814a18b46143cea6165f9a90",
+  "01_system/pe_master_roleplay_short.multi.txt": "676d08b9fe3130e913c46433c4974fbca92344878d6f730e99967317dc5ceb55",
+  "01_system/pe_master_roleplay_long.multi.txt": "6eee7559ff26f109d0c797cdab9b61ff2c11fadffec83e4405ddba4349c62052",
+  "01_system/pe_master_roleplay_short.design.txt": "f690e17f10972b25c5327c8825567d09d97381f3cb0c73ed3fa6e5e2f823dbc5",
+  "01_system/pe_master_roleplay_long.design.txt": "116755c5b0f2900459771964764dae3e48bdb19c042223cd718ebd3b2a4cc768",
+  "01_system/pe_master_roleplay_short.design_nar.txt": "7bd6a69e5bcdf7a8e006e1e33c9dafcb8310dc149cb7ec2ca50ac2574c36bdcb",
+  "01_system/pe_master_roleplay_long.design_nar.txt": "ede53b99ad320725535b9e2a49f1c2e8429057bdb118c2a5335afe25816e0a7a",
+  "01_system/pe_master_long.txt": "3c4ee8f31d6a894ad0874aff81f9c346b5e693ab490f9c900dff706f5f263358",
+  "01_system/pe_master_short.txt": "e94c81c8fd98ede126608f27c75b1b7542633df906da4e6147142c77add68ed8",
+  "01_system/style_tags.json": "0a66be61a653fcc86578c416966343eb4d0316d11346213c69d3573e7df7084e",
+  "03_engines/engines.yaml": "b9f982c112553a9fccd39b2de81f14ebcfd314d2dff500adce895eeb1a398f70",
+  "04_node/master_style.py": "0cd7b10ec138fe69139f5c622581bba20de7a1b03d31b23669ff4f05cdc466f9"
+ },
+ "matches_training_freeze": {
+  "tag": "v4.1c-freeze",
+  "cards_and_sp": "all 20 cards and every SP / engines file bit-identical to freeze_v41.sha256, except pe-default.yaml and style_tags.json, which differ only in the display label / comments / source line (not in any prompt)",
+  "master_style.py": "differs only in dropping the automatic 'nude, naked, topless' negative (commit 865ca35); system / user / aspect / finalize identical to v4.1c-freeze on 20 cards x 4 tasks x 2 formats (160/160)"
+ },
+ "rewrite_lora": {
+  "name": "zeng-v6_master-pe_lora_v4.1-r32-ep2_20260928-ck1212",
+  "adapter_model.safetensors": "b383be71fe68acfc1949ec3d0e1eb3c97a4050a38c78df32904a903f4fd6df6f",
+  "base": "Z-Image-Engineer-V6 (BennyDaBall/Z-Image-Engineer-V6 @ 7450bb18)",
+  "f16.gguf": "0fe216fc6c0ec03c245ce645d1900e2d64951a31b83b2e26b8463f626d3891de",
+  "hf": "pottokao/zeng-v6_master-pe_lora_v4.1-r32-ep2_20260928 (private), checkpoint-1212/",
+  "note": "the benchmarks used a blackhole conversion (sha 17bc8e…) with the same 504 tensors (types and data identical); only general.name / basename / version metadata differ"
+ },
+ "dflash_draft": {
+  "name": "zeng-v6_master-pe_dflash-b16_run1-Q6_K",
+  "sha256": "251ffb5b431f3eb3af7a02721e5f544365ceebb39ca1a82ba9019b5a688072c2",
+  "hf": "pottokao/Z-Image-Engineer-V6-DFlash-b16 (private)",
+  "trained_on": "V6 + v4 LoRA outputs (not re-trained for v4.1)"
+ },
+ "dual_head_node": {
+  "repo": "ComfyUI-DualHeadDragon",
+  "commit": "f47e3fcc6139c1ec7186ecfc206a996330df298b",
+  "tag": "dh-dflash-v2"
+ },
+ "changes_from_essentials-v1": "Default card renamed: label_zh 'PE T2I 預設（無風格）' -> '大師系統預設（無風格）' (card and style_tags.json); the card's 'source:' line and header comment rewritten (its wording is original, it only borrows the idea of the rules). Nothing that reaches a prompt changed: tools/prompt_parity.py, 89 cards x 3 engines (+ composite) = 456 builds, 0 differences against essentials-v1; LoRA tags (master_styleNN) and codes unchanged, so the paired LoRA and draft stay the same."
+}
