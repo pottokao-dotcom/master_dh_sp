@@ -7,7 +7,7 @@ E = os.path.expanduser("~/master_dh_sp/examples/"); O = os.path.expanduser("~/Co
 DITS = [("zbt", "Z-Image base+turbo", ["v5_zbt", "v5b_zbt"]), ("klein", "FLUX.2 klein 4B", ["v5_klein", "v5b_klein"]),
         ("klein9", "FLUX.2 klein 9B", ["v5_klein9"]), ("qi21", "Qwen-Image 2.1", ["v5_qi21", "v5b_qi21"]),
         ("ideo4", "Ideogram 4", ["v5_ideo4_s42", "v5_ideo4_s7"]), ("boogu", "Boogu-Image Turbo", ["v5_boogu_s42", "v5_boogu_s7"]),
-        ("joy", "JoyAI-Image-Edit Plus", ["v5_joy_s42", "v5_joy_s7"])]
+        ("joy", "JoyAI-Image-Edit Plus", ["v5_joy_s42", "v5_joy_s7"]), ("flux3", "FLUX.3 Klein", ["v5_flux3_s42", "v5_flux3_s7"])]
 idx = json.load(open(E + "v5_zbt_all_index.json"))
 picks = {p["no"]: p["seed"] for p in json.load(open(E + "v5_picks.json"))["picks"]}
 zh = {}
@@ -23,7 +23,7 @@ for key, _, tags in DITS:
                 im = Image.open(O + t + "/" + r["image"]).convert("RGB"); im.save(W + "img/" + b + ".jpg", quality=90)
                 im.thumbnail((400, 400)); im.save(W + "img/" + b + "_t.jpg", quality=80)
             cells.setdefault((r["code"], r["prompt"]), {}).setdefault(key, {})[r["seed"]] = (b, r.get("final_prompt", ""))
-NOTE = ("擴寫:雙頭龍 + 大師 LoRA v4.1(4B:V6 dhq 2.9G + DFlash Q6;QI2.1:8B heretic dhq Q4_K_M,無草稿頭)· "
+NOTE = ("擴寫:雙頭龍 + 大師 LoRA v4.1(4B:V6 dhq 2.9G + DFlash Q6;QI2.1:8B heretic dhq Q4_K_M,無草稿頭)· FLUX.3 Klein:混血 SP(9 月原版+Klein 段)+ V6 LoRA v4.1 + DFlash2,擴寫=Klein 自己的 4B heretic DHQ,TE 原生 BF16,NVFP4 15 步 · "
         "klein 9B 沿用 klein 4B 的擴寫,TE Qwen3-8B fp8mixed,DiT bf16 載入轉 fp8(產線是 nvfp4)· Ideogram 4 / Boogu:雙頭龍新產品,各自 8B heretic DHQ Q4_K_M 兼擴寫+TE · JoyAI:JoyAI-Image-Und 標準 Q4_K_M 兼擴寫+TE,DiT 社群 nvfp4(aha2023)· 後三者只跑精選· 點圖看原尺寸 ·「擴寫」看送進 DiT 的 prompt")
 def page(title, only, size):
     rows = []

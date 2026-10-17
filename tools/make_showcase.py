@@ -8,7 +8,7 @@ E = os.path.expanduser("~/master_dh_sp/examples/"); O = os.path.expanduser("~/Co
 DITS = [("zbt", "Z-Image<br>base+turbo", ["v5_zbt", "v5b_zbt"]), ("klein", "FLUX.2<br>klein 4B", ["v5_klein", "v5b_klein"]),
         ("klein9", "FLUX.2<br>klein 9B", ["v5_klein9"]), ("qi21", "Qwen-Image<br>2.1", ["v5_qi21", "v5b_qi21"]),
         ("ideo4", "Ideogram 4", ["v5_ideo4_s42", "v5_ideo4_s7"]), ("boogu", "Boogu-Image<br>Turbo", ["v5_boogu_s42", "v5_boogu_s7"]),
-        ("joy", "JoyAI-Image<br>Edit Plus", ["v5_joy_s42", "v5_joy_s7"])]
+        ("joy", "JoyAI-Image<br>Edit Plus", ["v5_joy_s42", "v5_joy_s7"]), ("flux3", "FLUX.3<br>Klein", ["v5_flux3_s42", "v5_flux3_s7"])]
 
 
 def build(out_dir, prefix, lang="en", width=150):

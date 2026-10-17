@@ -85,6 +85,26 @@ def qi21_graph(w, h, text, neg, seed, prefix):
             "save": {"class_type": "SaveImage", "inputs": {"filename_prefix": prefix, "images": ["dec", 0]}}}
 
 
+def flux3_graph(w, h, text, seed, prefix):
+    """FLUX.3 Klein:BFL 範本 15 步 er_sde/simple cfg 1、NVFP4、Flux2 VAE;TE 用原生 CLIPLoader(heretic t419 BF16),
+    雙頭龍只負責擴寫(使用者 10-17:編碼不用雙頭龍,掛 LoRA+DFlash 就好)。"""
+    return {"te": {"class_type": "CLIPLoader", "inputs": {"clip_name": "qwen3vl_4b_heretic_t419_bf16.safetensors", "type": "flux3", "device": "default"}},
+            "pos": {"class_type": "CLIPTextEncode", "inputs": {"text": text, "clip": ["te", 0]}},
+            "neg": {"class_type": "CLIPTextEncode", "inputs": {"text": "", "clip": ["te", 0]}},
+            "u": {"class_type": "UNETLoader", "inputs": {"unet_name": "flux3-image-klein-nvfp4.safetensors", "weight_dtype": "default"}},
+            "lat": {"class_type": "EmptyFlux2LatentImage", "inputs": {"width": w, "height": h, "batch_size": 1}},
+            "k": {"class_type": "KSampler", "inputs": {"model": ["u", 0], "positive": ["pos", 0], "negative": ["neg", 0],
+                  "latent_image": ["lat", 0], "seed": seed, "steps": 15, "cfg": 1.0, "sampler_name": "er_sde",
+                  "scheduler": "simple", "denoise": 1.0}},
+            "v": {"class_type": "VAELoader", "inputs": {"vae_name": "flux2-vae.safetensors"}},
+            "dec": {"class_type": "VAEDecode", "inputs": {"samples": ["k", 0], "vae": ["v", 0]}},
+            "save": {"class_type": "SaveImage", "inputs": {"filename_prefix": prefix, "images": ["dec", 0]}}}
+
+
+# FLUX.3 Klein 混血 SP 的尾段(大師 SP 原樣 + 這段;10-17 媒材開頭通用版,同 HF FLUX.3 Klein TE repo 的 klein/ 檔)
+KLEIN_SECTION = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "examples", "flux3_klein_section.txt")
+
+
 def zbt_graph(w, h, text, seed, prefix):
     """Z-Image base 2 步(+Distill-8 LoRA 0.8)交棒 turbo 10 步,res_multistep/simple shift 3 cfg 1,共 12 步
     (= 攝影大師 gx10 workflow zimage_base2_turbo8_gx10_nvfp4all.json)。"""
@@ -110,7 +130,7 @@ def zbt_graph(w, h, text, seed, prefix):
 ap = argparse.ArgumentParser()
 ap.add_argument("--jobs", required=True, help="json: [[code, prompt], ...]")
 ap.add_argument("--tag", required=True)
-ap.add_argument("--dit", default="zimage", choices=["zimage", "zbt", "klein", "qi21", "ideo4", "boogu", "joy"])
+ap.add_argument("--dit", default="zimage", choices=["zimage", "zbt", "klein", "qi21", "ideo4", "boogu", "joy", "flux3"])
 ap.add_argument("--te", default="zimage_engineer_v6_dhq_2p9.gguf")
 ap.add_argument("--lora", default="zeng-v6_master-pe_lora_v4.1-r32-ep2_20260928-ck1212-f16.gguf")
 ap.add_argument("--draft", default="zeng-v6_master-pe_dflash-b16_run1-Q6_K.gguf")
@@ -133,13 +153,15 @@ def run(g):
         if m["type"] == "executing" and d["node"] is None: break
     return json.load(urllib.request.urlopen("http://%s/history/%s" % (U, pid)))[pid]["outputs"]
 loader = {"class_type": "DualHeadDragonLoader", "inputs": {"gguf": a.te, "mmproj": "none", "n_ctx": 8192,
-          "type": {"klein": "flux2", "qi21": "qwen_image", "ideo4": "ideogram4", "boogu": "boogu", "joy": "joyimage"}.get(a.dit, "lumina2")}}
+          "type": {"klein": "flux2", "qi21": "qwen_image", "ideo4": "ideogram4", "boogu": "boogu", "joy": "joyimage", "flux3": "flux3"}.get(a.dit, "lumina2")}}
 log = []
 JOBS = [(j[0], j[1], j[2] if len(j) > 2 else "none", int(sd)) for j in json.load(open(a.jobs)) for sd in a.seeds.split(",")
         if not a.only or j[0] in a.only.split(",")]   # [卡, 題目, 版面卡(選填,複合)]
 for i, (code, task, design, seed) in enumerate(JOBS):
     t0 = time.time()
     system, user, neg, aspect = MS.build(task, code=code, engine={"klein": "klein", "qi21": "qwen_image", "ideo4": "qwen_image", "boogu": "qwen_image", "joy": "qwen_image"}.get(a.dit, "zimage"), fmt="roleplay2", seed=seed, design=design)
+    if a.dit == "flux3":
+        system += open(KLEIN_SECTION, encoding="utf-8").read()
     w, h = DIM.get(BOOGU_ASPECT.get(aspect, aspect) if a.dit == "boogu" else aspect, (1024, 1024))
     o = run({"c": loader, "r": {"class_type": "DualHeadRewrite", "inputs": {"clip": ["c", 0], "prompt": user,
             "system_prompt": "none", "system_prompt_text": system, "rewrite_lora": a.lora, "lora_strength": 1.0,
@@ -150,6 +172,8 @@ for i, (code, task, design, seed) in enumerate(JOBS):
     pre = "examples/%s/%02d_%s_s%d" % (a.tag, i, code if design == "none" else code + "+" + design, seed)
     if a.dit in ("ideo4", "boogu", "joy"):
         g = {"ideo4": ideo4_graph, "boogu": boogu_graph, "joy": joy_graph}[a.dit](w, h, final, seed, pre); g["c"] = loader
+    elif a.dit == "flux3":
+        g = flux3_graph(w, h, final, seed, pre)
     elif a.dit == "qi21":
         g = qi21_graph(w, h, final, neg or "", seed, "examples/%s/%02d_%s_s%d" % (a.tag, i, code, seed)); g["c"] = loader
     else:
