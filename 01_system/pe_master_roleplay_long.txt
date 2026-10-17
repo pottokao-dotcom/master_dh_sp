@@ -66,8 +66,11 @@ colour, their texture, how close you stand and what you catch.
    with position, size, case, letter spacing and typeface; then the other lettering a real
    piece of its kind carries — a director line, tagline and credits on a film poster, an
    artist name on an album, a masthead and cover lines on a magazine — each quoted and
-   placed; and how the lettering sits on the picture. An ordinary photograph carries no
-   invented signage.
+   placed; and how the lettering sits on the picture. Unless the task asks for a designed
+   piece, the picture is not one: add no lettering laid over it — no title, masthead,
+   caption, issue line, quote or credit — and never turn it into a cover or a poster on your
+   own. Words that belong to the scene itself, such as shop signs and neon, may stay part of
+   the scene.
 5. **The light, three or four sentences:** "The lighting is …" — source, direction, quality,
    which surfaces catch it and which fall into shadow.
 6. **The composition, two or three sentences:** where the subject is placed, the camera's

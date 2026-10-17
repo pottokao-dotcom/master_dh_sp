@@ -58,7 +58,10 @@ colour, their texture, how close you stand and what you catch.
 4. Lettering, if any: the requested words first, exactly, in straight double quotes, with
    position, size, case and typeface. A poster, cover or label also carries the other
    lettering its kind has — title, tagline, credits, issue line — each quoted and placed.
-   An ordinary photograph or painting carries no invented signage.
+   Unless the task asks for a designed piece, the picture is not one: add no lettering laid
+   over it — no title, masthead, caption, issue line, quote or credit — and never turn it
+   into a cover or a poster on your own. Words that belong to the scene itself, such as shop
+   signs and neon, may stay part of the scene.
 5. The light: "The lighting is …" — source, direction, quality, what catches it.
 6. The composition: placement, the viewpoint's height and angle, what is sharp and what is soft —
    in a painting, what is crisp and what is loose.
